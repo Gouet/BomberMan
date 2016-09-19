@@ -1,0 +1,21 @@
+<map id="irr::CIrrDeviceStub" name="irr::CIrrDeviceStub">
+<area shape="rect" id="node2" href="$classirr_1_1_irrlicht_device.html" title="The Irrlicht device. You can create it with createDevice() or createDeviceEx(). " alt="" coords="434,31,553,58"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,308,160,335"/>
+<area shape="rect" id="node8" href="$classirr_1_1video_1_1_i_video_mode_list.html" title="A list of all available video modes. " alt="" coords="211,86,381,112"/>
+<area shape="rect" id="node9" href="$classirr_1_1_i_randomizer.html" title="Interface for generating random numbers. " alt="" coords="436,136,551,163"/>
+<area shape="rect" id="node11" href="$classirr_1_1_i_logger.html" title="Interface for logging messages, warnings and errors. " alt="" coords="254,198,338,224"/>
+<area shape="rect" id="node12" href="$classirr_1_1_i_o_s_operator.html" title="The Operating system operator provides operation system specific methods and informations. " alt="" coords="436,250,551,276"/>
+<area shape="rect" id="node13" href="$classirr_1_1gui_1_1_i_cursor_control.html" title="Interface to manipulate the mouse cursor. " alt="" coords="418,308,569,335"/>
+<area shape="rect" id="node14" href="$classirr_1_1gui_1_1_i_g_u_i_environment.html" title="GUI Environment. Used as factory and manager of all other GUI elements. " alt="" coords="410,368,577,395"/>
+<area shape="rect" id="node15" href="$classirr_1_1io_1_1_i_file_system.html" title="The FileSystem manages files and archives and provides access to them. " alt="" coords="642,432,771,459"/>
+<area shape="rect" id="node18" href="$classirr_1_1scene_1_1_i_scene_manager.html" title="The Scene Manager manages scene nodes, mesh recources, cameras and all the other stuff. " alt="" coords="406,491,581,518"/>
+<area shape="rect" id="node19" href="$classirr_1_1video_1_1_i_video_driver.html" title="Interface to driver which is able to perform 2d and 3d graphics functions. " alt="" coords="631,560,783,587"/>
+<area shape="rect" id="node20" href="$classirr_1_1_i_timer.html" title="Interface for getting and manipulating the virtual time. " alt="" coords="257,587,335,614"/>
+<area shape="rect" id="node4" href="$structirr_1_1_s_irrlicht_creation_parameters.html" title="Structure for holding Irrlicht Device creation parameters. " alt="" coords="605,674,808,700"/>
+<area shape="rect" id="node5" href="$classirr_1_1core_1_1dimension2d.html" title="irr::core::dimension2d\l\&lt; u32 \&gt;" alt="" coords="223,640,369,681"/>
+<area shape="rect" id="node6" href="$classirr_1_1_i_event_receiver.html" title="Interface of an object which can receive events. " alt="" coords="231,720,361,747"/>
+<area shape="rect" id="node7" href="$classirr_1_1video_1_1_c_video_mode_list.html" title="irr::video::CVideoModeList" alt="" coords="619,80,795,107"/>
+<area shape="rect" id="node10" href="$classirr_1_1_c_logger.html" title="Class for logging messages, warnings and errors to stdout. " alt="" coords="661,194,752,220"/>
+<area shape="rect" id="node16" href="$structirr_1_1_c_irr_device_stub_1_1_s_mouse_multi_clicks.html" title="irr::CIrrDeviceStub\l::SMouseMultiClicks" alt="" coords="635,798,778,840"/>
+<area shape="rect" id="node17" href="$classirr_1_1core_1_1vector2d.html" title="irr::core::vector2d\l\&lt; s32 \&gt;" alt="" coords="234,798,358,840"/>
+</map>

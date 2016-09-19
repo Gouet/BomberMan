@@ -1,0 +1,17 @@
+<map id="irr::scene::CLWOMeshFileLoader::tLWOMaterial" name="irr::scene::CLWOMeshFileLoader::tLWOMaterial">
+<area shape="rect" id="node2" href="$structirr_1_1scene_1_1t_l_w_o_texture_info.html" title="irr::scene::tLWOTextureInfo" alt="" coords="915,126,1099,152"/>
+<area shape="rect" id="node3" href="$classirr_1_1core_1_1vector3d.html" title="irr::core::vector3d\l\&lt; f32 \&gt;" alt="" coords="635,168,759,209"/>
+<area shape="rect" id="node15" href="$classirr_1_1core_1_1aabbox3d.html" title="irr::core::aabbox3d\l\&lt; f32 \&gt;" alt="" coords="941,228,1072,269"/>
+<area shape="rect" id="node4" href="$classirr_1_1video_1_1_s_color.html" title="Class representing a 32 bit ARGB color. " alt="" coords="637,350,757,376"/>
+<area shape="rect" id="node9" href="$classirr_1_1video_1_1_s_material.html" title="Struct for holding parameters for a material renderer. " alt="" coords="939,395,1074,422"/>
+<area shape="rect" id="node5" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="625,16,769,43"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_mesh_buffer.html" title="Template implementation of the IMeshBuffer interface. " alt="" coords="1230,235,1423,262"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_i_mesh_buffer.html" title="Struct for holding a mesh with a single material. " alt="" coords="435,296,589,323"/>
+<area shape="rect" id="node8" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,319,160,346"/>
+<area shape="rect" id="node11" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="283,380,411,407"/>
+<area shape="rect" id="node10" href="$classirr_1_1video_1_1_s_material_layer.html" title="Struct for holding material parameters which exist per texture layer. " alt="" coords="614,411,781,438"/>
+<area shape="rect" id="node12" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="14,380,151,407"/>
+<area shape="rect" id="node13" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; T \&gt;" alt="" coords="939,344,1074,371"/>
+<area shape="rect" id="node14" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; u16 \&gt;" alt="" coords="933,176,1081,203"/>
+<area shape="rect" id="node16" href="$classirr_1_1video_1_1_s_colorf.html" title="Class representing a color with four floats. " alt="" coords="1265,286,1389,312"/>
+</map>

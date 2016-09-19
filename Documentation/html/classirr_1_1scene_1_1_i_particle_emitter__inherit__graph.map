@@ -1,0 +1,17 @@
+<map id="irr::scene::IParticleEmitter" name="irr::scene::IParticleEmitter">
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_c_particle_point_emitter.html" title="A default point emitter. " alt="" coords="671,5,839,46"/>
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_i_particle_animated_mesh_scene_node_emitter.html" title="A particle emitter which emits particles from mesh vertices. " alt="" coords="661,70,848,111"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_i_particle_box_emitter.html" title="A particle emitter which emits particles from a box shaped space. " alt="" coords="677,135,832,177"/>
+<area shape="rect" id="node9" href="$classirr_1_1scene_1_1_i_particle_cylinder_emitter.html" title="A particle emitter which emits from a cylindrically shaped space. " alt="" coords="665,201,845,242"/>
+<area shape="rect" id="node11" href="$classirr_1_1scene_1_1_i_particle_mesh_emitter.html" title="A particle emitter which emits from vertices of a mesh. " alt="" coords="673,266,837,307"/>
+<area shape="rect" id="node13" href="$classirr_1_1scene_1_1_i_particle_ring_emitter.html" title="A particle emitter which emits particles along a ring shaped area. " alt="" coords="675,331,834,373"/>
+<area shape="rect" id="node15" href="$classirr_1_1scene_1_1_i_particle_sphere_emitter.html" title="A particle emitter which emits from a spherical space. " alt="" coords="668,397,841,438"/>
+<area shape="rect" id="node2" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="209,201,389,242"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,208,160,235"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_particle_animated_mesh_scene_node_emitter.html" title="An animated mesh emitter. " alt="" coords="897,70,1090,111"/>
+<area shape="rect" id="node8" href="$classirr_1_1scene_1_1_c_particle_box_emitter.html" title="A default box emitter. " alt="" coords="913,135,1074,177"/>
+<area shape="rect" id="node10" href="$classirr_1_1scene_1_1_c_particle_cylinder_emitter.html" title="A default box emitter. " alt="" coords="900,201,1087,242"/>
+<area shape="rect" id="node12" href="$classirr_1_1scene_1_1_c_particle_mesh_emitter.html" title="A default box emitter. " alt="" coords="908,266,1079,307"/>
+<area shape="rect" id="node14" href="$classirr_1_1scene_1_1_c_particle_ring_emitter.html" title="A ring emitter. " alt="" coords="911,331,1076,373"/>
+<area shape="rect" id="node16" href="$classirr_1_1scene_1_1_c_particle_sphere_emitter.html" title="A default box emitter. " alt="" coords="904,397,1083,438"/>
+</map>

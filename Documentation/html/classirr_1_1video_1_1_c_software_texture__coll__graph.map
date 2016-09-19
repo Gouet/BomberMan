@@ -1,0 +1,5 @@
+<map id="irr::video::CSoftwareTexture" name="irr::video::CSoftwareTexture">
+<area shape="rect" id="node2" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="104,96,232,123"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,5,159,32"/>
+<area shape="rect" id="node4" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="185,5,321,32"/>
+</map>

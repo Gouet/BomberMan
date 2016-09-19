@@ -1,0 +1,6 @@
+<map id="irr::video::IVideoDriver" name="irr::video::IVideoDriver">
+<area shape="rect" id="node3" href="$classirr_1_1video_1_1_c_null_driver.html" title="irr::video::CNullDriver" alt="" coords="111,155,259,181"/>
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="108,5,261,32"/>
+<area shape="rect" id="node4" href="$classirr_1_1video_1_1_c_burning_video_driver.html" title="irr::video::CBurningVideo\lDriver" alt="" coords="5,230,171,271"/>
+<area shape="rect" id="node5" href="$classirr_1_1video_1_1_c_software_driver.html" title="irr::video::CSoftwareDriver" alt="" coords="195,237,372,264"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="/home/veyrie_f/Documents/cpp_indie_studio/Irrlicht/irrlicht&#45;1.8.3/source/Irrlicht/CQuake3ShaderSceneNode.h" name="/home/veyrie_f/Documents/cpp_indie_studio/Irrlicht/irrlicht&#45;1.8.3/source/Irrlicht/CQuake3ShaderSceneNode.h">
+<area shape="rect" id="node2" href="$_i_mesh_scene_node_8h.html" title="IMeshSceneNode.h" alt="" coords="1209,125,1346,152"/>
+<area shape="rect" id="node32" href="$_i_q3_shader_8h.html" title="IQ3Shader.h" alt="" coords="1884,125,1978,152"/>
+<area shape="rect" id="node34" href="$_i_file_system_8h.html" title="IFileSystem.h" alt="" coords="43,200,145,227"/>
+<area shape="rect" id="node40" href="$_s_mesh_buffer_8h.html" title="SMeshBuffer.h" alt="" coords="2190,125,2299,152"/>
+<area shape="rect" id="node42" href="$_s_mesh_buffer_light_map_8h.html" title="SMeshBufferLightMap.h" alt="" coords="2003,125,2166,152"/>
+<area shape="rect" id="node43" href="$_s_mesh_8h.html" title="SMesh.h" alt="" coords="1653,200,1726,227"/>
+<area shape="rect" id="node45" href="$_i_scene_manager_8h.html" title="ISceneManager.h" alt="" coords="2516,125,2639,152"/>
+<area shape="rect" id="node3" href="$_i_scene_node_8h.html" title="ISceneNode.h" alt="" coords="1253,275,1358,301"/>
+<area shape="rect" id="node4" href="$_i_attribute_exchanging_object_8h.html" title="IAttributeExchangingObject.h" alt="" coords="337,424,529,451"/>
+<area shape="rect" id="node7" href="$_e_scene_node_types_8h.html" title="ESceneNodeTypes.h" alt="" coords="2945,349,3091,376"/>
+<area shape="rect" id="node8" href="$_e_culling_types_8h.html" title="ECullingTypes.h" alt="" coords="245,648,363,675"/>
+<area shape="rect" id="node9" href="$_e_debug_scene_types_8h.html" title="EDebugSceneTypes.h" alt="" coords="276,349,429,376"/>
+<area shape="rect" id="node10" href="$_i_scene_node_animator_8h.html" title="ISceneNodeAnimator.h" alt="" coords="555,349,713,376"/>
+<area shape="rect" id="node14" href="$_i_triangle_selector_8h.html" title="ITriangleSelector.h" alt="" coords="1241,349,1370,376"/>
+<area shape="rect" id="node17" href="$aabbox3d_8h.html" title="aabbox3d.h" alt="" coords="1509,499,1598,525"/>
+<area shape="rect" id="node18" href="$matrix4_8h.html" title="matrix4.h" alt="" coords="1700,424,1775,451"/>
+<area shape="rect" id="node22" href="$irr_string_8h.html" title="irrString.h" alt="" coords="2168,499,2246,525"/>
+<area shape="rect" id="node24" href="$_s_material_8h.html" title="SMaterial.h" alt="" coords="2075,349,2163,376"/>
+<area shape="rect" id="node28" href="$irr_list_8h.html" title="irrList.h" alt="" coords="689,499,754,525"/>
+<area shape="rect" id="node29" href="$_i_attributes_8h.html" title="IAttributes.h" alt="" coords="1699,349,1793,376"/>
+<area shape="rect" id="node5" href="$_i_reference_counted_8h.html" title="IReferenceCounted.h" alt="" coords="467,499,614,525"/>
+<area shape="rect" id="node6" href="$irr_types_8h.html" title="irrTypes.h" alt="" coords="2285,797,2363,824"/>
+<area shape="rect" id="node11" href="$vector3d_8h.html" title="vector3d.h" alt="" coords="1253,648,1334,675"/>
+<area shape="rect" id="node13" href="$_e_scene_node_animator_types_8h.html" title="ESceneNodeAnimatorTypes.h" alt="" coords="907,424,1105,451"/>
+<area shape="rect" id="node12" href="$irr_math_8h.html" title="irrMath.h" alt="" coords="2041,723,2114,749"/>
+<area shape="rect" id="node15" href="$triangle3d_8h.html" title="triangle3d.h" alt="" coords="1281,424,1370,451"/>
+<area shape="rect" id="node16" href="$plane3d_8h.html" title="plane3d.h" alt="" coords="1515,573,1593,600"/>
+<area shape="rect" id="node19" href="$rect_8h.html" title="rect.h" alt="" coords="1883,499,1937,525"/>
+<area shape="rect" id="node20" href="$dimension2d_8h.html" title="dimension2d.h" alt="" coords="2413,573,2519,600"/>
+<area shape="rect" id="node21" href="$position2d_8h.html" title="position2d.h" alt="" coords="1923,573,2014,600"/>
+<area shape="rect" id="node23" href="$irr_allocator_8h.html" title="irrAllocator.h" alt="" coords="2192,573,2286,600"/>
+<area shape="rect" id="node25" href="$_s_color_8h.html" title="SColor.h" alt="" coords="2500,424,2573,451"/>
+<area shape="rect" id="node26" href="$irr_array_8h.html" title="irrArray.h" alt="" coords="2699,424,2773,451"/>
+<area shape="rect" id="node27" href="$heapsort_8h.html" title="heapsort.h" alt="" coords="2683,648,2765,675"/>
+<area shape="rect" id="node30" href="$_i_x_m_l_reader_8h.html" title="IXMLReader.h" alt="" coords="155,424,262,451"/>
+<area shape="rect" id="node31" href="$path_8h.html" title="path.h" alt="" coords="2315,424,2373,451"/>
+<area shape="rect" id="node33" href="$fast__atof_8h.html" title="fast_atof.h" alt="" coords="2156,424,2239,451"/>
+<area shape="rect" id="node36" href="$_i_video_driver_8h.html" title="IVideoDriver.h" alt="" coords="1879,200,1983,227"/>
+<area shape="rect" id="node39" href="$coreutil_8h.html" title="File containing useful basic utility functions. " alt="" coords="2238,349,2311,376"/>
+<area shape="rect" id="node35" href="$_i_file_archive_8h.html" title="IFileArchive.h" alt="" coords="68,275,170,301"/>
+<area shape="rect" id="node37" href="$_i_texture_8h.html" title="ITexture.h" alt="" coords="1969,349,2050,376"/>
+<area shape="rect" id="node38" href="$_i_mesh_buffer_8h.html" title="IMeshBuffer.h" alt="" coords="1638,275,1742,301"/>
+<area shape="rect" id="node41" href="$_c_mesh_buffer_8h.html" title="CMeshBuffer.h" alt="" coords="2171,200,2281,227"/>
+<area shape="rect" id="node44" href="$_i_mesh_8h.html" title="IMesh.h" alt="" coords="1419,275,1489,301"/>
+<area shape="rect" id="node46" href="$_e_terrain_elements_8h.html" title="ETerrainElements.h" alt="" coords="2509,200,2646,227"/>
+<area shape="rect" id="node47" href="$_e_mesh_writer_enums_8h.html" title="EMeshWriterEnums.h" alt="" coords="3027,723,3177,749"/>
+<area shape="rect" id="node48" href="$_scene_parameters_8h.html" title="Header file containing all scene parameters for modifying mesh loading etc. " alt="" coords="2671,200,2807,227"/>
+<area shape="rect" id="node49" href="$_i_geometry_creator_8h.html" title="IGeometryCreator.h" alt="" coords="625,200,762,227"/>
+<area shape="rect" id="node50" href="$_i_skinned_mesh_8h.html" title="ISkinnedMesh.h" alt="" coords="2844,275,2959,301"/>
+</map>

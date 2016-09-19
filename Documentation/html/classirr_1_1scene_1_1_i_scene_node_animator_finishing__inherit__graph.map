@@ -1,0 +1,10 @@
+<map id="irr::scene::ISceneNodeAnimatorFinishing" name="irr::scene::ISceneNodeAnimatorFinishing">
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_scene_node_animator_delete.html" title="irr::scene::CSceneNodeAnimator\lDelete" alt="" coords="950,5,1165,46"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_c_scene_node_animator_fly_straight.html" title="irr::scene::CSceneNodeAnimator\lFlyStraight" alt="" coords="950,70,1165,111"/>
+<area shape="rect" id="node8" href="$classirr_1_1scene_1_1_c_scene_node_animator_follow_spline.html" title="irr::scene::CSceneNodeAnimator\lFollowSpline" alt="" coords="950,135,1165,177"/>
+<area shape="rect" id="node9" href="$classirr_1_1scene_1_1_c_scene_node_animator_texture.html" title="irr::scene::CSceneNodeAnimator\lTexture" alt="" coords="950,201,1165,242"/>
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_scene_node_animator.html" title="Animates a scene node. Can animate position, rotation, material, and so on. " alt="" coords="437,111,645,137"/>
+<area shape="rect" id="node3" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="209,74,389,115"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,81,160,108"/>
+<area shape="rect" id="node5" href="$classirr_1_1_i_event_receiver.html" title="Interface of an object which can receive events. " alt="" coords="233,140,364,167"/>
+</map>

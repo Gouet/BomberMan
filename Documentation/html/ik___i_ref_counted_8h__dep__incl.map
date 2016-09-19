@@ -1,0 +1,22 @@
+<map id="/home/veyrie_f/Documents/cpp_indie_studio/_old/IrrKlang/include/ik_IRefCounted.h" name="/home/veyrie_f/Documents/cpp_indie_studio/_old/IrrKlang/include/ik_IRefCounted.h">
+<area shape="rect" id="node2" href="$ik___i_audio_recorder_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_IAudioRecorder.h" alt="" coords="590,357,828,413"/>
+<area shape="rect" id="node3" href="$irr_klang_8h.html" title="Main header file of the irrKlang sound library, the only file needed to include. " alt="" coords="828,477,1007,533"/>
+<area shape="rect" id="node8" href="$ik___s_audio_stream_format_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_SAudioStream\lFormat.h" alt="" coords="891,110,1112,181"/>
+<area shape="rect" id="node10" href="$ik___i_sound_engine_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_ISoundEngine.h" alt="" coords="285,357,515,413"/>
+<area shape="rect" id="node11" href="$ik___i_audio_stream_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_IAudioStream.h" alt="" coords="1235,237,1461,293"/>
+<area shape="rect" id="node15" href="$ik___i_sound_mixed_output_receiver_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_ISoundMixed\lOutputReceiver.h" alt="" coords="360,230,573,301"/>
+<area shape="rect" id="node16" href="$ik___i_sound_stop_event_receiver_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_ISoundStop\lEventReceiver.h" alt="" coords="1005,230,1211,301"/>
+<area shape="rect" id="node17" href="$ik___i_audio_stream_loader_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_IAudioStream\lLoader.h" alt="" coords="1484,350,1700,421"/>
+<area shape="rect" id="node19" href="$ik___i_file_reader_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_IFileReader.h" alt="" coords="1486,237,1700,293"/>
+<area shape="rect" id="node20" href="$ik___i_file_factory_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_IFileFactory.h" alt="" coords="5,237,221,293"/>
+<area shape="rect" id="node21" href="$ik___i_sound_device_list_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_ISoundDevice\lList.h" alt="" coords="648,110,867,181"/>
+<area shape="rect" id="node4" href="$ikp_m_p3_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/plugins/ikpMP3\l/ikpMP3.cpp" alt="" coords="1172,590,1351,661"/>
+<area shape="rect" id="node5" href="$_video_8hpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/Video/Video.hpp" alt="" coords="828,597,1007,653"/>
+<area shape="rect" id="node6" href="$__old_2_video_2main_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/Video/main.cpp" alt="" coords="727,709,905,765"/>
+<area shape="rect" id="node7" href="$_video_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/Video/Video.cpp" alt="" coords="929,709,1108,765"/>
+<area shape="rect" id="node9" href="$ik___i_sound_source_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/include/ik_ISoundSource.h" alt="" coords="649,237,879,293"/>
+<area shape="rect" id="node12" href="$_c_irr_klang_audio_stream_m_p3_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/plugins/ikpMP3\l/CIrrKlangAudioStreamMP3.h" alt="" coords="1263,350,1457,421"/>
+<area shape="rect" id="node13" href="$_c_irr_klang_audio_stream_loader_m_p3_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/plugins/ikpMP3\l/CIrrKlangAudioStreamLoaderMP3.cpp" alt="" coords="1439,590,1685,661"/>
+<area shape="rect" id="node14" href="$_c_irr_klang_audio_stream_m_p3_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/plugins/ikpMP3\l/CIrrKlangAudioStreamMP3.cpp" alt="" coords="1136,470,1344,541"/>
+<area shape="rect" id="node18" href="$_c_irr_klang_audio_stream_loader_m_p3_8h.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/_old\l/IrrKlang/plugins/ikpMP3\l/CIrrKlangAudioStreamLoaderMP3.h" alt="" coords="1369,470,1601,541"/>
+</map>

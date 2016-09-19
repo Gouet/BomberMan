@@ -1,0 +1,35 @@
+<map id="/home/veyrie_f/Documents/cpp_indie_studio/Irrlicht/irrlicht&#45;1.8.3/source/Irrlicht/COCTLoader.h" name="/home/veyrie_f/Documents/cpp_indie_studio/Irrlicht/irrlicht&#45;1.8.3/source/Irrlicht/COCTLoader.h">
+<area shape="rect" id="node2" href="$_i_mesh_loader_8h.html" title="IMeshLoader.h" alt="" coords="250,200,357,227"/>
+<area shape="rect" id="node9" href="$irr_string_8h.html" title="irrString.h" alt="" coords="137,723,215,749"/>
+<area shape="rect" id="node19" href="$_i_read_file_8h.html" title="IReadFile.h" alt="" coords="137,200,225,227"/>
+<area shape="rect" id="node21" href="$_s_mesh_8h.html" title="SMesh.h" alt="" coords="672,125,745,152"/>
+<area shape="rect" id="node3" href="$_i_reference_counted_8h.html" title="IReferenceCounted.h" alt="" coords="259,275,405,301"/>
+<area shape="rect" id="node8" href="$path_8h.html" title="path.h" alt="" coords="184,349,241,376"/>
+<area shape="rect" id="node4" href="$irr_types_8h.html" title="irrTypes.h" alt="" coords="532,872,611,899"/>
+<area shape="rect" id="node5" href="$_irr_compile_config_8h.html" title="IrrCompileConfig.h" alt="" coords="548,947,677,973"/>
+<area shape="rect" id="node10" href="$irr_allocator_8h.html" title="irrAllocator.h" alt="" coords="181,797,275,824"/>
+<area shape="rect" id="node13" href="$irr_math_8h.html" title="irrMath.h" alt="" coords="778,797,851,824"/>
+<area shape="rect" id="node20" href="$coreutil_8h.html" title="File containing useful basic utility functions. " alt="" coords="109,275,183,301"/>
+<area shape="rect" id="node22" href="$_i_mesh_8h.html" title="IMesh.h" alt="" coords="797,200,867,227"/>
+<area shape="rect" id="node30" href="$aabbox3d_8h.html" title="aabbox3d.h" alt="" coords="1283,499,1372,525"/>
+<area shape="rect" id="node34" href="$irr_array_8h.html" title="irrArray.h" alt="" coords="460,723,533,749"/>
+<area shape="rect" id="node40" href="$_i_mesh_buffer_8h.html" title="IMeshBuffer.h" alt="" coords="657,200,761,227"/>
+<area shape="rect" id="node23" href="$_s_material_8h.html" title="SMaterial.h" alt="" coords="799,275,887,301"/>
+<area shape="rect" id="node39" href="$_e_hardware_buffer_flags_8h.html" title="EHardwareBufferFlags.h" alt="" coords="1125,275,1289,301"/>
+<area shape="rect" id="node24" href="$_s_color_8h.html" title="SColor.h" alt="" coords="661,648,733,675"/>
+<area shape="rect" id="node25" href="$matrix4_8h.html" title="matrix4.h" alt="" coords="1077,424,1152,451"/>
+<area shape="rect" id="node36" href="$_e_material_types_8h.html" title="EMaterialTypes.h" alt="" coords="890,349,1013,376"/>
+<area shape="rect" id="node37" href="$_e_material_flags_8h.html" title="EMaterialFlags.h" alt="" coords="1039,349,1159,376"/>
+<area shape="rect" id="node38" href="$_s_material_layer_8h.html" title="SMaterialLayer.h" alt="" coords="745,349,865,376"/>
+<area shape="rect" id="node26" href="$vector3d_8h.html" title="vector3d.h" alt="" coords="1200,648,1281,675"/>
+<area shape="rect" id="node27" href="$vector2d_8h.html" title="vector2d.h" alt="" coords="864,648,945,675"/>
+<area shape="rect" id="node29" href="$plane3d_8h.html" title="plane3d.h" alt="" coords="1153,573,1231,600"/>
+<area shape="rect" id="node32" href="$rect_8h.html" title="rect.h" alt="" coords="746,499,800,525"/>
+<area shape="rect" id="node28" href="$dimension2d_8h.html" title="dimension2d.h" alt="" coords="761,723,868,749"/>
+<area shape="rect" id="node31" href="$line3d_8h.html" title="line3d.h" alt="" coords="1357,573,1424,600"/>
+<area shape="rect" id="node33" href="$position2d_8h.html" title="position2d.h" alt="" coords="762,573,853,600"/>
+<area shape="rect" id="node35" href="$heapsort_8h.html" title="heapsort.h" alt="" coords="452,797,533,824"/>
+<area shape="rect" id="node41" href="$_s3_d_vertex_8h.html" title="S3DVertex.h" alt="" coords="878,573,975,600"/>
+<area shape="rect" id="node42" href="$_s_vertex_index_8h.html" title="SVertexIndex.h" alt="" coords="407,424,517,451"/>
+<area shape="rect" id="node43" href="$_e_primitive_types_8h.html" title="EPrimitiveTypes.h" alt="" coords="645,275,773,301"/>
+</map>

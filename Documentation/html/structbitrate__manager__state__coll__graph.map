@@ -1,0 +1,7 @@
+<map id="bitrate_manager_state" name="bitrate_manager_state">
+<area shape="rect" id="node2" href="$structvorbis__block.html" title="vorbis_block" alt="" coords="177,187,271,213"/>
+<area shape="rect" id="node3" href="$structalloc__chain.html" title="alloc_chain" alt="" coords="5,96,91,123"/>
+<area shape="rect" id="node4" href="$structoggpack__buffer.html" title="oggpack_buffer" alt="" coords="169,96,279,123"/>
+<area shape="rect" id="node5" href="$structvorbis__dsp__state.html" title="vorbis_dsp_state" alt="" coords="303,96,424,123"/>
+<area shape="rect" id="node6" href="$structvorbis__info.html" title="vorbis_info" alt="" coords="321,5,407,32"/>
+</map>

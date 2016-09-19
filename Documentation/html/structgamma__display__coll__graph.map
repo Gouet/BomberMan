@@ -1,0 +1,23 @@
+<map id="gamma_display" name="gamma_display">
+<area shape="rect" id="node2" href="$structpng__color__16__struct.html" title="png_color_16_struct" alt="" coords="309,563,448,589"/>
+<area shape="rect" id="node3" href="$structpng__modifier.html" title="png_modifier" alt="" coords="189,563,285,589"/>
+<area shape="rect" id="node4" href="$structcolor__encoding.html" title="color_encoding" alt="" coords="203,459,312,485"/>
+<area shape="rect" id="node5" href="$struct_c_i_e__color.html" title="CIE_color" alt="" coords="217,337,296,364"/>
+<area shape="rect" id="node6" href="$structpng__modification.html" title="png_modification" alt="" coords="5,459,125,485"/>
+<area shape="rect" id="node7" href="$structpng__store.html" title="png_store" alt="" coords="561,459,639,485"/>
+<area shape="rect" id="node13" href="$structstore__pool.html" title="store_pool" alt="" coords="660,563,741,589"/>
+<area shape="rect" id="node22" href="$structstandard__display.html" title="standard_display" alt="" coords="472,563,592,589"/>
+<area shape="rect" id="node8" href="$structpng__store__file.html" title="png_store_file" alt="" coords="549,337,651,364"/>
+<area shape="rect" id="node9" href="$structpng__store__buffer.html" title="png_store_buffer" alt="" coords="593,216,711,243"/>
+<area shape="rect" id="node10" href="$structstore__palette__entry.html" title="store_palette_entry" alt="" coords="413,216,547,243"/>
+<area shape="rect" id="node11" href="$structpng__info__def.html" title="png_info_def" alt="" coords="807,337,903,364"/>
+<area shape="rect" id="node12" href="$structpng__color__struct.html" title="png_color_struct" alt="" coords="833,216,951,243"/>
+<area shape="rect" id="node15" href="$structpng__struct__def.html" title="png_struct_def" alt="" coords="927,337,1035,364"/>
+<area shape="rect" id="node14" href="$structstore__memory.html" title="store_memory" alt="" coords="647,653,752,680"/>
+<area shape="rect" id="node16" href="$structz__stream__s.html" title="z_stream_s" alt="" coords="1041,216,1132,243"/>
+<area shape="rect" id="node17" href="$structinternal__state.html" title="internal_state" alt="" coords="1162,337,1261,364"/>
+<area shape="rect" id="node18" href="$structgz__header__s.html" title="gz_header_s" alt="" coords="1160,216,1256,243"/>
+<area shape="rect" id="node19" href="$structtree__desc__s.html" title="tree_desc_s" alt="" coords="1331,216,1424,243"/>
+<area shape="rect" id="node20" href="$structstatic__tree__desc__s.html" title="static_tree_desc_s" alt="" coords="1450,96,1581,123"/>
+<area shape="rect" id="node21" href="$structct__data__s.html" title="ct_data_s" alt="" coords="1331,5,1409,32"/>
+</map>

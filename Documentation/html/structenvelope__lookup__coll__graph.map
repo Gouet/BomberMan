@@ -1,0 +1,5 @@
+<map id="envelope_lookup" name="envelope_lookup">
+<area shape="rect" id="node2" href="$structenvelope__band.html" title="envelope_band" alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node3" href="$structmdct__lookup.html" title="mdct_lookup" alt="" coords="139,5,235,32"/>
+<area shape="rect" id="node4" href="$structenvelope__filter__state.html" title="envelope_filter_state" alt="" coords="259,5,401,32"/>
+</map>

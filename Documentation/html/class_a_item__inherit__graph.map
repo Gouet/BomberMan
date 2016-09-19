@@ -1,0 +1,6 @@
+<map id="AItem" name="AItem">
+<area shape="rect" id="node4" href="$class_item_mine_bomb.html" title="ItemMineBomb" alt="" coords="5,229,115,256"/>
+<area shape="rect" id="node5" href="$class_item_throw.html" title="ItemThrow" alt="" coords="139,229,223,256"/>
+<area shape="rect" id="node2" href="$class_a_game_object.html" title="AGameObject" alt="" coords="68,80,172,107"/>
+<area shape="rect" id="node3" href="$class_i_serialize.html" title="ISerialize" alt="" coords="82,5,157,32"/>
+</map>

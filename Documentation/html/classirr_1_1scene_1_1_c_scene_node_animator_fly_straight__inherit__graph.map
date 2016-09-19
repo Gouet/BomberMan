@@ -1,0 +1,7 @@
+<map id="irr::scene::CSceneNodeAnimatorFlyStraight" name="irr::scene::CSceneNodeAnimatorFlyStraight">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_scene_node_animator_finishing.html" title="This is an abstract base class for animators that have a discrete end time. " alt="" coords="80,246,288,287"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_scene_node_animator.html" title="Animates a scene node. Can animate position, rotation, material, and so on. " alt="" coords="80,171,288,197"/>
+<area shape="rect" id="node4" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="5,81,184,122"/>
+<area shape="rect" id="node5" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="17,5,171,32"/>
+<area shape="rect" id="node6" href="$classirr_1_1_i_event_receiver.html" title="Interface of an object which can receive events. " alt="" coords="209,88,339,115"/>
+</map>

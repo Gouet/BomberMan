@@ -1,0 +1,10 @@
+<map id="codec_setup_info" name="codec_setup_info">
+<area shape="rect" id="node2" href="$structstatic__codebook.html" title="static_codebook" alt="" coords="23,21,140,48"/>
+<area shape="rect" id="node9" href="$structcodebook.html" title="codebook" alt="" coords="285,65,363,92"/>
+<area shape="rect" id="node3" href="$structvorbis__info__psy__global.html" title="vorbis_info_psy_global" alt="" coords="247,116,401,143"/>
+<area shape="rect" id="node4" href="$structbitrate__manager__info.html" title="bitrate_manager_info" alt="" coords="253,167,395,193"/>
+<area shape="rect" id="node5" href="$structvorbis__info__mode.html" title="vorbis_info_mode" alt="" coords="262,217,386,244"/>
+<area shape="rect" id="node6" href="$structhighlevel__encode__setup.html" title="highlevel_encode_setup" alt="" coords="243,268,405,295"/>
+<area shape="rect" id="node7" href="$structhighlevel__byblocktype.html" title="highlevel_byblocktype" alt="" coords="6,268,157,295"/>
+<area shape="rect" id="node8" href="$structvorbis__info__psy.html" title="vorbis_info_psy" alt="" coords="267,319,381,345"/>
+</map>

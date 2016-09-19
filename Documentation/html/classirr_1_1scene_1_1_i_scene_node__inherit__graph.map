@@ -1,0 +1,39 @@
+<map id="irr::scene::ISceneNode" name="irr::scene::ISceneNode">
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_c_empty_scene_node.html" title="irr::scene::CEmptySceneNode" alt="" coords="653,5,853,32"/>
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_c_scene_manager.html" title="irr::scene::CSceneManager" alt="" coords="663,56,844,83"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_sky_box_scene_node.html" title="irr::scene::CSkyBoxSceneNode" alt="" coords="649,107,857,133"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_c_sky_dome_scene_node.html" title="irr::scene::CSkyDomeSceneNode" alt="" coords="643,157,863,184"/>
+<area shape="rect" id="node8" href="$classirr_1_1scene_1_1_i_animated_mesh_scene_node.html" title="Scene node capable of displaying an animated mesh and its shadow. " alt="" coords="666,209,841,250"/>
+<area shape="rect" id="node10" href="$classirr_1_1scene_1_1_i_billboard_scene_node.html" title="A billboard scene node. " alt="" coords="650,275,857,301"/>
+<area shape="rect" id="node14" href="$classirr_1_1scene_1_1_i_bone_scene_node.html" title="Interface for bones used for skeletal animation. " alt="" coords="660,325,847,352"/>
+<area shape="rect" id="node16" href="$classirr_1_1scene_1_1_i_camera_scene_node.html" title="Scene Node which is a (controlable) camera. " alt="" coords="652,376,855,403"/>
+<area shape="rect" id="node18" href="$classirr_1_1scene_1_1_i_dummy_transformation_scene_node.html" title="Dummy scene node for adding additional transformations to the scene graph. " alt="" coords="643,427,864,469"/>
+<area shape="rect" id="node20" href="$classirr_1_1scene_1_1_i_light_scene_node.html" title="Scene node which is a dynamic light. " alt="" coords="661,493,845,520"/>
+<area shape="rect" id="node22" href="$classirr_1_1scene_1_1_i_mesh_scene_node.html" title="A scene node displaying a static mesh. " alt="" coords="659,620,847,647"/>
+<area shape="rect" id="node29" href="$classirr_1_1scene_1_1_i_particle_system_scene_node.html" title="A particle system scene node for creating snow, fire, exlosions, smoke... " alt="" coords="665,675,842,717"/>
+<area shape="rect" id="node31" href="$classirr_1_1scene_1_1_i_shadow_volume_scene_node.html" title="Scene node for rendering a shadow volume into a stencil buffer. " alt="" coords="664,747,843,789"/>
+<area shape="rect" id="node33" href="$classirr_1_1scene_1_1_i_terrain_scene_node.html" title="A scene node for displaying terrain using the geo mip map algorithm. " alt="" coords="655,828,851,855"/>
+<area shape="rect" id="node35" href="$classirr_1_1scene_1_1_i_text_scene_node.html" title="A scene node for displaying 2d text at a position in three dimensional space. " alt="" coords="662,908,845,935"/>
+<area shape="rect" id="node37" href="$classirr_1_1scene_1_1_i_volume_light_scene_node.html" title="irr::scene::IVolumeLight\lSceneNode" alt="" coords="673,1018,833,1059"/>
+<area shape="rect" id="node2" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="209,398,389,439"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,405,160,432"/>
+<area shape="rect" id="node9" href="$classirr_1_1scene_1_1_c_animated_mesh_scene_node.html" title="irr::scene::CAnimatedMesh\lSceneNode" alt="" coords="935,142,1116,183"/>
+<area shape="rect" id="node11" href="$classirr_1_1scene_1_1_c_billboard_scene_node.html" title="irr::scene::CBillboardSceneNode" alt="" coords="919,208,1131,235"/>
+<area shape="rect" id="node12" href="$classirr_1_1scene_1_1_i_billboard_text_scene_node.html" title="A billboard text scene node. " alt="" coords="943,259,1107,301"/>
+<area shape="rect" id="node13" href="$classirr_1_1scene_1_1_c_billboard_text_scene_node.html" title="irr::scene::CBillboardText\lSceneNode" alt="" coords="1189,259,1360,301"/>
+<area shape="rect" id="node15" href="$classirr_1_1scene_1_1_c_bone_scene_node.html" title="irr::scene::CBoneSceneNode" alt="" coords="929,325,1121,352"/>
+<area shape="rect" id="node17" href="$classirr_1_1scene_1_1_c_camera_scene_node.html" title="irr::scene::CCameraSceneNode" alt="" coords="921,376,1129,403"/>
+<area shape="rect" id="node19" href="$classirr_1_1scene_1_1_c_dummy_transformation_scene_node.html" title="irr::scene::CDummyTransformation\lSceneNode" alt="" coords="912,427,1139,469"/>
+<area shape="rect" id="node21" href="$classirr_1_1scene_1_1_c_light_scene_node.html" title="irr::scene::CLightSceneNode" alt="" coords="930,493,1121,520"/>
+<area shape="rect" id="node23" href="$classirr_1_1scene_1_1_c_cube_scene_node.html" title="irr::scene::CCubeSceneNode" alt="" coords="929,544,1122,571"/>
+<area shape="rect" id="node24" href="$classirr_1_1scene_1_1_c_mesh_scene_node.html" title="irr::scene::CMeshSceneNode" alt="" coords="928,595,1123,621"/>
+<area shape="rect" id="node26" href="$classirr_1_1scene_1_1_c_octree_scene_node.html" title="implementation of the IBspTreeSceneNode " alt="" coords="925,645,1126,672"/>
+<area shape="rect" id="node27" href="$classirr_1_1scene_1_1_c_quake3_shader_scene_node.html" title="Scene node which is a quake3 shader. " alt="" coords="935,697,1115,738"/>
+<area shape="rect" id="node28" href="$classirr_1_1scene_1_1_c_sphere_scene_node.html" title="irr::scene::CSphereSceneNode" alt="" coords="924,763,1127,789"/>
+<area shape="rect" id="node25" href="$classirr_1_1scene_1_1_c_water_surface_scene_node.html" title="irr::scene::CWaterSurface\lSceneNode" alt="" coords="1187,587,1362,629"/>
+<area shape="rect" id="node30" href="$classirr_1_1scene_1_1_c_particle_system_scene_node.html" title="A particle system scene node. " alt="" coords="934,814,1117,855"/>
+<area shape="rect" id="node32" href="$classirr_1_1scene_1_1_c_shadow_volume_scene_node.html" title="Scene node for rendering a shadow volume into a stencil buffer. " alt="" coords="933,879,1118,921"/>
+<area shape="rect" id="node34" href="$classirr_1_1scene_1_1_c_terrain_scene_node.html" title="A scene node for displaying terrain using the geo mip map algorithm. " alt="" coords="924,945,1127,972"/>
+<area shape="rect" id="node36" href="$classirr_1_1scene_1_1_c_text_scene_node.html" title="irr::scene::CTextSceneNode" alt="" coords="931,996,1119,1023"/>
+<area shape="rect" id="node38" href="$classirr_1_1scene_1_1_c_volume_light_scene_node.html" title="irr::scene::CVolumeLight\lSceneNode" alt="" coords="942,1047,1109,1089"/>
+</map>

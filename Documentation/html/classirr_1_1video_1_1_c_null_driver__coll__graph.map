@@ -1,0 +1,25 @@
+<map id="irr::video::CNullDriver" name="irr::video::CNullDriver">
+<area shape="rect" id="node2" href="$classirr_1_1video_1_1_i_video_driver.html" title="Interface to driver which is able to perform 2d and 3d graphics functions. " alt="" coords="452,68,604,95"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,119,160,145"/>
+<area shape="rect" id="node8" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="283,227,411,253"/>
+<area shape="rect" id="node10" href="$classirr_1_1io_1_1_i_attributes.html" title="Provides a generic interface for attributes and their values and the possiblity to serialize them..." alt="" coords="838,119,957,145"/>
+<area shape="rect" id="node17" href="$classirr_1_1io_1_1_i_file_system.html" title="The FileSystem manages files and archives and provides access to them. " alt="" coords="1142,169,1271,196"/>
+<area shape="rect" id="node19" href="$classirr_1_1scene_1_1_i_mesh_manipulator.html" title="An interface for easy manipulation of meshes. " alt="" coords="435,9,621,36"/>
+<area shape="rect" id="node4" href="$classirr_1_1video_1_1_i_g_p_u_programming_services.html" title="Interface making it possible to create and use programs running on the GPU. " alt="" coords="1302,411,1493,453"/>
+<area shape="rect" id="node5" href="$classirr_1_1video_1_1_s_material.html" title="Struct for holding parameters for a material renderer. " alt="" coords="982,272,1117,299"/>
+<area shape="rect" id="node11" href="$structirr_1_1video_1_1_s_override_material.html" title="irr::video::SOverrideMaterial" alt="" coords="1305,309,1489,336"/>
+<area shape="rect" id="node6" href="$classirr_1_1video_1_1_s_color.html" title="Class representing a 32 bit ARGB color. " alt="" coords="669,337,789,364"/>
+<area shape="rect" id="node7" href="$classirr_1_1video_1_1_s_material_layer.html" title="Struct for holding material parameters which exist per texture layer. " alt="" coords="646,227,813,253"/>
+<area shape="rect" id="node9" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="14,237,151,264"/>
+<area shape="rect" id="node12" href="$classirr_1_1core_1_1dimension2d.html" title="irr::core::dimension2d\l\&lt; u32 \&gt;" alt="" coords="1324,477,1471,518"/>
+<area shape="rect" id="node13" href="$classirr_1_1core_1_1rect.html" title="irr::core::rect\&lt; s32 \&gt;" alt="" coords="1327,543,1468,569"/>
+<area shape="rect" id="node14" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; video\l::irr::video::IImageWriter * \&gt;" alt="" coords="1305,594,1489,635"/>
+<area shape="rect" id="node15" href="$structirr_1_1video_1_1_s_exposed_video_data.html" title="structure for holding data describing a driver and operating system specific data. " alt="" coords="1297,660,1498,687"/>
+<area shape="rect" id="node16" href="$classirr_1_1video_1_1_c_f_p_s_counter.html" title="irr::video::CFPSCounter" alt="" coords="1316,711,1479,737"/>
+<area shape="rect" id="node18" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::video::SLight \&gt;" alt="" coords="1334,762,1461,803"/>
+<area shape="rect" id="node20" href="$classirr_1_1core_1_1map.html" title="irr::core::map\&lt; const\l scene::IMeshBuffer *,\l irr::video::CNullDriver\l::SHWBufferLink * \&gt;" alt="" coords="1321,827,1474,898"/>
+<area shape="rect" id="node21" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; video\l::irr::video::IImageLoader * \&gt;" alt="" coords="1303,922,1491,963"/>
+<area shape="rect" id="node22" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::video::CNullDriver\l::SOccQuery \&gt;" alt="" coords="1329,987,1466,1043"/>
+<area shape="rect" id="node23" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::video::CNullDriver\l::SMaterialRenderer \&gt;" alt="" coords="1322,1067,1473,1123"/>
+<area shape="rect" id="node24" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::video::CNullDriver\l::SSurface \&gt;" alt="" coords="1329,1147,1466,1203"/>
+</map>

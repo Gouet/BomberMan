@@ -1,0 +1,6 @@
+<map id="irr::scene::COBJMeshWriter" name="irr::scene::COBJMeshWriter">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_mesh_writer.html" title="Interface for writing meshes. " alt="" coords="5,83,159,109"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="171,5,324,32"/>
+<area shape="rect" id="node4" href="$classirr_1_1io_1_1_i_file_system.html" title="The FileSystem manages files and archives and provides access to them. " alt="" coords="183,83,312,109"/>
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_i_scene_manager.html" title="The Scene Manager manages scene nodes, mesh recources, cameras and all the other stuff. " alt="" coords="337,83,511,109"/>
+</map>

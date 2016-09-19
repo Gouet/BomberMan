@@ -1,0 +1,15 @@
+<map id="Udata" name="Udata">
+<area shape="rect" id="node2" href="$struct_table.html" title="Table" alt="" coords="213,399,267,425"/>
+<area shape="rect" id="node11" href="$structglobal___state.html" title="global_State" alt="" coords="353,557,447,584"/>
+<area shape="rect" id="node3" href="$struct_node.html" title="Node" alt="" coords="213,211,267,237"/>
+<area shape="rect" id="node4" href="$structlua___t_value.html" title="lua_TValue" alt="" coords="539,5,625,32"/>
+<area shape="rect" id="node5" href="$union_t_key.html" title="TKey" alt="" coords="277,109,331,136"/>
+<area shape="rect" id="node8" href="$structlua___state.html" title="lua_State" alt="" coords="448,679,524,705"/>
+<area shape="rect" id="node9" href="$struct_up_val.html" title="UpVal" alt="" coords="721,160,779,187"/>
+<area shape="rect" id="node14" href="$struct_call_info.html" title="CallInfo" alt="" coords="496,785,563,812"/>
+<area shape="rect" id="node6" href="$struct_g_c_object.html" title="GCObject" alt="" coords="52,211,131,237"/>
+<area shape="rect" id="node7" href="$union_value.html" title="Value" alt="" coords="278,785,332,812"/>
+<area shape="rect" id="node10" href="$structlua__longjmp.html" title="lua_longjmp" alt="" coords="472,557,563,584"/>
+<area shape="rect" id="node12" href="$structstringtable.html" title="stringtable" alt="" coords="495,399,576,425"/>
+<area shape="rect" id="node13" href="$struct_t_string.html" title="TString" alt="" coords="408,211,472,237"/>
+</map>

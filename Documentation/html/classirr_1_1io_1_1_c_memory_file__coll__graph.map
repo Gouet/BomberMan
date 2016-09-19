@@ -1,0 +1,5 @@
+<map id="irr::io::CMemoryFile" name="irr::io::CMemoryFile">
+<area shape="rect" id="node2" href="$classirr_1_1io_1_1_i_read_file.html" title="Interface providing read acess to a file. " alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="55,5,208,32"/>
+<area shape="rect" id="node4" href="$classirr_1_1io_1_1_i_write_file.html" title="Interface providing write access to a file. " alt="" coords="144,80,259,107"/>
+</map>

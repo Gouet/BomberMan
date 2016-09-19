@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/glut_player.dir/demos/basecode/glut/glutBasecode.cpp.o CMakeFiles/glut_player.dir/demos/basecode/util/util.cpp.o CMakeFiles/glut_player.dir/demos/glut_player/glut_player.cpp.o  -o glut_player -rdynamic libtheoraplayer.a libtheora.a libvorbis.a libogg.a -lpthread -lGLU -lGL -lSM -lICE -lX11 -lXext -L/home/tavern_d/Downloads/theoraplayer-1.1.0/ -lglut

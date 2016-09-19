@@ -1,0 +1,10 @@
+<map id="TheoraVideoFrame" name="TheoraVideoFrame">
+<area shape="rect" id="node2" href="$class_theora_video_clip.html" title="TheoraVideoClip" alt="" coords="505,96,623,123"/>
+<area shape="rect" id="node3" href="$class_theora_audio_interface.html" title="TheoraAudioInterface" alt="" coords="773,76,920,103"/>
+<area shape="rect" id="node5" href="$class_theora_frame_queue.html" title="TheoraFrameQueue" alt="" coords="778,187,915,213"/>
+<area shape="rect" id="node4" href="$class_theora_mutex.html" title="TheoraMutex" alt="" coords="183,209,281,236"/>
+<area shape="rect" id="node6" href="$class_theora_worker_thread.html" title="TheoraWorkerThread" alt="" coords="160,69,304,96"/>
+<area shape="rect" id="node7" href="$class_theora_thread.html" title="TheoraThread" alt="" coords="6,69,109,96"/>
+<area shape="rect" id="node8" href="$class_theora_timer.html" title="TheoraTimer" alt="" coords="185,127,279,153"/>
+<area shape="rect" id="node9" href="$class_theora_data_source.html" title="TheoraDataSource" alt="" coords="167,19,297,45"/>
+</map>

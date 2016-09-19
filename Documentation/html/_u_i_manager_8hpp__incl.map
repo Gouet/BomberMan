@@ -1,0 +1,49 @@
+<map id="/home/veyrie_f/Documents/cpp_indie_studio/include/UIManager.hpp" name="/home/veyrie_f/Documents/cpp_indie_studio/include/UIManager.hpp">
+<area shape="rect" id="node4" href="$_irrlicht_controller_8hpp.html" title="IrrlichtController.hpp" alt="" coords="2559,109,2697,136"/>
+<area shape="rect" id="node5" href="$irrlicht_8h.html" title="Main header file of the irrlicht, the only file needed to include. " alt="" coords="2569,185,2719,226"/>
+<area shape="rect" id="node6" href="$_irr_compile_config_8h.html" title="IrrCompileConfig.h" alt="" coords="5,283,135,309"/>
+<area shape="rect" id="node7" href="$aabbox3d_8h.html" title="aabbox3d.h" alt="" coords="194,515,283,541"/>
+<area shape="rect" id="node8" href="$_c_dynamic_mesh_buffer_8h.html" title="CDynamicMeshBuffer.h" alt="" coords="820,283,983,309"/>
+<area shape="rect" id="node9" href="$_i_dynamic_mesh_buffer_8h.html" title="IDynamicMeshBuffer.h" alt="" coords="773,365,928,392"/>
+<area shape="rect" id="node10" href="$_c_vertex_buffer_8h.html" title="CVertexBuffer.h" alt="" coords="953,365,1068,392"/>
+<area shape="rect" id="node11" href="$_c_index_buffer_8h.html" title="CIndexBuffer.h" alt="" coords="1093,365,1203,392"/>
+<area shape="rect" id="node12" href="$_c_mesh_buffer_8h.html" title="CMeshBuffer.h" alt="" coords="1058,283,1168,309"/>
+<area shape="rect" id="node13" href="$coreutil_8h.html" title="File containing useful basic utility functions. " alt="" coords="1193,283,1267,309"/>
+<area shape="rect" id="node14" href="$dimension2d_8h.html" title="dimension2d.h" alt="" coords="1327,365,1433,392"/>
+<area shape="rect" id="node15" href="$_e_culling_types_8h.html" title="ECullingTypes.h" alt="" coords="1461,283,1579,309"/>
+<area shape="rect" id="node16" href="$_e_debug_scene_types_8h.html" title="EDebugSceneTypes.h" alt="" coords="1603,283,1756,309"/>
+<area shape="rect" id="node17" href="$_e_driver_features_8h.html" title="EDriverFeatures.h" alt="" coords="1781,283,1909,309"/>
+<area shape="rect" id="node18" href="$_e_driver_types_8h.html" title="EDriverTypes.h" alt="" coords="1934,283,2047,309"/>
+<area shape="rect" id="node19" href="$_e_g_u_i_alignment_8h.html" title="EGUIAlignment.h" alt="" coords="2071,283,2195,309"/>
+<area shape="rect" id="node20" href="$_e_g_u_i_element_types_8h.html" title="EGUIElementTypes.h" alt="" coords="2219,283,2369,309"/>
+<area shape="rect" id="node21" href="$_e_hardware_buffer_flags_8h.html" title="EHardwareBufferFlags.h" alt="" coords="2395,283,2559,309"/>
+<area shape="rect" id="node22" href="$_e_material_flags_8h.html" title="EMaterialFlags.h" alt="" coords="2584,283,2704,309"/>
+<area shape="rect" id="node23" href="$_e_material_types_8h.html" title="EMaterialTypes.h" alt="" coords="2830,365,2953,392"/>
+<area shape="rect" id="node24" href="$_e_mesh_writer_enums_8h.html" title="EMeshWriterEnums.h" alt="" coords="2998,283,3148,309"/>
+<area shape="rect" id="node25" href="$_e_message_box_flags_8h.html" title="EMessageBoxFlags.h" alt="" coords="3173,283,3323,309"/>
+<area shape="rect" id="node26" href="$_e_scene_node_animator_types_8h.html" title="ESceneNodeAnimatorTypes.h" alt="" coords="3347,283,3545,309"/>
+<area shape="rect" id="node27" href="$_e_scene_node_types_8h.html" title="ESceneNodeTypes.h" alt="" coords="3571,283,3717,309"/>
+<area shape="rect" id="node28" href="$_e_terrain_elements_8h.html" title="ETerrainElements.h" alt="" coords="3742,283,3879,309"/>
+<area shape="rect" id="node29" href="$fast__atof_8h.html" title="fast_atof.h" alt="" coords="3903,283,3987,309"/>
+<area shape="rect" id="node30" href="$heapsort_8h.html" title="heapsort.h" alt="" coords="4012,283,4093,309"/>
+<area shape="rect" id="node31" href="$_i_animated_mesh_8h.html" title="IAnimatedMesh.h" alt="" coords="243,440,367,467"/>
+<area shape="rect" id="node32" href="$_i_animated_mesh_m_d2_8h.html" title="IAnimatedMeshMD2.h" alt="" coords="261,365,413,392"/>
+<area shape="rect" id="node33" href="$_i_animated_mesh_m_d3_8h.html" title="IAnimatedMeshMD3.h" alt="" coords="437,365,589,392"/>
+<area shape="rect" id="node34" href="$_i_animated_mesh_scene_node_8h.html" title="IAnimatedMeshSceneNode.h" alt="" coords="452,283,644,309"/>
+<area shape="rect" id="node35" href="$_i_bone_scene_node_8h.html" title="IBoneSceneNode.h" alt="" coords="614,365,748,392"/>
+<area shape="rect" id="node36" href="$_i_attribute_exchanging_object_8h.html" title="IAttributeExchangingObject.h" alt="" coords="4119,283,4311,309"/>
+<area shape="rect" id="node37" href="$_i_attributes_8h.html" title="IAttributes.h" alt="" coords="1292,283,1385,309"/>
+<area shape="rect" id="node38" href="$_i_billboard_scene_node_8h.html" title="IBillboardSceneNode.h" alt="" coords="4387,365,4540,392"/>
+<area shape="rect" id="node39" href="$_i_billboard_text_scene_node_8h.html" title="IBillboardTextSceneNode.h" alt="" coords="4335,283,4516,309"/>
+<area shape="rect" id="node40" href="$_i_camera_scene_node_8h.html" title="ICameraSceneNode.h" alt="" coords="4591,283,4741,309"/>
+<area shape="rect" id="node41" href="$_i_event_receiver_8h.html" title="IEventReceiver.h" alt="" coords="4661,365,4784,392"/>
+<area shape="rect" id="node42" href="$_i_cursor_control_8h.html" title="ICursorControl.h" alt="" coords="4818,283,4936,309"/>
+<area shape="rect" id="node43" href="$_i_dummy_transformation_scene_node_8h.html" title="IDummyTransformationScene\lNode.h" alt="" coords="4961,275,5156,317"/>
+<area shape="rect" id="node44" href="$_i_file_list_8h.html" title="IFileList.h" alt="" coords="5181,283,5259,309"/>
+<area shape="rect" id="node45" href="$_i_file_system_8h.html" title="IFileSystem.h" alt="" coords="5283,283,5385,309"/>
+<area shape="rect" id="node46" href="$_i_geometry_creator_8h.html" title="IGeometryCreator.h" alt="" coords="5410,283,5547,309"/>
+<area shape="rect" id="node47" href="$_i_g_p_u_programming_services_8h.html" title="IGPUProgrammingServices.h" alt="" coords="2728,283,2923,309"/>
+<area shape="rect" id="node48" href="$_i_g_u_i_button_8h.html" title="IGUIButton.h" alt="" coords="5572,283,5671,309"/>
+<area shape="rect" id="node49" href="$_i_g_u_i_check_box_8h.html" title="IGUICheckBox.h" alt="" coords="5695,283,5817,309"/>
+<area shape="rect" id="node50" href="$_i_g_u_i_color_select_dialog_8h.html" title="IGUIColorSelectDialog.h" alt="" coords="5842,283,6008,309"/>
+</map>

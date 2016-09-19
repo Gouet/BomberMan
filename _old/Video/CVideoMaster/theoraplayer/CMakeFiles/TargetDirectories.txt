@@ -1,0 +1,5 @@
+/home/tavern_d/Downloads/theoraplayer-1.1.0/CMakeFiles/glut_player.dir
+/home/tavern_d/Downloads/theoraplayer-1.1.0/CMakeFiles/ogg.dir
+/home/tavern_d/Downloads/theoraplayer-1.1.0/CMakeFiles/theora.dir
+/home/tavern_d/Downloads/theoraplayer-1.1.0/CMakeFiles/theoraplayer.dir
+/home/tavern_d/Downloads/theoraplayer-1.1.0/CMakeFiles/vorbis.dir

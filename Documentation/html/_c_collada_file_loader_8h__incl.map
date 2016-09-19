@@ -1,0 +1,48 @@
+<map id="/home/veyrie_f/Documents/cpp_indie_studio/Irrlicht/irrlicht&#45;1.8.3/source/Irrlicht/CColladaFileLoader.h" name="/home/veyrie_f/Documents/cpp_indie_studio/Irrlicht/irrlicht&#45;1.8.3/source/Irrlicht/CColladaFileLoader.h">
+<area shape="rect" id="node2" href="$_i_mesh_loader_8h.html" title="IMeshLoader.h" alt="" coords="2100,349,2207,376"/>
+<area shape="rect" id="node6" href="$irr_string_8h.html" title="irrString.h" alt="" coords="1514,499,1592,525"/>
+<area shape="rect" id="node12" href="$_i_file_system_8h.html" title="IFileSystem.h" alt="" coords="2525,200,2627,227"/>
+<area shape="rect" id="node18" href="$_i_video_driver_8h.html" title="IVideoDriver.h" alt="" coords="546,200,651,227"/>
+<area shape="rect" id="node35" href="$_s_mesh_8h.html" title="SMesh.h" alt="" coords="1312,200,1386,227"/>
+<area shape="rect" id="node37" href="$_s_mesh_buffer_8h.html" title="SMeshBuffer.h" alt="" coords="1191,125,1300,152"/>
+<area shape="rect" id="node39" href="$_i_scene_manager_8h.html" title="ISceneManager.h" alt="" coords="1848,125,1971,152"/>
+<area shape="rect" id="node47" href="$irr_map_8h.html" title="irrMap.h" alt="" coords="1975,648,2044,675"/>
+<area shape="rect" id="node48" href="$_c_attributes_8h.html" title="CAttributes.h" alt="" coords="952,275,1051,301"/>
+<area shape="rect" id="node3" href="$_i_reference_counted_8h.html" title="IReferenceCounted.h" alt="" coords="2043,499,2190,525"/>
+<area shape="rect" id="node5" href="$path_8h.html" title="path.h" alt="" coords="1779,424,1836,451"/>
+<area shape="rect" id="node4" href="$irr_types_8h.html" title="irrTypes.h" alt="" coords="1731,797,1810,824"/>
+<area shape="rect" id="node7" href="$irr_allocator_8h.html" title="irrAllocator.h" alt="" coords="1724,573,1818,600"/>
+<area shape="rect" id="node8" href="$irr_math_8h.html" title="irrMath.h" alt="" coords="1148,723,1220,749"/>
+<area shape="rect" id="node13" href="$_i_x_m_l_reader_8h.html" title="IXMLReader.h" alt="" coords="1862,424,1968,451"/>
+<area shape="rect" id="node15" href="$_i_file_archive_8h.html" title="IFileArchive.h" alt="" coords="2486,275,2588,301"/>
+<area shape="rect" id="node14" href="$irr_x_m_l_8h.html" title="Header file of the irrXML, the Irrlicht XML parser. " alt="" coords="1833,499,1903,525"/>
+<area shape="rect" id="node16" href="$_i_read_file_8h.html" title="IReadFile.h" alt="" coords="2500,349,2588,376"/>
+<area shape="rect" id="node17" href="$_i_file_list_8h.html" title="IFileList.h" alt="" coords="2397,349,2475,376"/>
+<area shape="rect" id="node19" href="$rect_8h.html" title="rect.h" alt="" coords="749,499,803,525"/>
+<area shape="rect" id="node20" href="$dimension2d_8h.html" title="dimension2d.h" alt="" coords="1142,573,1248,600"/>
+<area shape="rect" id="node21" href="$position2d_8h.html" title="position2d.h" alt="" coords="96,573,187,600"/>
+<area shape="rect" id="node22" href="$_s_color_8h.html" title="SColor.h" alt="" coords="1329,424,1402,451"/>
+<area shape="rect" id="node23" href="$_i_texture_8h.html" title="ITexture.h" alt="" coords="801,349,882,376"/>
+<area shape="rect" id="node24" href="$_e_driver_types_8h.html" title="EDriverTypes.h" alt="" coords="113,424,226,451"/>
+<area shape="rect" id="node25" href="$matrix4_8h.html" title="matrix4.h" alt="" coords="620,424,695,451"/>
+<area shape="rect" id="node27" href="$plane3d_8h.html" title="plane3d.h" alt="" coords="336,573,414,600"/>
+<area shape="rect" id="node29" href="$irr_array_8h.html" title="irrArray.h" alt="" coords="1630,424,1703,451"/>
+<area shape="rect" id="node30" href="$_s_material_8h.html" title="SMaterial.h" alt="" coords="1328,349,1416,376"/>
+<area shape="rect" id="node31" href="$_i_mesh_buffer_8h.html" title="IMeshBuffer.h" alt="" coords="1328,275,1432,301"/>
+<area shape="rect" id="node32" href="$triangle3d_8h.html" title="triangle3d.h" alt="" coords="353,424,442,451"/>
+<area shape="rect" id="node33" href="$_e_driver_features_8h.html" title="EDriverFeatures.h" alt="" coords="346,275,474,301"/>
+<area shape="rect" id="node34" href="$_s_exposed_video_data_8h.html" title="SExposedVideoData.h" alt="" coords="498,275,651,301"/>
+<area shape="rect" id="node26" href="$vector3d_8h.html" title="vector3d.h" alt="" coords="412,648,494,675"/>
+<area shape="rect" id="node28" href="$aabbox3d_8h.html" title="aabbox3d.h" alt="" coords="482,499,571,525"/>
+<area shape="rect" id="node36" href="$_i_mesh_8h.html" title="IMesh.h" alt="" coords="1608,275,1678,301"/>
+<area shape="rect" id="node38" href="$_c_mesh_buffer_8h.html" title="CMeshBuffer.h" alt="" coords="1177,200,1287,227"/>
+<area shape="rect" id="node40" href="$_e_terrain_elements_8h.html" title="ETerrainElements.h" alt="" coords="2210,200,2347,227"/>
+<area shape="rect" id="node41" href="$_e_scene_node_types_8h.html" title="ESceneNodeTypes.h" alt="" coords="2487,723,2634,749"/>
+<area shape="rect" id="node42" href="$_e_scene_node_animator_types_8h.html" title="ESceneNodeAnimatorTypes.h" alt="" coords="1512,200,1710,227"/>
+<area shape="rect" id="node43" href="$_e_mesh_writer_enums_8h.html" title="EMeshWriterEnums.h" alt="" coords="2337,648,2487,675"/>
+<area shape="rect" id="node44" href="$_scene_parameters_8h.html" title="Header file containing all scene parameters for modifying mesh loading etc. " alt="" coords="1734,200,1871,227"/>
+<area shape="rect" id="node45" href="$_i_geometry_creator_8h.html" title="IGeometryCreator.h" alt="" coords="2049,200,2186,227"/>
+<area shape="rect" id="node46" href="$_i_skinned_mesh_8h.html" title="ISkinnedMesh.h" alt="" coords="1854,275,1970,301"/>
+<area shape="rect" id="node49" href="$_i_attributes_8h.html" title="IAttributes.h" alt="" coords="958,349,1051,376"/>
+<area shape="rect" id="node50" href="$_i_attribute_8h.html" title="IAttribute.h" alt="" coords="690,349,776,376"/>
+</map>

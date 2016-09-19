@@ -1,0 +1,6 @@
+<map id="irr::video::CSoftwareDriver" name="irr::video::CSoftwareDriver">
+<area shape="rect" id="node2" href="$classirr_1_1video_1_1_c_null_driver.html" title="irr::video::CNullDriver" alt="" coords="106,171,253,197"/>
+<area shape="rect" id="node3" href="$classirr_1_1video_1_1_i_video_driver.html" title="Interface to driver which is able to perform 2d and 3d graphics functions. " alt="" coords="7,88,159,115"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,5,159,32"/>
+<area shape="rect" id="node5" href="$classirr_1_1video_1_1_i_g_p_u_programming_services.html" title="Interface making it possible to create and use programs running on the GPU. " alt="" coords="183,81,373,122"/>
+</map>

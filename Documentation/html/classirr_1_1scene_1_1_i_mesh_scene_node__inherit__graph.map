@@ -1,0 +1,11 @@
+<map id="irr::scene::IMeshSceneNode" name="irr::scene::IMeshSceneNode">
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_c_cube_scene_node.html" title="irr::scene::CCubeSceneNode" alt="" coords="885,5,1078,32"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_mesh_scene_node.html" title="irr::scene::CMeshSceneNode" alt="" coords="884,56,1079,83"/>
+<area shape="rect" id="node8" href="$classirr_1_1scene_1_1_c_octree_scene_node.html" title="implementation of the IBspTreeSceneNode " alt="" coords="881,107,1082,133"/>
+<area shape="rect" id="node9" href="$classirr_1_1scene_1_1_c_quake3_shader_scene_node.html" title="Scene node which is a quake3 shader. " alt="" coords="891,158,1071,199"/>
+<area shape="rect" id="node10" href="$classirr_1_1scene_1_1_c_sphere_scene_node.html" title="irr::scene::CSphereSceneNode" alt="" coords="880,224,1083,251"/>
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_scene_node.html" title="Scene node interface. " alt="" coords="438,107,594,133"/>
+<area shape="rect" id="node3" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="209,99,389,141"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,107,160,133"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_c_water_surface_scene_node.html" title="irr::scene::CWaterSurface\lSceneNode" alt="" coords="1131,49,1306,90"/>
+</map>

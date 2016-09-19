@@ -1,0 +1,13 @@
+<map id="irr::scene::IParticleAffector" name="irr::scene::IParticleAffector">
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_c_particle_scale_affector.html" title="irr::scene::CParticleScale\lAffector" alt="" coords="673,5,844,46"/>
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_i_particle_attraction_affector.html" title="A particle affector which attracts or detracts particles. " alt="" coords="665,70,853,111"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_i_particle_fade_out_affector.html" title="A particle affector which fades out the particles. " alt="" coords="678,135,839,177"/>
+<area shape="rect" id="node9" href="$classirr_1_1scene_1_1_i_particle_gravity_affector.html" title="A particle affector which applies gravity to particles. " alt="" coords="671,201,846,242"/>
+<area shape="rect" id="node11" href="$classirr_1_1scene_1_1_i_particle_rotation_affector.html" title="A particle affector which rotates the particle system. " alt="" coords="668,266,849,307"/>
+<area shape="rect" id="node2" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="209,135,389,177"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,143,160,169"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_particle_attraction_affector.html" title="Particle Affector for attracting particles to a point. " alt="" coords="901,70,1096,111"/>
+<area shape="rect" id="node8" href="$classirr_1_1scene_1_1_c_particle_fade_out_affector.html" title="Particle Affector for fading out a color. " alt="" coords="915,135,1082,177"/>
+<area shape="rect" id="node10" href="$classirr_1_1scene_1_1_c_particle_gravity_affector.html" title="Particle Affector for affecting direction of particle. " alt="" coords="909,201,1089,242"/>
+<area shape="rect" id="node12" href="$classirr_1_1scene_1_1_c_particle_rotation_affector.html" title="Particle Affector for rotating particles about a point. " alt="" coords="905,266,1092,307"/>
+</map>

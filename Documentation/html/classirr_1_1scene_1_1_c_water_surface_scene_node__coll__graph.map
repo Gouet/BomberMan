@@ -1,0 +1,22 @@
+<map id="irr::scene::CWaterSurfaceSceneNode" name="irr::scene::CWaterSurfaceSceneNode">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_c_mesh_scene_node.html" title="irr::scene::CMeshSceneNode" alt="" coords="1363,220,1557,247"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_mesh_scene_node.html" title="A scene node displaying a static mesh. " alt="" coords="1017,313,1205,340"/>
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_i_scene_node.html" title="Scene node interface. " alt="" coords="675,372,831,399"/>
+<area shape="rect" id="node20" href="$classirr_1_1scene_1_1_i_shadow_volume_scene_node.html" title="Scene node for rendering a shadow volume into a stencil buffer. " alt="" coords="1021,365,1200,406"/>
+<area shape="rect" id="node5" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="302,362,482,403"/>
+<area shape="rect" id="node6" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,195,160,221"/>
+<area shape="rect" id="node10" href="$classirr_1_1scene_1_1_i_triangle_selector.html" title="Interface to return triangles with specific properties. " alt="" coords="301,195,483,221"/>
+<area shape="rect" id="node11" href="$classirr_1_1scene_1_1_i_scene_manager.html" title="The Scene Manager manages scene nodes, mesh recources, cameras and all the other stuff. " alt="" coords="305,245,479,272"/>
+<area shape="rect" id="node16" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="328,47,456,73"/>
+<area shape="rect" id="node18" href="$classirr_1_1scene_1_1_i_mesh.html" title="Class which holds the geometry of an object. " alt="" coords="525,135,645,161"/>
+<area shape="rect" id="node7" href="$classirr_1_1core_1_1list.html" title="irr::core::list\&lt; irr\l::scene::ISceneNodeAnimator * \&gt;" alt="" coords="283,545,501,586"/>
+<area shape="rect" id="node8" href="$classirr_1_1core_1_1vector3d.html" title="irr::core::vector3d\l\&lt; f32 \&gt;" alt="" coords="330,297,454,338"/>
+<area shape="rect" id="node21" href="$classirr_1_1core_1_1aabbox3d.html" title="irr::core::aabbox3d\l\&lt; f32 \&gt;" alt="" coords="861,178,992,219"/>
+<area shape="rect" id="node9" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="320,428,464,455"/>
+<area shape="rect" id="node12" href="$classirr_1_1core_1_1list.html" title="irr::core::list\&lt; irr\l::scene::ISceneNode * \&gt;" alt="" coords="309,479,475,521"/>
+<area shape="rect" id="node13" href="$classirr_1_1video_1_1_s_material.html" title="Struct for holding parameters for a material renderer. " alt="" coords="1043,83,1178,109"/>
+<area shape="rect" id="node14" href="$classirr_1_1video_1_1_s_color.html" title="Class representing a 32 bit ARGB color. " alt="" coords="693,83,813,109"/>
+<area shape="rect" id="node15" href="$classirr_1_1video_1_1_s_material_layer.html" title="Struct for holding material parameters which exist per texture layer. " alt="" coords="670,13,837,40"/>
+<area shape="rect" id="node17" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="14,47,151,73"/>
+<area shape="rect" id="node19" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; video\l::SMaterial \&gt;" alt="" coords="1037,247,1184,289"/>
+</map>

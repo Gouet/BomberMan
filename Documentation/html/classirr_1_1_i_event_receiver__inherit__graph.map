@@ -1,0 +1,50 @@
+<map id="irr::IEventReceiver" name="irr::IEventReceiver">
+<area shape="rect" id="node2" href="$class_c_events.html" title="CEvents" alt="" coords="251,680,325,707"/>
+<area shape="rect" id="node3" href="$class_event_game.html" title="EventGame" alt="" coords="243,731,333,757"/>
+<area shape="rect" id="node4" href="$classirr_1_1gui_1_1_i_g_u_i_element.html" title="Base class of all GUI elements. " alt="" coords="217,781,359,808"/>
+<area shape="rect" id="node38" href="$classirr_1_1scene_1_1_i_camera_scene_node.html" title="Scene Node which is a (controlable) camera. " alt="" coords="187,1339,389,1365"/>
+<area shape="rect" id="node40" href="$classirr_1_1scene_1_1_i_scene_node_animator.html" title="Animates a scene node. Can animate position, rotation, material, and so on. " alt="" coords="184,1463,392,1489"/>
+<area shape="rect" id="node48" href="$class_my_event_receiver.html" title="MyEventReceiver" alt="" coords="225,1513,351,1540"/>
+<area shape="rect" id="node49" href="$class_u_i_event_receiver.html" title="UIEventReceiver" alt="" coords="227,1564,349,1591"/>
+<area shape="rect" id="node5" href="$classirr_1_1gui_1_1_c_g_u_i_attribute.html" title="irr::gui::CGUIAttribute" alt="" coords="473,107,623,133"/>
+<area shape="rect" id="node11" href="$classirr_1_1gui_1_1_c_g_u_i_dummy_editor_stub.html" title="irr::gui::CGUIDummyEditorStub" alt="" coords="445,157,651,184"/>
+<area shape="rect" id="node12" href="$classirr_1_1gui_1_1_c_g_u_i_edit_workspace.html" title="irr::gui::CGUIEditWorkspace" alt="" coords="453,208,643,235"/>
+<area shape="rect" id="node13" href="$classirr_1_1gui_1_1_c_g_u_i_panel.html" title="irr::gui::CGUIPanel" alt="" coords="481,259,615,285"/>
+<area shape="rect" id="node15" href="$classirr_1_1gui_1_1_i_g_u_i_button.html" title="GUI Button interface. " alt="" coords="482,309,614,336"/>
+<area shape="rect" id="node16" href="$classirr_1_1gui_1_1_i_g_u_i_check_box.html" title="GUI Check box interface. " alt="" coords="471,360,625,387"/>
+<area shape="rect" id="node17" href="$classirr_1_1gui_1_1_i_g_u_i_color_select_dialog.html" title="Standard color chooser dialog. " alt="" coords="467,411,629,453"/>
+<area shape="rect" id="node18" href="$classirr_1_1gui_1_1_i_g_u_i_combo_box.html" title="Combobox widget. " alt="" coords="469,477,627,504"/>
+<area shape="rect" id="node19" href="$classirr_1_1gui_1_1_i_g_u_i_context_menu.html" title="GUI Context menu interface. " alt="" coords="462,528,634,555"/>
+<area shape="rect" id="node20" href="$classirr_1_1gui_1_1_i_g_u_i_edit_box.html" title="Single line edit box for editing simple text. " alt="" coords="478,579,618,605"/>
+<area shape="rect" id="node21" href="$classirr_1_1gui_1_1_i_g_u_i_file_open_dialog.html" title="Standard file chooser dialog. " alt="" coords="457,629,639,656"/>
+<area shape="rect" id="node22" href="$classirr_1_1gui_1_1_i_g_u_i_image.html" title="GUI element displaying an image. " alt="" coords="483,680,613,707"/>
+<area shape="rect" id="node23" href="$classirr_1_1gui_1_1_i_g_u_i_in_out_fader.html" title="Element for fading out or in. " alt="" coords="469,731,627,757"/>
+<area shape="rect" id="node24" href="$classirr_1_1gui_1_1_i_g_u_i_list_box.html" title="Default list box GUI element. " alt="" coords="479,781,617,808"/>
+<area shape="rect" id="node25" href="$classirr_1_1gui_1_1_i_g_u_i_mesh_viewer.html" title="3d mesh viewing GUI element. " alt="" coords="465,832,631,859"/>
+<area shape="rect" id="node26" href="$classirr_1_1gui_1_1_i_g_u_i_scroll_bar.html" title="Default scroll bar GUI element. " alt="" coords="475,883,621,909"/>
+<area shape="rect" id="node27" href="$classirr_1_1gui_1_1_i_g_u_i_spin_box.html" title="Single line edit box + spin buttons. " alt="" coords="477,933,619,960"/>
+<area shape="rect" id="node28" href="$classirr_1_1gui_1_1_i_g_u_i_static_text.html" title="Multi or single line text label. " alt="" coords="471,984,625,1011"/>
+<area shape="rect" id="node29" href="$classirr_1_1gui_1_1_i_g_u_i_tab.html" title="A tab&#45;page, onto which other gui elements could be added. " alt="" coords="490,1035,606,1061"/>
+<area shape="rect" id="node30" href="$classirr_1_1gui_1_1_i_g_u_i_tab_control.html" title="A standard tab control. " alt="" coords="469,1085,627,1112"/>
+<area shape="rect" id="node31" href="$classirr_1_1gui_1_1_i_g_u_i_table.html" title="Default list box GUI element. " alt="" coords="485,1136,611,1163"/>
+<area shape="rect" id="node32" href="$classirr_1_1gui_1_1_i_g_u_i_tool_bar.html" title="Stays at the top of its parent like the menu bar and contains tool buttons. " alt="" coords="479,1187,617,1213"/>
+<area shape="rect" id="node33" href="$classirr_1_1gui_1_1_i_g_u_i_tree_view.html" title="Default tree view GUI element. " alt="" coords="473,1237,623,1264"/>
+<area shape="rect" id="node35" href="$classirr_1_1gui_1_1_i_g_u_i_window.html" title="Default moveable window GUI element with border, caption and close icons. " alt="" coords="477,1288,619,1315"/>
+<area shape="rect" id="node6" href="$classirr_1_1gui_1_1_c_g_u_i_bool_attribute.html" title="irr::gui::CGUIBoolAttribute" alt="" coords="725,5,899,32"/>
+<area shape="rect" id="node7" href="$classirr_1_1gui_1_1_c_g_u_i_color_attribute.html" title="irr::gui::CGUIColorAttribute" alt="" coords="722,56,902,83"/>
+<area shape="rect" id="node8" href="$classirr_1_1gui_1_1_c_g_u_i_enum_attribute.html" title="irr::gui::CGUIEnumAttribute" alt="" coords="721,107,903,133"/>
+<area shape="rect" id="node9" href="$classirr_1_1gui_1_1_c_g_u_i_string_attribute.html" title="irr::gui::CGUIStringAttribute" alt="" coords="721,157,903,184"/>
+<area shape="rect" id="node10" href="$classirr_1_1gui_1_1_c_g_u_i_texture_attribute.html" title="irr::gui::CGUITextureAttribute" alt="" coords="715,208,909,235"/>
+<area shape="rect" id="node14" href="$classirr_1_1gui_1_1_c_g_u_i_attribute_editor.html" title="irr::gui::CGUIAttributeEditor" alt="" coords="721,259,903,285"/>
+<area shape="rect" id="node34" href="$classirr_1_1gui_1_1_c_g_u_i_tree_view.html" title="Default tree view GUI element. " alt="" coords="735,1237,889,1264"/>
+<area shape="rect" id="node36" href="$classirr_1_1gui_1_1_c_g_u_i_edit_window.html" title="irr::gui::CGUIEditWindow" alt="" coords="727,1288,897,1315"/>
+<area shape="rect" id="node37" href="$classirr_1_1gui_1_1_c_g_u_i_texture_cache_browser.html" title="irr::gui::CGUITextureCache\lBrowser" alt="" coords="721,1339,903,1381"/>
+<area shape="rect" id="node39" href="$classirr_1_1scene_1_1_c_camera_scene_node.html" title="irr::scene::CCameraSceneNode" alt="" coords="444,1339,652,1365"/>
+<area shape="rect" id="node41" href="$classirr_1_1scene_1_1_c_scene_node_animator_fly_circle.html" title="irr::scene::CSceneNodeAnimator\lFlyCircle" alt="" coords="441,1390,655,1431"/>
+<area shape="rect" id="node42" href="$classirr_1_1scene_1_1_c_scene_node_animator_rotation.html" title="irr::scene::CSceneNodeAnimator\lRotation" alt="" coords="441,1455,655,1497"/>
+<area shape="rect" id="node43" href="$classirr_1_1scene_1_1_i_scene_node_animator_camera_f_p_s.html" title="Special scene node animator for FPS cameras. " alt="" coords="444,1521,652,1562"/>
+<area shape="rect" id="node45" href="$classirr_1_1scene_1_1_i_scene_node_animator_camera_maya.html" title="Special scene node animator for Maya&#45;style cameras. " alt="" coords="444,1586,652,1627"/>
+<area shape="rect" id="node46" href="$classirr_1_1scene_1_1_i_scene_node_animator_collision_response.html" title="Special scene node animator for doing automatic collision detection and response. ..." alt="" coords="444,1651,652,1693"/>
+<area shape="rect" id="node47" href="$classirr_1_1scene_1_1_i_scene_node_animator_finishing.html" title="This is an abstract base class for animators that have a discrete end time. " alt="" coords="444,1717,652,1758"/>
+<area shape="rect" id="node44" href="$classirr_1_1scene_1_1_c_scene_node_animator_camera_f_p_s.html" title="Special scene node animator for FPS cameras. " alt="" coords="705,1521,919,1562"/>
+</map>

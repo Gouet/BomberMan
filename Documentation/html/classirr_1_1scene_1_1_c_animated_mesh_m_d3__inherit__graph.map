@@ -1,0 +1,6 @@
+<map id="irr::scene::CAnimatedMeshMD3" name="irr::scene::CAnimatedMeshMD3">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_animated_mesh_m_d3.html" title="Interface for using some special functions of MD3 meshes. " alt="" coords="8,229,211,256"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_animated_mesh.html" title="Interface for an animated mesh. " alt="" coords="22,155,196,181"/>
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_i_mesh.html" title="Class which holds the geometry of an object. " alt="" coords="49,80,169,107"/>
+<area shape="rect" id="node5" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="32,5,185,32"/>
+</map>

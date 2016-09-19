@@ -1,0 +1,8 @@
+<map id="my_memory_mgr" name="my_memory_mgr">
+<area shape="rect" id="node2" href="$structjpeg__memory__mgr.html" title="jpeg_memory_mgr" alt="" coords="253,5,382,32"/>
+<area shape="rect" id="node3" href="$unionsmall__pool__struct.html" title="small_pool_struct" alt="" coords="255,95,379,121"/>
+<area shape="rect" id="node4" href="$structjvirt__barray__control.html" title="jvirt_barray_control" alt="" coords="251,184,383,211"/>
+<area shape="rect" id="node5" href="$structbacking__store__struct.html" title="backing_store_struct" alt="" coords="6,224,149,251"/>
+<area shape="rect" id="node6" href="$structjvirt__sarray__control.html" title="jvirt_sarray_control" alt="" coords="251,273,383,300"/>
+<area shape="rect" id="node7" href="$unionlarge__pool__struct.html" title="large_pool_struct" alt="" coords="257,363,378,389"/>
+</map>

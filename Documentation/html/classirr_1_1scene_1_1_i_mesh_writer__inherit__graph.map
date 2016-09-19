@@ -1,0 +1,9 @@
+<map id="irr::scene::IMeshWriter" name="irr::scene::IMeshWriter">
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_c_irr_mesh_writer.html" title="class to write meshes, implementing a IrrMesh (.irrmesh, .xml) writer " alt="" coords="417,5,591,32"/>
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_c_o_b_j_mesh_writer.html" title="class to write meshes, implementing a OBJ writer " alt="" coords="411,56,597,83"/>
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_c_p_l_y_mesh_writer.html" title="class to write PLY mesh files " alt="" coords="411,107,597,133"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_s_t_l_mesh_writer.html" title="class to write meshes, implementing a STL writer " alt="" coords="411,157,597,184"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_i_collada_mesh_writer.html" title="Interface for writing meshes. " alt="" coords="422,209,586,250"/>
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,107,160,133"/>
+<area shape="rect" id="node8" href="$classirr_1_1scene_1_1_c_collada_mesh_writer.html" title="class to write meshes, implementing a COLLADA (.dae, .xml) writer " alt="" coords="645,209,816,250"/>
+</map>

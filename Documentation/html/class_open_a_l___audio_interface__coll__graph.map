@@ -1,0 +1,10 @@
+<map id="OpenAL_AudioInterface" name="OpenAL_AudioInterface">
+<area shape="rect" id="node2" href="$class_theora_audio_interface.html" title="TheoraAudioInterface" alt="" coords="5,83,152,109"/>
+<area shape="rect" id="node3" href="$class_theora_video_clip.html" title="TheoraVideoClip" alt="" coords="374,187,492,213"/>
+<area shape="rect" id="node5" href="$class_theora_frame_queue.html" title="TheoraFrameQueue" alt="" coords="486,277,623,304"/>
+<area shape="rect" id="node4" href="$class_theora_mutex.html" title="TheoraMutex" alt="" coords="757,83,856,109"/>
+<area shape="rect" id="node6" href="$class_theora_worker_thread.html" title="TheoraWorkerThread" alt="" coords="361,83,505,109"/>
+<area shape="rect" id="node7" href="$class_theora_thread.html" title="TheoraThread" alt="" coords="382,5,484,32"/>
+<area shape="rect" id="node8" href="$class_theora_timer.html" title="TheoraTimer" alt="" coords="209,83,303,109"/>
+<area shape="rect" id="node9" href="$class_theora_data_source.html" title="TheoraDataSource" alt="" coords="551,83,680,109"/>
+</map>

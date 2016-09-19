@@ -1,0 +1,11 @@
+<map id="irr::scene::ISkinnedMesh::SJoint" name="irr::scene::ISkinnedMesh::SJoint">
+<area shape="rect" id="node2" href="$classirr_1_1core_1_1vector3d.html" title="irr::core::vector3d\l\&lt; f32 \&gt;" alt="" coords="22,5,146,46"/>
+<area shape="rect" id="node3" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::ISkinnedMesh\l::SWeight \&gt;" alt="" coords="6,69,162,125"/>
+<area shape="rect" id="node4" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="12,149,156,176"/>
+<area shape="rect" id="node5" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::ISkinnedMesh\l::SScaleKey \&gt;" alt="" coords="6,200,162,256"/>
+<area shape="rect" id="node6" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::ISkinnedMesh\l::SPositionKey \&gt;" alt="" coords="6,280,162,336"/>
+<area shape="rect" id="node7" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; u32 \&gt;" alt="" coords="10,360,158,387"/>
+<area shape="rect" id="node8" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::ISkinnedMesh\l::SJoint * \&gt;" alt="" coords="6,411,162,467"/>
+<area shape="rect" id="node9" href="$classirr_1_1core_1_1quaternion.html" title="Quaternion class for representing rotations. " alt="" coords="17,491,151,517"/>
+<area shape="rect" id="node10" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::ISkinnedMesh\l::SRotationKey \&gt;" alt="" coords="6,541,162,597"/>
+</map>

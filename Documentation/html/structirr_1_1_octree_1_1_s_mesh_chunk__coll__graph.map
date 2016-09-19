@@ -1,0 +1,14 @@
+<map id="irr::Octree&lt; T &gt;::SMeshChunk" name="irr::Octree&lt; T &gt;::SMeshChunk">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_c_mesh_buffer.html" title="Template implementation of the IMeshBuffer interface. " alt="" coords="1195,107,1389,133"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_mesh_buffer.html" title="Struct for holding a mesh with a single material. " alt="" coords="435,5,589,32"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,15,160,41"/>
+<area shape="rect" id="node8" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="283,56,411,83"/>
+<area shape="rect" id="node5" href="$classirr_1_1video_1_1_s_material.html" title="Struct for holding parameters for a material renderer. " alt="" coords="922,56,1057,83"/>
+<area shape="rect" id="node6" href="$classirr_1_1video_1_1_s_color.html" title="Class representing a 32 bit ARGB color. " alt="" coords="637,145,757,172"/>
+<area shape="rect" id="node7" href="$classirr_1_1video_1_1_s_material_layer.html" title="Struct for holding material parameters which exist per texture layer. " alt="" coords="614,56,781,83"/>
+<area shape="rect" id="node9" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="14,73,151,100"/>
+<area shape="rect" id="node10" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; T \&gt;" alt="" coords="922,107,1057,133"/>
+<area shape="rect" id="node11" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; u16 \&gt;" alt="" coords="915,157,1063,184"/>
+<area shape="rect" id="node12" href="$classirr_1_1core_1_1aabbox3d.html" title="irr::core::aabbox3d\l\&lt; f32 \&gt;" alt="" coords="924,209,1055,250"/>
+<area shape="rect" id="node13" href="$classirr_1_1core_1_1vector3d.html" title="irr::core::vector3d\l\&lt; f32 \&gt;" alt="" coords="635,209,759,250"/>
+</map>

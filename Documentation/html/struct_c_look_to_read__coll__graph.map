@@ -1,0 +1,4 @@
+<map id="CLookToRead" name="CLookToRead">
+<area shape="rect" id="node2" href="$struct_i_look_in_stream.html" title="ILookInStream" alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node3" href="$struct_i_seek_in_stream.html" title="ISeekInStream" alt="" coords="136,5,245,32"/>
+</map>

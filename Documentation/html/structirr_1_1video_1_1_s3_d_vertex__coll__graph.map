@@ -1,0 +1,5 @@
+<map id="irr::video::S3DVertex" name="irr::video::S3DVertex">
+<area shape="rect" id="node2" href="$classirr_1_1core_1_1vector2d.html" title="irr::core::vector2d\l\&lt; f32 \&gt;" alt="" coords="5,6,128,47"/>
+<area shape="rect" id="node3" href="$classirr_1_1core_1_1vector3d.html" title="irr::core::vector3d\l\&lt; f32 \&gt;" alt="" coords="153,6,276,47"/>
+<area shape="rect" id="node4" href="$classirr_1_1video_1_1_s_color.html" title="Class representing a 32 bit ARGB color. " alt="" coords="301,13,421,40"/>
+</map>

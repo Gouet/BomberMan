@@ -1,0 +1,5 @@
+<map id="irr::video::CSoftware2MaterialRenderer_TRANSPARENT_ADD_COLOR" name="irr::video::CSoftware2MaterialRenderer_TRANSPARENT_ADD_COLOR">
+<area shape="rect" id="node2" href="$classirr_1_1video_1_1_c_software2_material_renderer.html" title="Base class for all internal Software2 material renderers. " alt="" coords="44,155,239,197"/>
+<area shape="rect" id="node3" href="$classirr_1_1video_1_1_i_material_renderer.html" title="Interface for material rendering. " alt="" coords="50,80,232,107"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="64,5,217,32"/>
+</map>

@@ -1,0 +1,22 @@
+######################BEGIN######################
+Converted quads in UV map of Tomb04_a.001 to tris.
+Exporting UV texture coordinates for Tomb04_a.001
+Exporting Tomb04_a.001
+Header Information
+Ident: IDP3
+Version: 15
+Name: 
+Flags: 0
+Number of Frames: 2
+Number of Tags: 0
+Number of Surfaces: 1
+Number of Skins: 0
+Offset Frames: 108
+Offset Tags: 220
+Offset Surfaces: 220
+Offset end: 20844
+Total Shaders: 1
+Total Triangles: 456
+Total Vertices: 624
+MD3 saved to /home/consta_n/Epitech/rendu/cpp_indie_studio/media/smallMap/meshes/tomb3.md3
+Elapsed 0.11704 seconds

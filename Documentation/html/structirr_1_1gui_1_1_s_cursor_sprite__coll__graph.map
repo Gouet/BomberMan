@@ -1,0 +1,4 @@
+<map id="irr::gui::SCursorSprite" name="irr::gui::SCursorSprite">
+<area shape="rect" id="node2" href="$classirr_1_1gui_1_1_i_g_u_i_sprite_bank.html" title="Sprite bank interface. " alt="" coords="5,83,163,109"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="7,5,160,32"/>
+</map>

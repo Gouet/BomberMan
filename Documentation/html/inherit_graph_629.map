@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structirr_1_1video_1_1_s3_d_vertex.html" title="standard vertex used by the Irrlicht engine. " alt="" coords="5,31,149,57"/>
+<area shape="rect" id="node2" href="$structirr_1_1video_1_1_s3_d_vertex2_t_coords.html" title="Vertex with two texture coordinates. " alt="" coords="198,5,399,32"/>
+<area shape="rect" id="node3" href="$structirr_1_1video_1_1_s3_d_vertex_tangents.html" title="Vertex with a tangent and binormal vector. " alt="" coords="199,56,398,83"/>
+</map>

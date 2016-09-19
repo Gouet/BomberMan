@@ -1,0 +1,6 @@
+<map id="irr::scene::CMeshCache::MeshEntry" name="irr::scene::CMeshCache::MeshEntry">
+<area shape="rect" id="node2" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="5,160,141,187"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_animated_mesh.html" title="Interface for an animated mesh. " alt="" coords="166,160,340,187"/>
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_i_mesh.html" title="Class which holds the geometry of an object. " alt="" coords="193,83,313,109"/>
+<area shape="rect" id="node5" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="176,5,329,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="irr::video::SBurningShaderMaterial" name="irr::video::SBurningShaderMaterial">
+<area shape="rect" id="node2" href="$classirr_1_1video_1_1_s_material.html" title="Struct for holding parameters for a material renderer. " alt="" coords="55,320,189,347"/>
+<area shape="rect" id="node3" href="$classirr_1_1video_1_1_s_color.html" title="Class representing a 32 bit ARGB color. " alt="" coords="5,187,125,213"/>
+<area shape="rect" id="node4" href="$classirr_1_1video_1_1_s_material_layer.html" title="Struct for holding material parameters which exist per texture layer. " alt="" coords="150,187,316,213"/>
+<area shape="rect" id="node5" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="169,96,297,123"/>
+<area shape="rect" id="node6" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="71,5,224,32"/>
+<area shape="rect" id="node7" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="250,5,387,32"/>
+<area shape="rect" id="node8" href="$structirr_1_1video_1_1s_vec3.html" title="irr::video::sVec3" alt="" coords="215,320,331,347"/>
+</map>

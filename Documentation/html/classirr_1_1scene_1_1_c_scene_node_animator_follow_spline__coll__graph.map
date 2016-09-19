@@ -1,0 +1,8 @@
+<map id="irr::scene::CSceneNodeAnimatorFollowSpline" name="irr::scene::CSceneNodeAnimatorFollowSpline">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_scene_node_animator_finishing.html" title="This is an abstract base class for animators that have a discrete end time. " alt="" coords="125,254,333,295"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_scene_node_animator.html" title="Animates a scene node. Can animate position, rotation, material, and so on. " alt="" coords="125,176,333,203"/>
+<area shape="rect" id="node4" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="5,83,184,125"/>
+<area shape="rect" id="node5" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="17,5,171,32"/>
+<area shape="rect" id="node6" href="$classirr_1_1_i_event_receiver.html" title="Interface of an object which can receive events. " alt="" coords="209,91,339,117"/>
+<area shape="rect" id="node7" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; core\l::vector3df \&gt;" alt="" coords="358,254,497,295"/>
+</map>

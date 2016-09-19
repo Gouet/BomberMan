@@ -1,0 +1,8 @@
+<map id="irr::scene::SMD3MeshBuffer" name="irr::scene::SMD3MeshBuffer">
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="25,5,180,32"/>
+<area shape="rect" id="node3" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::SMD3TexCoord \&gt;" alt="" coords="13,57,192,98"/>
+<area shape="rect" id="node4" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; s32 \&gt;" alt="" coords="29,123,177,149"/>
+<area shape="rect" id="node5" href="$structirr_1_1scene_1_1_s_m_d3_mesh_header.html" title="this holds the header info of an MD3 mesh section " alt="" coords="5,173,200,200"/>
+<area shape="rect" id="node6" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="31,224,175,251"/>
+<area shape="rect" id="node7" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::SMD3Vertex \&gt;" alt="" coords="23,275,183,317"/>
+</map>

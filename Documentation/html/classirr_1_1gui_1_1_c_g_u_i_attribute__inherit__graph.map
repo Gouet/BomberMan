@@ -1,0 +1,11 @@
+<map id="irr::gui::CGUIAttribute" name="irr::gui::CGUIAttribute">
+<area shape="rect" id="node6" href="$classirr_1_1gui_1_1_c_g_u_i_bool_attribute.html" title="irr::gui::CGUIBoolAttribute" alt="" coords="837,5,1011,32"/>
+<area shape="rect" id="node7" href="$classirr_1_1gui_1_1_c_g_u_i_color_attribute.html" title="irr::gui::CGUIColorAttribute" alt="" coords="834,56,1014,83"/>
+<area shape="rect" id="node8" href="$classirr_1_1gui_1_1_c_g_u_i_enum_attribute.html" title="irr::gui::CGUIEnumAttribute" alt="" coords="833,107,1015,133"/>
+<area shape="rect" id="node9" href="$classirr_1_1gui_1_1_c_g_u_i_string_attribute.html" title="irr::gui::CGUIStringAttribute" alt="" coords="833,157,1015,184"/>
+<area shape="rect" id="node10" href="$classirr_1_1gui_1_1_c_g_u_i_texture_attribute.html" title="irr::gui::CGUITextureAttribute" alt="" coords="827,208,1021,235"/>
+<area shape="rect" id="node2" href="$classirr_1_1gui_1_1_i_g_u_i_element.html" title="Base class of all GUI elements. " alt="" coords="438,107,581,133"/>
+<area shape="rect" id="node3" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="209,70,389,111"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,77,160,104"/>
+<area shape="rect" id="node5" href="$classirr_1_1_i_event_receiver.html" title="Interface of an object which can receive events. " alt="" coords="233,136,364,163"/>
+</map>

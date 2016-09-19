@@ -1,0 +1,9 @@
+<map id="irr::io::CTextureAttribute" name="irr::io::CTextureAttribute">
+<area shape="rect" id="node2" href="$classirr_1_1io_1_1_i_attribute.html" title="irr::io::IAttribute" alt="" coords="303,32,415,59"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,83,160,109"/>
+<area shape="rect" id="node5" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="295,133,423,160"/>
+<area shape="rect" id="node7" href="$classirr_1_1video_1_1_i_video_driver.html" title="Interface to driver which is able to perform 2d and 3d graphics functions. " alt="" coords="283,83,435,109"/>
+<area shape="rect" id="node4" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="11,5,155,32"/>
+<area shape="rect" id="node6" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="14,151,151,177"/>
+<area shape="rect" id="node8" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt;\l fschar_t \&gt;" alt="" coords="301,185,416,226"/>
+</map>

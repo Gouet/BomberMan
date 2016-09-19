@@ -1,0 +1,20 @@
+<map id="/home/veyrie_f/Documents/cpp_indie_studio/include/SoundManager.hpp" name="/home/veyrie_f/Documents/cpp_indie_studio/include/SoundManager.hpp">
+<area shape="rect" id="node2" href="$_a_character_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/ACharacter.cpp" alt="" coords="5,117,245,158"/>
+<area shape="rect" id="node3" href="$_a_bomb_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bombs\l/ABomb.cpp" alt="" coords="270,109,460,165"/>
+<area shape="rect" id="node4" href="$_a_item_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/AItem.cpp" alt="" coords="485,109,672,165"/>
+<area shape="rect" id="node5" href="$_bonus_atomic_bomb_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/BonusAtomicBomb.cpp" alt="" coords="696,109,883,165"/>
+<area shape="rect" id="node6" href="$_bonus_biggest_man_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/BonusBiggestMan.cpp" alt="" coords="907,109,1093,165"/>
+<area shape="rect" id="node7" href="$_bonus_bomb_pass_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/BonusBombPass.cpp" alt="" coords="1117,109,1304,165"/>
+<area shape="rect" id="node8" href="$_bonus_fire_bomb_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/BonusFireBomb.cpp" alt="" coords="1328,109,1515,165"/>
+<area shape="rect" id="node9" href="$_bonus_frag_bomb_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/BonusFragBomb.cpp" alt="" coords="1539,109,1725,165"/>
+<area shape="rect" id="node10" href="$_bonus_invincible_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/BonusInvincible.cpp" alt="" coords="1749,109,1936,165"/>
+<area shape="rect" id="node11" href="$_bonus_power_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/BonusPower.cpp" alt="" coords="1960,109,2147,165"/>
+<area shape="rect" id="node12" href="$_bonus_smallest_man_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/BonusSmallestMan.cpp" alt="" coords="2171,109,2357,165"/>
+<area shape="rect" id="node13" href="$_bonus_speed_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/BonusSpeed.cpp" alt="" coords="2381,109,2568,165"/>
+<area shape="rect" id="node14" href="$_bonus_tracker_bomb_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bonus\l/BonusTrackerBomb.cpp" alt="" coords="2592,109,2779,165"/>
+<area shape="rect" id="node15" href="$_game_manager_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/GameManager.cpp" alt="" coords="2803,117,3060,158"/>
+<area shape="rect" id="node16" href="$_game_over_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Interface\l/GameOver.cpp" alt="" coords="3085,109,3284,165"/>
+<area shape="rect" id="node17" href="$_u_i_event_receiver_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Interface\l/UIEventReceiver.cpp" alt="" coords="3309,109,3508,165"/>
+<area shape="rect" id="node18" href="$_intro_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Intro.cpp" alt="" coords="3533,117,3732,158"/>
+<area shape="rect" id="node19" href="$_sound_manager_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/SoundManager.cpp" alt="" coords="3757,117,4017,158"/>
+</map>

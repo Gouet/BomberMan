@@ -1,0 +1,5 @@
+<map id="irr::scene::SMD3QuaternionTag" name="irr::scene::SMD3QuaternionTag">
+<area shape="rect" id="node2" href="$classirr_1_1core_1_1vector3d.html" title="irr::core::vector3d\l\&lt; f32 \&gt;" alt="" coords="5,6,128,47"/>
+<area shape="rect" id="node3" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="153,13,297,40"/>
+<area shape="rect" id="node4" href="$classirr_1_1core_1_1quaternion.html" title="Quaternion class for representing rotations. " alt="" coords="322,13,456,40"/>
+</map>

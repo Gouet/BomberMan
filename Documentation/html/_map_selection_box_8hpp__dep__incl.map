@@ -1,0 +1,19 @@
+<map id="/home/veyrie_f/Documents/cpp_indie_studio/include/MapSelectionBox.hpp" name="/home/veyrie_f/Documents/cpp_indie_studio/include/MapSelectionBox.hpp">
+<area shape="rect" id="node2" href="$_u_i_event_receiver_8hpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/include\l/UIEventReceiver.hpp" alt="" coords="357,109,536,165"/>
+<area shape="rect" id="node11" href="$_map_selection_box_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Interface\l/MapSelectionBox.cpp" alt="" coords="2897,317,3096,373"/>
+<area shape="rect" id="node3" href="$_game_manager_8hpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/include\l/GameManager.hpp" alt="" coords="1421,213,1600,269"/>
+<area shape="rect" id="node13" href="$_u_i_event_receiver_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Interface\l/UIEventReceiver.cpp" alt="" coords="464,317,663,373"/>
+<area shape="rect" id="node16" href="$_player_selection_box_container_8hpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/include\l/PlayerSelectionBoxContainer.hpp" alt="" coords="241,213,463,269"/>
+<area shape="rect" id="node4" href="$_a_character_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/ACharacter.cpp" alt="" coords="2109,325,2349,366"/>
+<area shape="rect" id="node5" href="$_a_game_object_factory_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/AGameObject\lFactory.cpp" alt="" coords="2374,317,2604,373"/>
+<area shape="rect" id="node6" href="$_bomber_map_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/BomberMap.cpp" alt="" coords="2629,325,2872,366"/>
+<area shape="rect" id="node7" href="$_a_bomb_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Bombs\l/ABomb.cpp" alt="" coords="689,317,879,373"/>
+<area shape="rect" id="node8" href="$_game_manager_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/GameManager.cpp" alt="" coords="904,325,1161,366"/>
+<area shape="rect" id="node9" href="$_game_over_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Interface\l/GameOver.cpp" alt="" coords="1187,317,1385,373"/>
+<area shape="rect" id="node10" href="$_key_selection_box_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Interface\l/KeySelectionBox.cpp" alt="" coords="1411,317,1609,373"/>
+<area shape="rect" id="node12" href="$_player_selection_box_container_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Interface\l/PlayerSelectionBoxContainer.cpp" alt="" coords="219,317,440,373"/>
+<area shape="rect" id="node14" href="$src_2main_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/main.cpp" alt="" coords="1635,325,1837,366"/>
+<area shape="rect" id="node15" href="$_ranking_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Ranking.cpp" alt="" coords="1862,325,2084,366"/>
+<area shape="rect" id="node17" href="$_player_selection_box_8hpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/include\l/PlayerSelectionBox.hpp" alt="" coords="16,317,195,373"/>
+<area shape="rect" id="node18" href="$_player_selection_box_8cpp.html" title="/home/veyrie_f/Documents\l/cpp_indie_studio/src/Interface\l/PlayerSelectionBox.cpp" alt="" coords="5,421,204,477"/>
+</map>

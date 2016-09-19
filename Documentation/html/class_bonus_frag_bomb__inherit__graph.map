@@ -1,0 +1,5 @@
+<map id="BonusFragBomb" name="BonusFragBomb">
+<area shape="rect" id="node2" href="$class_a_bonus.html" title="ABonus" alt="" coords="30,155,97,181"/>
+<area shape="rect" id="node3" href="$class_a_game_object.html" title="AGameObject" alt="" coords="12,80,116,107"/>
+<area shape="rect" id="node4" href="$class_i_serialize.html" title="ISerialize" alt="" coords="26,5,101,32"/>
+</map>

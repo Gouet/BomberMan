@@ -1,0 +1,27 @@
+<map id="irr::io::IAttribute" name="irr::io::IAttribute">
+<area shape="rect" id="node3" href="$classirr_1_1io_1_1_c_bool_attribute.html" title="irr::io::CBoolAttribute" alt="" coords="395,157,539,184"/>
+<area shape="rect" id="node4" href="$classirr_1_1io_1_1_c_enum_attribute.html" title="irr::io::CEnumAttribute" alt="" coords="391,208,543,235"/>
+<area shape="rect" id="node5" href="$classirr_1_1io_1_1_c_float_attribute.html" title="irr::io::CFloatAttribute" alt="" coords="393,259,540,285"/>
+<area shape="rect" id="node6" href="$classirr_1_1io_1_1_c_int_attribute.html" title="irr::io::CIntAttribute" alt="" coords="400,309,533,336"/>
+<area shape="rect" id="node7" href="$classirr_1_1io_1_1_c_numbers_attribute.html" title="irr::io::CNumbersAttribute" alt="" coords="381,360,552,387"/>
+<area shape="rect" id="node22" href="$classirr_1_1io_1_1_c_string_attribute.html" title="irr::io::CStringAttribute" alt="" coords="391,411,543,437"/>
+<area shape="rect" id="node24" href="$classirr_1_1io_1_1_c_string_w_array_attribute.html" title="irr::io::CStringWArrayAttribute" alt="" coords="369,461,565,488"/>
+<area shape="rect" id="node25" href="$classirr_1_1io_1_1_c_texture_attribute.html" title="irr::io::CTextureAttribute" alt="" coords="385,512,548,539"/>
+<area shape="rect" id="node26" href="$classirr_1_1io_1_1_c_user_pointer_attribute.html" title="irr::io::CUserPointerAttribute" alt="" coords="373,563,560,589"/>
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,360,160,387"/>
+<area shape="rect" id="node8" href="$classirr_1_1io_1_1_c_b_box_attribute.html" title="irr::io::CBBoxAttribute" alt="" coords="635,5,786,32"/>
+<area shape="rect" id="node9" href="$classirr_1_1io_1_1_c_color_attribute.html" title="irr::io::CColorAttribute" alt="" coords="636,56,785,83"/>
+<area shape="rect" id="node10" href="$classirr_1_1io_1_1_c_colorf_attribute.html" title="irr::io::CColorfAttribute" alt="" coords="634,107,787,133"/>
+<area shape="rect" id="node11" href="$classirr_1_1io_1_1_c_dimension2d_attribute.html" title="irr::io::CDimension2dAttribute" alt="" coords="613,157,808,184"/>
+<area shape="rect" id="node12" href="$classirr_1_1io_1_1_c_line2d_attribute.html" title="irr::io::CLine2dAttribute" alt="" coords="633,208,789,235"/>
+<area shape="rect" id="node13" href="$classirr_1_1io_1_1_c_line3d_attribute.html" title="irr::io::CLine3dAttribute" alt="" coords="633,259,789,285"/>
+<area shape="rect" id="node14" href="$classirr_1_1io_1_1_c_matrix_attribute.html" title="irr::io::CMatrixAttribute" alt="" coords="633,309,788,336"/>
+<area shape="rect" id="node15" href="$classirr_1_1io_1_1_c_plane_attribute.html" title="irr::io::CPlaneAttribute" alt="" coords="635,360,786,387"/>
+<area shape="rect" id="node16" href="$classirr_1_1io_1_1_c_position2_d_attribute.html" title="irr::io::CPosition2DAttribute" alt="" coords="619,411,802,437"/>
+<area shape="rect" id="node17" href="$classirr_1_1io_1_1_c_quaternion_attribute.html" title="irr::io::CQuaternionAttribute" alt="" coords="620,461,801,488"/>
+<area shape="rect" id="node18" href="$classirr_1_1io_1_1_c_rect_attribute.html" title="irr::io::CRectAttribute" alt="" coords="637,512,784,539"/>
+<area shape="rect" id="node19" href="$classirr_1_1io_1_1_c_triangle_attribute.html" title="irr::io::CTriangleAttribute" alt="" coords="629,563,793,589"/>
+<area shape="rect" id="node20" href="$classirr_1_1io_1_1_c_vector2_d_attribute.html" title="irr::io::CVector2DAttribute" alt="" coords="624,613,797,640"/>
+<area shape="rect" id="node21" href="$classirr_1_1io_1_1_c_vector3_d_attribute.html" title="irr::io::CVector3DAttribute" alt="" coords="624,664,797,691"/>
+<area shape="rect" id="node23" href="$classirr_1_1io_1_1_c_binary_attribute.html" title="irr::io::CBinaryAttribute" alt="" coords="633,715,788,741"/>
+</map>

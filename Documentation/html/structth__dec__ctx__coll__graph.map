@@ -1,0 +1,13 @@
+<map id="th_dec_ctx" name="th_dec_ctx">
+<area shape="rect" id="node2" href="$structoc__theora__state.html" title="oc_theora_state" alt="" coords="459,96,573,123"/>
+<area shape="rect" id="node3" href="$structoc__fragment.html" title="oc_fragment" alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node4" href="$structoc__sb__flags.html" title="oc_sb_flags" alt="" coords="123,5,215,32"/>
+<area shape="rect" id="node5" href="$structoc__fragment__plane.html" title="oc_fragment_plane" alt="" coords="239,5,371,32"/>
+<area shape="rect" id="node6" href="$structoc__border__info.html" title="oc_border_info" alt="" coords="396,5,503,32"/>
+<area shape="rect" id="node7" href="$structoc__base__opt__data.html" title="oc_base_opt_data" alt="" coords="527,5,655,32"/>
+<area shape="rect" id="node8" href="$structth__info.html" title="th_info" alt="" coords="679,5,740,32"/>
+<area shape="rect" id="node9" href="$structth__img__plane.html" title="th_img_plane" alt="" coords="772,5,871,32"/>
+<area shape="rect" id="node10" href="$structth__stripe__callback.html" title="th_stripe_callback" alt="" coords="945,96,1071,123"/>
+<area shape="rect" id="node11" href="$structoc__pack__buf.html" title="oc_pack_buf" alt="" coords="1096,96,1192,123"/>
+<area shape="rect" id="node12" href="$structoc__dec__pipeline__state.html" title="oc_dec_pipeline_state" alt="" coords="1217,96,1367,123"/>
+</map>

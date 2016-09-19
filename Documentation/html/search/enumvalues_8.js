@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['iabc',['iABC',['../lopcodes_8h.html#a56752d1aeb4bd4940e632396072d68afa5032b5bab05a3312f6236ad8a6053cf3',1,'lopcodes.h']]],
+  ['iabx',['iABx',['../lopcodes_8h.html#a56752d1aeb4bd4940e632396072d68afae162f330f7a1e7581cdbbb4af60dc8ea',1,'lopcodes.h']]],
+  ['iasbx',['iAsBx',['../lopcodes_8h.html#a56752d1aeb4bd4940e632396072d68afa5db94456d16691b254a6b2fc7b473e55',1,'lopcodes.h']]],
+  ['iax',['iAx',['../lopcodes_8h.html#a56752d1aeb4bd4940e632396072d68afa453db051897b5faf2716653c2aa5a2e2',1,'lopcodes.h']]],
+  ['identity',['IDENTITY',['../namespaceirr_1_1scene_1_1quake3.html#a504f56c895e8c5fb1924037b21bafd9cac70a4709a6fb9e60885e0dbabd54ea46',1,'irr::scene::quake3']]],
+  ['identitylighting',['IDENTITYLIGHTING',['../namespaceirr_1_1scene_1_1quake3.html#a504f56c895e8c5fb1924037b21bafd9caa8bbd980884e4c3729484b4a435f6a61',1,'irr::scene::quake3']]],
+  ['idle',['IDLE',['../class_a_character.html#a0582a3b4715b1ca5cbc460078211a3f9ac8643e98f36527abe976713f44b74cad',1,'ACharacter']]],
+  ['invicible',['Invicible',['../class_wall.html#a798da497e725d67af64387715516049dabf2b973aedc74d3e83f507dba99e8b98',1,'Wall']]],
+  ['irr_5flocale_5fansi',['IRR_LOCALE_ANSI',['../namespaceirr_1_1core.html#a4682709540c80568b555acc36dbf3a4aaaf4222f0bb13d66f9fe4333f5edab6c4',1,'irr::core']]],
+  ['irr_5flocale_5fgerman',['IRR_LOCALE_GERMAN',['../namespaceirr_1_1core.html#a4682709540c80568b555acc36dbf3a4aa8e95f50ba8a2ba6447d99f5613c44876',1,'irr::core']]],
+  ['is_5frendertarget',['IS_RENDERTARGET',['../classirr_1_1video_1_1_c_software_texture2.html#a998d86341a2ecbddfd9b6b1891692ea5acf00b895503c94969a1503dc2a58f123',1,'irr::video::CSoftwareTexture2']]],
+  ['isrel3d_5fback',['ISREL3D_BACK',['../namespaceirr_1_1core.html#a8a9999eb0d151083f48afe5f7d17a96cae3f42495b4c63c980c19a82a44b7746b',1,'irr::core']]],
+  ['isrel3d_5fclipped',['ISREL3D_CLIPPED',['../namespaceirr_1_1core.html#a8a9999eb0d151083f48afe5f7d17a96ca4a33464e7b7175c8614c5a6c9f9a3751',1,'irr::core']]],
+  ['isrel3d_5ffront',['ISREL3D_FRONT',['../namespaceirr_1_1core.html#a8a9999eb0d151083f48afe5f7d17a96ca30484977b2480b6d6621114512d0b703',1,'irr::core']]],
+  ['isrel3d_5fplanar',['ISREL3D_PLANAR',['../namespaceirr_1_1core.html#a8a9999eb0d151083f48afe5f7d17a96ca8a8605f10c124b4aca71783cc7735f0c',1,'irr::core']]],
+  ['isrel3d_5fspanning',['ISREL3D_SPANNING',['../namespaceirr_1_1core.html#a8a9999eb0d151083f48afe5f7d17a96ca26444234d5d37ce75f55249fffe25a61',1,'irr::core']]],
+  ['item',['ITEM',['../class_a_game_object.html#ab378805fb1f378866c7782dc69c0de94a784659f1a71efd063d392c1c3cdc8a40',1,'AGameObject']]]
+];

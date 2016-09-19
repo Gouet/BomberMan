@@ -1,0 +1,9 @@
+<map id="Proto" name="Proto">
+<area shape="rect" id="node5" href="$struct_l_closure.html" title="LClosure" alt="" coords="117,291,191,317"/>
+<area shape="rect" id="node2" href="$structlua___t_value.html" title="lua_TValue" alt="" coords="5,96,91,123"/>
+<area shape="rect" id="node6" href="$struct_up_val.html" title="UpVal" alt="" coords="28,200,85,227"/>
+<area shape="rect" id="node3" href="$struct_loc_var.html" title="LocVar" alt="" coords="211,96,273,123"/>
+<area shape="rect" id="node4" href="$struct_t_string.html" title="TString" alt="" coords="211,5,275,32"/>
+<area shape="rect" id="node8" href="$struct_upvaldesc.html" title="Upvaldesc" alt="" coords="298,96,381,123"/>
+<area shape="rect" id="node7" href="$struct_g_c_object.html" title="GCObject" alt="" coords="407,96,485,123"/>
+</map>

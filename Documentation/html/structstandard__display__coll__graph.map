@@ -1,0 +1,17 @@
+<map id="standard_display" name="standard_display">
+<area shape="rect" id="node2" href="$structpng__store.html" title="png_store" alt="" coords="235,443,313,469"/>
+<area shape="rect" id="node8" href="$structstore__pool.html" title="store_pool" alt="" coords="233,547,314,573"/>
+<area shape="rect" id="node3" href="$structpng__store__file.html" title="png_store_file" alt="" coords="24,337,126,364"/>
+<area shape="rect" id="node4" href="$structpng__store__buffer.html" title="png_store_buffer" alt="" coords="167,216,285,243"/>
+<area shape="rect" id="node5" href="$structstore__palette__entry.html" title="store_palette_entry" alt="" coords="9,216,142,243"/>
+<area shape="rect" id="node6" href="$structpng__info__def.html" title="png_info_def" alt="" coords="374,337,470,364"/>
+<area shape="rect" id="node7" href="$structpng__color__struct.html" title="png_color_struct" alt="" coords="400,216,518,243"/>
+<area shape="rect" id="node10" href="$structpng__struct__def.html" title="png_struct_def" alt="" coords="495,337,602,364"/>
+<area shape="rect" id="node9" href="$structstore__memory.html" title="store_memory" alt="" coords="221,637,326,664"/>
+<area shape="rect" id="node11" href="$structz__stream__s.html" title="z_stream_s" alt="" coords="609,216,699,243"/>
+<area shape="rect" id="node12" href="$structinternal__state.html" title="internal_state" alt="" coords="729,337,829,364"/>
+<area shape="rect" id="node13" href="$structgz__header__s.html" title="gz_header_s" alt="" coords="727,216,823,243"/>
+<area shape="rect" id="node14" href="$structtree__desc__s.html" title="tree_desc_s" alt="" coords="847,216,941,243"/>
+<area shape="rect" id="node15" href="$structstatic__tree__desc__s.html" title="static_tree_desc_s" alt="" coords="713,96,845,123"/>
+<area shape="rect" id="node16" href="$structct__data__s.html" title="ct_data_s" alt="" coords="855,5,933,32"/>
+</map>

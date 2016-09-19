@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structirr_1_1scene_1_1_i_vertex_manipulator.html" title="Interface for vertex manipulators. " alt="" coords="6,568,199,595"/>
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_s_vertex_color_brightness_manipulator.html" title="Vertex manipulator which adjusts the brightness by the given amount. " alt="" coords="283,5,445,46"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_s_vertex_color_contrast_brightness_manipulator.html" title="Vertex manipulator which adjusts the contrast by the given factor and brightness by a signed amount..." alt="" coords="263,70,465,111"/>
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_s_vertex_color_contrast_manipulator.html" title="Vertex manipulator which adjusts the contrast by the given factor. " alt="" coords="283,135,445,177"/>
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_s_vertex_color_desaturate_to_average_manipulator.html" title="Vertex manipulator which desaturates the color values. " alt="" coords="256,201,472,242"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_s_vertex_color_desaturate_to_lightness_manipulator.html" title="Vertex manipulator which desaturates the color values. " alt="" coords="252,266,476,307"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_s_vertex_color_desaturate_to_luminance_manipulator.html" title="Vertex manipulator which desaturates the color values. " alt="" coords="249,331,479,373"/>
+<area shape="rect" id="node8" href="$classirr_1_1scene_1_1_s_vertex_color_gamma_manipulator.html" title="Vertex manipulator which adjusts the brightness by a gamma operation. " alt="" coords="283,397,445,438"/>
+<area shape="rect" id="node9" href="$classirr_1_1scene_1_1_s_vertex_color_interpolate_linear_manipulator.html" title="Vertex manipulator which interpolates the color values. " alt="" coords="271,462,457,503"/>
+<area shape="rect" id="node10" href="$classirr_1_1scene_1_1_s_vertex_color_interpolate_quadratic_manipulator.html" title="Vertex manipulator which interpolates the color values. " alt="" coords="261,527,467,569"/>
+<area shape="rect" id="node11" href="$classirr_1_1scene_1_1_s_vertex_color_invert_manipulator.html" title="Vertex manipulator which invertes the RGB values. " alt="" coords="283,593,445,634"/>
+<area shape="rect" id="node12" href="$classirr_1_1scene_1_1_s_vertex_color_scale_manipulator.html" title="Vertex manipulator which scales the color values. " alt="" coords="283,658,445,699"/>
+<area shape="rect" id="node13" href="$classirr_1_1scene_1_1_s_vertex_color_set_alpha_manipulator.html" title="Vertex manipulator to set the alpha value of the vertex color to a fixed value. " alt="" coords="283,723,445,765"/>
+<area shape="rect" id="node14" href="$classirr_1_1scene_1_1_s_vertex_color_set_manipulator.html" title="Vertex manipulator to set color to a fixed color for all vertices. " alt="" coords="283,789,445,830"/>
+<area shape="rect" id="node15" href="$classirr_1_1scene_1_1_s_vertex_color_threshold_manipulator.html" title="Vertex manipulator to set vertex color to one of two values depending on a given threshold. " alt="" coords="283,854,445,895"/>
+<area shape="rect" id="node16" href="$classirr_1_1scene_1_1_s_vertex_position_scale_along_normals_manipulator.html" title="Vertex manipulator which scales the position of the vertex along the normals. " alt="" coords="262,919,466,961"/>
+<area shape="rect" id="node17" href="$classirr_1_1scene_1_1_s_vertex_position_scale_manipulator.html" title="Vertex manipulator which scales the position of the vertex. " alt="" coords="275,985,453,1026"/>
+<area shape="rect" id="node18" href="$classirr_1_1scene_1_1_s_vertex_position_transform_manipulator.html" title="Vertex manipulator which transforms the position of the vertex. " alt="" coords="275,1050,453,1091"/>
+<area shape="rect" id="node19" href="$classirr_1_1scene_1_1_s_vertex_t_coords_scale_manipulator.html" title="Vertex manipulator which scales the TCoords of the vertex. " alt="" coords="273,1115,455,1157"/>
+</map>

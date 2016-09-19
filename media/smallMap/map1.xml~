@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<config>
+
+    <target px="0" py="0" pz="49" />
+    <!-- <camera px="0" py="345" pz="-95" fov="0.85521" /> -->
+    <camera px="0" py="363.8" pz="-59.8" fov="0.85756" />
+    <size size="0" />
+
+    <spawn px="1" py="1" />
+    <spawn px="9" py="9" />
+    <spawn px="9" py="1" />
+    <spawn px="1" py="9" />
+
+    <ambient_light r="0.8" g="0.8" b="1" a="1" />
+
+    <meshes_dir file="./media/smallMap/meshes/" />
+    <textures_dir file="./media/smallMap/textures/" />
+
+    <props mesh="carpet.md3" texture="Carpet01_D.png" transparent="1" />
+    <props mesh="carpet5.md3" texture="Carpet03_D.png" transparent="1" />
+    <props mesh="chest3.md3" texture="Chest03_D.BMP" />
+    <props mesh="chest4.md3" texture="Chest04_D.BMP" />
+    <props mesh="curtain.md3" texture="curtain_d.png" />
+    <props mesh="goods.md3" texture="goods_d.png" />
+    <props mesh="ground.md3" texture="ground_d1.png" />
+    <props mesh="light.md3" texture="Light01_D.png" transparent="1" />
+    <props mesh="pillar.md3" texture="pillar_d.png" />
+    <props mesh="statue.md3" texture="statue_d.png" />
+    <props mesh="table.md3" texture="table_d.png" />
+
+    <!-- <props mesh="tomb.md3" texture="Tomb01_D.BMP" /> -->
+    <props mesh="wall_left.md3" texture="wall_left.png" />
+
+    <props mesh="wall_right.md3" texture="wall_right.png" />
+    <props mesh="weapon.md3" texture="weapon_d.png" />
+
+</config>

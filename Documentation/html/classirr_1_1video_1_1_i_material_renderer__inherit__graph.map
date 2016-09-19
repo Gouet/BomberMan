@@ -1,0 +1,8 @@
+<map id="irr::video::IMaterialRenderer" name="irr::video::IMaterialRenderer">
+<area shape="rect" id="node3" href="$classirr_1_1video_1_1_c_software2_material_renderer.html" title="Base class for all internal Software2 material renderers. " alt="" coords="440,103,635,145"/>
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,111,160,137"/>
+<area shape="rect" id="node4" href="$classirr_1_1video_1_1_c_burning_shader___r_e_f_e_r_e_n_c_e.html" title="unsupported material renderer " alt="" coords="733,5,907,46"/>
+<area shape="rect" id="node5" href="$classirr_1_1video_1_1_c_software2_material_renderer___s_o_l_i_d.html" title="solid material renderer " alt="" coords="723,70,917,111"/>
+<area shape="rect" id="node6" href="$classirr_1_1video_1_1_c_software2_material_renderer___t_r_a_n_s_p_a_r_e_n_t___a_d_d___c_o_l_o_r.html" title="Transparent material renderer. " alt="" coords="683,135,957,177"/>
+<area shape="rect" id="node7" href="$classirr_1_1video_1_1_c_software2_material_renderer___u_n_s_u_p_p_o_r_t_e_d.html" title="unsupported material renderer " alt="" coords="723,201,917,242"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="irr::gui::CGUIEditWorkspace" name="irr::gui::CGUIEditWorkspace">
+<area shape="rect" id="node2" href="$classirr_1_1gui_1_1_i_g_u_i_element.html" title="Base class of all GUI elements. " alt="" coords="571,240,714,267"/>
+<area shape="rect" id="node3" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="211,5,391,46"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,39,160,65"/>
+<area shape="rect" id="node9" href="$classirr_1_1gui_1_1_i_g_u_i_environment.html" title="GUI Environment. Used as factory and manager of all other GUI elements. " alt="" coords="218,71,385,97"/>
+<area shape="rect" id="node5" href="$classirr_1_1_i_event_receiver.html" title="Interface of an object which can receive events. " alt="" coords="236,121,367,148"/>
+<area shape="rect" id="node6" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt;\l wchar_t \&gt;" alt="" coords="244,173,359,214"/>
+<area shape="rect" id="node7" href="$classirr_1_1core_1_1dimension2d.html" title="irr::core::dimension2d\l\&lt; u32 \&gt;" alt="" coords="228,238,375,279"/>
+<area shape="rect" id="node8" href="$classirr_1_1core_1_1rect.html" title="irr::core::rect\&lt; s32 \&gt;" alt="" coords="231,339,372,365"/>
+<area shape="rect" id="node10" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="229,389,373,416"/>
+<area shape="rect" id="node11" href="$classirr_1_1core_1_1list.html" title="irr::core::list\&lt; irr\l::gui::IGUIElement * \&gt;" alt="" coords="225,441,377,482"/>
+<area shape="rect" id="node12" href="$classirr_1_1core_1_1rect.html" title="irr::core::rect\&lt; f32 \&gt;" alt="" coords="232,507,371,533"/>
+</map>

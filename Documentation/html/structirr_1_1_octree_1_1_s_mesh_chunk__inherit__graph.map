@@ -1,0 +1,5 @@
+<map id="irr::Octree&lt; T &gt;::SMeshChunk" name="irr::Octree&lt; T &gt;::SMeshChunk">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_c_mesh_buffer.html" title="Template implementation of the IMeshBuffer interface. " alt="" coords="7,155,200,181"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_mesh_buffer.html" title="Struct for holding a mesh with a single material. " alt="" coords="27,80,180,107"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="27,5,180,32"/>
+</map>

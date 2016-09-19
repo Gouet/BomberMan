@@ -1,0 +1,21 @@
+<map id="MyEventReceiver" name="MyEventReceiver">
+<area shape="rect" id="node2" href="$classirr_1_1_i_event_receiver.html" title="Interface of an object which can receive events. " alt="" coords="837,227,968,253"/>
+<area shape="rect" id="node3" href="$classirr_1_1_irrlicht_device.html" title="The Irrlicht device. You can create it with createDevice() or createDeviceEx(). " alt="" coords="238,412,357,439"/>
+<area shape="rect" id="node5" href="$classirr_1_1_c_font_tool.html" title="irr::CFontTool" alt="" coords="573,531,675,557"/>
+<area shape="rect" id="node19" href="$class_c_group_finder.html" title="CGroupFinder" alt="" coords="573,251,675,277"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,447,160,473"/>
+<area shape="rect" id="node11" href="$class_c_vector_font_tool.html" title="CVectorFontTool" alt="" coords="842,277,963,304"/>
+<area shape="rect" id="node6" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; core\l::stringw \&gt;" alt="" coords="227,523,367,565"/>
+<area shape="rect" id="node7" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; video\l::IImage * \&gt;" alt="" coords="224,589,371,630"/>
+<area shape="rect" id="node8" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; video\l::ITexture * \&gt;" alt="" coords="224,654,371,695"/>
+<area shape="rect" id="node9" href="$classirr_1_1core_1_1map.html" title="irr::core::map\&lt; wchar\l_t, u32 \&gt;" alt="" coords="224,719,371,761"/>
+<area shape="rect" id="node10" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::CFontTool::SFontArea \&gt;" alt="" coords="211,785,384,826"/>
+<area shape="rect" id="node12" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; bool \&gt;" alt="" coords="549,9,699,36"/>
+<area shape="rect" id="node13" href="$struct_s_triangle_list.html" title="STriangleList" alt="" coords="575,60,673,87"/>
+<area shape="rect" id="node14" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; core\l::vector2df \&gt;" alt="" coords="227,15,367,57"/>
+<area shape="rect" id="node15" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; u16 \&gt;" alt="" coords="223,97,371,124"/>
+<area shape="rect" id="node16" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; s32 \&gt;" alt="" coords="223,207,371,233"/>
+<area shape="rect" id="node17" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; wchar_t \&gt;" alt="" coords="537,301,711,328"/>
+<area shape="rect" id="node18" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; S3DVertex \&gt;" alt="" coords="529,352,719,379"/>
+<area shape="rect" id="node20" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; CGroup\lFinder::SPixelGroup \&gt;" alt="" coords="217,277,377,318"/>
+</map>

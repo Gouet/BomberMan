@@ -1,0 +1,6 @@
+<map id="irr::scene::quake3::IShader" name="irr::scene::quake3::IShader">
+<area shape="rect" id="node2" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="5,120,149,147"/>
+<area shape="rect" id="node3" href="$structirr_1_1scene_1_1quake3_1_1_s_var_group_list.html" title="holding a group a variable " alt="" coords="174,113,300,154"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="60,13,213,40"/>
+<area shape="rect" id="node5" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::quake3::SVarGroup \&gt;" alt="" coords="238,6,436,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ACharacter" name="ACharacter">
+<area shape="rect" id="node4" href="$class_i_a_player.html" title="IAPlayer" alt="" coords="5,229,77,256"/>
+<area shape="rect" id="node5" href="$class_player.html" title="Player" alt="" coords="101,229,159,256"/>
+<area shape="rect" id="node2" href="$class_a_game_object.html" title="AGameObject" alt="" coords="33,80,137,107"/>
+<area shape="rect" id="node3" href="$class_i_serialize.html" title="ISerialize" alt="" coords="47,5,123,32"/>
+</map>

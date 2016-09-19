@@ -1,0 +1,6 @@
+<map id="irr::scene::SSource" name="irr::scene::SSource">
+<area shape="rect" id="node2" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="7,5,151,32"/>
+<area shape="rect" id="node3" href="$structirr_1_1scene_1_1_s_number_array.html" title="irr::scene::SNumberArray" alt="" coords="240,52,411,79"/>
+<area shape="rect" id="node4" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; f32 \&gt;" alt="" coords="6,71,151,97"/>
+<area shape="rect" id="node5" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::SAccessor \&gt;" alt="" coords="251,103,400,145"/>
+</map>

@@ -1,0 +1,298 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classirr_1_1_i_event_receiver.html" title="Interface of an object which can receive events. " alt="" coords="247,613,377,640"/>
+<area shape="rect" id="node2" href="$class_c_events.html" title="CEvents" alt="" coords="531,563,605,589"/>
+<area shape="rect" id="node3" href="$class_event_game.html" title="EventGame" alt="" coords="523,613,613,640"/>
+<area shape="rect" id="node4" href="$classirr_1_1gui_1_1_i_g_u_i_element.html" title="Base class of all GUI elements. " alt="" coords="497,664,639,691"/>
+<area shape="rect" id="node38" href="$classirr_1_1scene_1_1_i_camera_scene_node.html" title="Scene Node which is a (controlable) camera. " alt="" coords="756,1631,959,1657"/>
+<area shape="rect" id="node40" href="$classirr_1_1scene_1_1_i_scene_node_animator.html" title="Animates a scene node. Can animate position, rotation, material, and so on. " alt="" coords="464,1408,672,1435"/>
+<area shape="rect" id="node54" href="$class_my_event_receiver.html" title="MyEventReceiver" alt="" coords="505,461,631,488"/>
+<area shape="rect" id="node55" href="$class_u_i_event_receiver.html" title="UIEventReceiver" alt="" coords="507,512,629,539"/>
+<area shape="rect" id="node5" href="$classirr_1_1gui_1_1_c_g_u_i_attribute.html" title="irr::gui::CGUIAttribute" alt="" coords="783,664,932,691"/>
+<area shape="rect" id="node11" href="$classirr_1_1gui_1_1_c_g_u_i_dummy_editor_stub.html" title="irr::gui::CGUIDummyEditorStub" alt="" coords="754,715,961,741"/>
+<area shape="rect" id="node12" href="$classirr_1_1gui_1_1_c_g_u_i_edit_workspace.html" title="irr::gui::CGUIEditWorkspace" alt="" coords="763,765,952,792"/>
+<area shape="rect" id="node13" href="$classirr_1_1gui_1_1_c_g_u_i_panel.html" title="irr::gui::CGUIPanel" alt="" coords="791,816,924,843"/>
+<area shape="rect" id="node15" href="$classirr_1_1gui_1_1_i_g_u_i_button.html" title="GUI Button interface. " alt="" coords="791,867,923,893"/>
+<area shape="rect" id="node16" href="$classirr_1_1gui_1_1_i_g_u_i_check_box.html" title="GUI Check box interface. " alt="" coords="780,917,935,944"/>
+<area shape="rect" id="node17" href="$classirr_1_1gui_1_1_i_g_u_i_color_select_dialog.html" title="Standard color chooser dialog. " alt="" coords="776,969,939,1010"/>
+<area shape="rect" id="node18" href="$classirr_1_1gui_1_1_i_g_u_i_combo_box.html" title="Combobox widget. " alt="" coords="778,1035,937,1061"/>
+<area shape="rect" id="node19" href="$classirr_1_1gui_1_1_i_g_u_i_context_menu.html" title="GUI Context menu interface. " alt="" coords="771,1085,943,1112"/>
+<area shape="rect" id="node20" href="$classirr_1_1gui_1_1_i_g_u_i_edit_box.html" title="Single line edit box for editing simple text. " alt="" coords="787,1136,927,1163"/>
+<area shape="rect" id="node21" href="$classirr_1_1gui_1_1_i_g_u_i_file_open_dialog.html" title="Standard file chooser dialog. " alt="" coords="766,1187,949,1213"/>
+<area shape="rect" id="node22" href="$classirr_1_1gui_1_1_i_g_u_i_image.html" title="GUI element displaying an image. " alt="" coords="792,5,923,32"/>
+<area shape="rect" id="node23" href="$classirr_1_1gui_1_1_i_g_u_i_in_out_fader.html" title="Element for fading out or in. " alt="" coords="778,56,937,83"/>
+<area shape="rect" id="node24" href="$classirr_1_1gui_1_1_i_g_u_i_list_box.html" title="Default list box GUI element. " alt="" coords="788,107,927,133"/>
+<area shape="rect" id="node25" href="$classirr_1_1gui_1_1_i_g_u_i_mesh_viewer.html" title="3d mesh viewing GUI element. " alt="" coords="774,157,941,184"/>
+<area shape="rect" id="node26" href="$classirr_1_1gui_1_1_i_g_u_i_scroll_bar.html" title="Default scroll bar GUI element. " alt="" coords="784,208,931,235"/>
+<area shape="rect" id="node27" href="$classirr_1_1gui_1_1_i_g_u_i_spin_box.html" title="Single line edit box + spin buttons. " alt="" coords="786,259,929,285"/>
+<area shape="rect" id="node28" href="$classirr_1_1gui_1_1_i_g_u_i_static_text.html" title="Multi or single line text label. " alt="" coords="780,309,935,336"/>
+<area shape="rect" id="node29" href="$classirr_1_1gui_1_1_i_g_u_i_tab.html" title="A tab&#45;page, onto which other gui elements could be added. " alt="" coords="799,360,915,387"/>
+<area shape="rect" id="node30" href="$classirr_1_1gui_1_1_i_g_u_i_tab_control.html" title="A standard tab control. " alt="" coords="778,411,937,437"/>
+<area shape="rect" id="node31" href="$classirr_1_1gui_1_1_i_g_u_i_table.html" title="Default list box GUI element. " alt="" coords="794,461,921,488"/>
+<area shape="rect" id="node32" href="$classirr_1_1gui_1_1_i_g_u_i_tool_bar.html" title="Stays at the top of its parent like the menu bar and contains tool buttons. " alt="" coords="788,512,927,539"/>
+<area shape="rect" id="node33" href="$classirr_1_1gui_1_1_i_g_u_i_tree_view.html" title="Default tree view GUI element. " alt="" coords="783,563,932,589"/>
+<area shape="rect" id="node35" href="$classirr_1_1gui_1_1_i_g_u_i_window.html" title="Default moveable window GUI element with border, caption and close icons. " alt="" coords="787,613,928,640"/>
+<area shape="rect" id="node6" href="$classirr_1_1gui_1_1_c_g_u_i_bool_attribute.html" title="irr::gui::CGUIBoolAttribute" alt="" coords="1069,613,1243,640"/>
+<area shape="rect" id="node7" href="$classirr_1_1gui_1_1_c_g_u_i_color_attribute.html" title="irr::gui::CGUIColorAttribute" alt="" coords="1066,664,1246,691"/>
+<area shape="rect" id="node8" href="$classirr_1_1gui_1_1_c_g_u_i_enum_attribute.html" title="irr::gui::CGUIEnumAttribute" alt="" coords="1065,715,1247,741"/>
+<area shape="rect" id="node9" href="$classirr_1_1gui_1_1_c_g_u_i_string_attribute.html" title="irr::gui::CGUIStringAttribute" alt="" coords="1065,765,1247,792"/>
+<area shape="rect" id="node10" href="$classirr_1_1gui_1_1_c_g_u_i_texture_attribute.html" title="irr::gui::CGUITextureAttribute" alt="" coords="1059,816,1253,843"/>
+<area shape="rect" id="node14" href="$classirr_1_1gui_1_1_c_g_u_i_attribute_editor.html" title="irr::gui::CGUIAttributeEditor" alt="" coords="1065,867,1247,893"/>
+<area shape="rect" id="node34" href="$classirr_1_1gui_1_1_c_g_u_i_tree_view.html" title="Default tree view GUI element. " alt="" coords="1079,445,1233,472"/>
+<area shape="rect" id="node36" href="$classirr_1_1gui_1_1_c_g_u_i_edit_window.html" title="irr::gui::CGUIEditWindow" alt="" coords="1071,563,1241,589"/>
+<area shape="rect" id="node37" href="$classirr_1_1gui_1_1_c_g_u_i_texture_cache_browser.html" title="irr::gui::CGUITextureCache\lBrowser" alt="" coords="1065,497,1247,538"/>
+<area shape="rect" id="node39" href="$classirr_1_1scene_1_1_c_camera_scene_node.html" title="irr::scene::CCameraSceneNode" alt="" coords="1052,1631,1260,1657"/>
+<area shape="rect" id="node41" href="$classirr_1_1scene_1_1_c_scene_node_animator_fly_circle.html" title="irr::scene::CSceneNodeAnimator\lFlyCircle" alt="" coords="750,1303,965,1345"/>
+<area shape="rect" id="node42" href="$classirr_1_1scene_1_1_c_scene_node_animator_rotation.html" title="irr::scene::CSceneNodeAnimator\lRotation" alt="" coords="750,1369,965,1410"/>
+<area shape="rect" id="node43" href="$classirr_1_1scene_1_1_i_scene_node_animator_camera_f_p_s.html" title="Special scene node animator for FPS cameras. " alt="" coords="753,1434,961,1475"/>
+<area shape="rect" id="node45" href="$classirr_1_1scene_1_1_i_scene_node_animator_camera_maya.html" title="Special scene node animator for Maya&#45;style cameras. " alt="" coords="753,1499,961,1541"/>
+<area shape="rect" id="node47" href="$classirr_1_1scene_1_1_i_scene_node_animator_collision_response.html" title="Special scene node animator for doing automatic collision detection and response. ..." alt="" coords="753,1565,961,1606"/>
+<area shape="rect" id="node49" href="$classirr_1_1scene_1_1_i_scene_node_animator_finishing.html" title="This is an abstract base class for animators that have a discrete end time. " alt="" coords="753,1238,961,1279"/>
+<area shape="rect" id="node44" href="$classirr_1_1scene_1_1_c_scene_node_animator_camera_f_p_s.html" title="Special scene node animator for FPS cameras. " alt="" coords="1049,1434,1263,1475"/>
+<area shape="rect" id="node46" href="$classirr_1_1scene_1_1_c_scene_node_animator_camera_maya.html" title="Special scene node animator for FPS cameras. " alt="" coords="1049,1499,1263,1541"/>
+<area shape="rect" id="node48" href="$classirr_1_1scene_1_1_c_scene_node_animator_collision_response.html" title="Special scene node animator for doing automatic collision detection and response. ..." alt="" coords="1049,1565,1263,1606"/>
+<area shape="rect" id="node50" href="$classirr_1_1scene_1_1_c_scene_node_animator_delete.html" title="irr::scene::CSceneNodeAnimator\lDelete" alt="" coords="1049,1205,1263,1246"/>
+<area shape="rect" id="node51" href="$classirr_1_1scene_1_1_c_scene_node_animator_fly_straight.html" title="irr::scene::CSceneNodeAnimator\lFlyStraight" alt="" coords="1049,1270,1263,1311"/>
+<area shape="rect" id="node52" href="$classirr_1_1scene_1_1_c_scene_node_animator_follow_spline.html" title="irr::scene::CSceneNodeAnimator\lFollowSpline" alt="" coords="1049,1335,1263,1377"/>
+<area shape="rect" id="node53" href="$classirr_1_1scene_1_1_c_scene_node_animator_texture.html" title="irr::scene::CSceneNodeAnimator\lTexture" alt="" coords="1049,1139,1263,1181"/>
+<area shape="rect" id="node56" href="$classirr_1_1video_1_1_i_g_p_u_programming_services.html" title="Interface making it possible to create and use programs running on the GPU. " alt="" coords="217,4897,407,4938"/>
+<area shape="rect" id="node57" href="$classirr_1_1video_1_1_c_null_driver.html" title="irr::video::CNullDriver" alt="" coords="494,4729,642,4756"/>
+<area shape="rect" id="node58" href="$classirr_1_1video_1_1_c_burning_video_driver.html" title="irr::video::CBurningVideo\lDriver" alt="" coords="774,4655,941,4697"/>
+<area shape="rect" id="node59" href="$classirr_1_1video_1_1_c_software_driver.html" title="irr::video::CSoftwareDriver" alt="" coords="769,4721,946,4748"/>
+<area shape="rect" id="node60" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,4744,160,4771"/>
+<area shape="rect" id="node61" href="$classirr_1_1_c_font_tool.html" title="irr::CFontTool" alt="" coords="261,3457,363,3484"/>
+<area shape="rect" id="node62" href="$classirr_1_1gui_1_1_i_cursor_control.html" title="Interface to manipulate the mouse cursor. " alt="" coords="237,3508,387,3535"/>
+<area shape="rect" id="node63" href="$classirr_1_1gui_1_1_i_g_u_i_element_factory.html" title="Interface making it possible to dynamically create GUI elements. " alt="" coords="219,3356,405,3383"/>
+<area shape="rect" id="node65" href="$classirr_1_1gui_1_1_i_g_u_i_environment.html" title="GUI Environment. Used as factory and manager of all other GUI elements. " alt="" coords="229,3609,395,3636"/>
+<area shape="rect" id="node66" href="$classirr_1_1gui_1_1_i_g_u_i_font.html" title="Font interface. " alt="" coords="252,3559,372,3585"/>
+<area shape="rect" id="node68" href="$classirr_1_1gui_1_1_i_g_u_i_image_list.html" title="Font interface. " alt="" coords="237,3660,387,3687"/>
+<area shape="rect" id="node70" href="$classirr_1_1gui_1_1_i_g_u_i_sprite_bank.html" title="Sprite bank interface. " alt="" coords="233,3761,391,3788"/>
+<area shape="rect" id="node71" href="$classirr_1_1gui_1_1_i_g_u_i_tree_view_node.html" title="Node for gui tree view. " alt="" coords="222,3711,402,3737"/>
+<area shape="rect" id="node73" href="$classirr_1_1_i_logger.html" title="Interface for logging messages, warnings and errors. " alt="" coords="270,3812,354,3839"/>
+<area shape="rect" id="node75" href="$classirr_1_1io_1_1_i_archive_loader.html" title="Class which is able to create an archive from a file. " alt="" coords="239,3939,385,3965"/>
+<area shape="rect" id="node76" href="$classirr_1_1io_1_1_i_attribute.html" title="irr::io::IAttribute" alt="" coords="256,3863,368,3889"/>
+<area shape="rect" id="node101" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="222,2566,402,2607"/>
+<area shape="rect" id="node161" href="$classirr_1_1io_1_1_i_attributes.html" title="Provides a generic interface for attributes and their values and the possiblity to serialize them..." alt="" coords="253,3989,371,4016"/>
+<area shape="rect" id="node163" href="$classirr_1_1io_1_1_i_file_archive.html" title="The FileArchive manages archives and provides access to files inside them. " alt="" coords="248,4091,376,4117"/>
+<area shape="rect" id="node164" href="$classirr_1_1io_1_1_i_file_list.html" title="Provides a list of files and folders. " alt="" coords="259,4040,365,4067"/>
+<area shape="rect" id="node166" href="$classirr_1_1io_1_1_i_file_system.html" title="The FileSystem manages files and archives and provides access to them. " alt="" coords="247,4141,377,4168"/>
+<area shape="rect" id="node168" href="$classirr_1_1io_1_1_i_read_file.html" title="Interface providing read acess to a file. " alt="" coords="255,4192,369,4219"/>
+<area shape="rect" id="node173" href="$classirr_1_1io_1_1_i_write_file.html" title="Interface providing write access to a file. " alt="" coords="255,4243,369,4269"/>
+<area shape="rect" id="node175" href="$classirr_1_1io_1_1_i_x_m_l_writer.html" title="Interface providing methods for making it easier to write XML files. " alt="" coords="249,4293,375,4320"/>
+<area shape="rect" id="node177" href="$classirr_1_1_i_o_s_operator.html" title="The Operating system operator provides operation system specific methods and informations. " alt="" coords="255,4344,369,4371"/>
+<area shape="rect" id="node179" href="$classirr_1_1_i_randomizer.html" title="Interface for generating random numbers. " alt="" coords="255,4445,369,4472"/>
+<area shape="rect" id="node180" href="$classirr_1_1_irrlicht_device.html" title="The Irrlicht device. You can create it with createDevice() or createDeviceEx(). " alt="" coords="253,4395,371,4421"/>
+<area shape="rect" id="node182" href="$classirr_1_1_i_timer.html" title="Interface for getting and manipulating the virtual time. " alt="" coords="273,4496,351,4523"/>
+<area shape="rect" id="node184" href="$classirr_1_1scene_1_1_i_animation_end_call_back.html" title="Callback interface for catching events of ended animations. " alt="" coords="227,4613,397,4654"/>
+<area shape="rect" id="node185" href="$classirr_1_1scene_1_1_i_collada_mesh_writer_names.html" title="Callback interface to use custom names on collada writing. " alt="" coords="230,4547,394,4589"/>
+<area shape="rect" id="node187" href="$classirr_1_1scene_1_1_i_collada_mesh_writer_properties.html" title="Callback interface for properties which can be used to influence collada writing. ..." alt="" coords="230,4678,394,4719"/>
+<area shape="rect" id="node189" href="$classirr_1_1scene_1_1_i_collada_prefab.html" title="irr::scene::IColladaPrefab" alt="" coords="227,4795,397,4821"/>
+<area shape="rect" id="node190" href="$classirr_1_1scene_1_1_i_collision_callback.html" title="Callback interface for catching events of collisions. " alt="" coords="217,4845,407,4872"/>
+<area shape="rect" id="node191" href="$classirr_1_1scene_1_1_i_geometry_creator.html" title="Helper class for creating geometry on the fly. " alt="" coords="218,4963,406,4989"/>
+<area shape="rect" id="node193" href="$classirr_1_1scene_1_1_i_index_buffer.html" title="irr::scene::IIndexBuffer" alt="" coords="235,5064,389,5091"/>
+<area shape="rect" id="node195" href="$classirr_1_1scene_1_1_i_light_manager.html" title="ILightManager provides an interface for user applications to manipulate the list of lights in the sce..." alt="" coords="229,5013,395,5040"/>
+<area shape="rect" id="node196" href="$classirr_1_1scene_1_1_i_mesh.html" title="Class which holds the geometry of an object. " alt="" coords="252,5115,372,5141"/>
+<area shape="rect" id="node209" href="$classirr_1_1scene_1_1_i_mesh_buffer.html" title="Struct for holding a mesh with a single material. " alt="" coords="235,5165,389,5192"/>
+<area shape="rect" id="node216" href="$classirr_1_1scene_1_1_i_mesh_cache.html" title="The mesh cache stores already loaded meshes and provides an interface to them. " alt="" coords="233,5216,391,5243"/>
+<area shape="rect" id="node218" href="$classirr_1_1scene_1_1_i_mesh_loader.html" title="Class which is able to load an animated mesh from a file. " alt="" coords="233,5785,391,5812"/>
+<area shape="rect" id="node240" href="$classirr_1_1scene_1_1_i_mesh_manipulator.html" title="An interface for easy manipulation of meshes. " alt="" coords="219,5836,405,5863"/>
+<area shape="rect" id="node242" href="$classirr_1_1scene_1_1_i_mesh_writer.html" title="Interface for writing meshes. " alt="" coords="235,5887,389,5913"/>
+<area shape="rect" id="node249" href="$classirr_1_1scene_1_1_i_scene_collision_manager.html" title="The Scene Collision Manager provides methods for performing collision tests and picking on scene node..." alt="" coords="225,5938,399,5979"/>
+<area shape="rect" id="node251" href="$classirr_1_1scene_1_1_i_scene_loader.html" title="Class which can load a scene into the scene manager. " alt="" coords="230,6004,394,6031"/>
+<area shape="rect" id="node253" href="$classirr_1_1scene_1_1_i_scene_manager.html" title="The Scene Manager manages scene nodes, mesh recources, cameras and all the other stuff. " alt="" coords="225,3267,399,3293"/>
+<area shape="rect" id="node254" href="$classirr_1_1scene_1_1_i_scene_node_animator_factory.html" title="Interface for dynamic creation of scene node animators. " alt="" coords="208,6055,416,6097"/>
+<area shape="rect" id="node256" href="$classirr_1_1scene_1_1_i_scene_node_factory.html" title="Interface for dynamic creation of scene nodes. " alt="" coords="212,6121,412,6148"/>
+<area shape="rect" id="node258" href="$classirr_1_1scene_1_1_i_triangle_selector.html" title="Interface to return triangles with specific properties. " alt="" coords="221,6172,403,6199"/>
+<area shape="rect" id="node265" href="$classirr_1_1scene_1_1_i_vertex_buffer.html" title="irr::scene::IVertexBuffer" alt="" coords="231,6507,393,6533"/>
+<area shape="rect" id="node267" href="$classirr_1_1scene_1_1quake3_1_1_i_shader_manager.html" title="Manages various Quake3 Shader Styles. " alt="" coords="249,6223,375,6265"/>
+<area shape="rect" id="node268" href="$structirr_1_1scene_1_1quake3_1_1_s_var_group_list.html" title="holding a group a variable " alt="" coords="249,6289,375,6330"/>
+<area shape="rect" id="node269" href="$structirr_1_1scene_1_1_s_m_d3_mesh.html" title="Holding Frames Buffers and Tag Infos. " alt="" coords="235,6355,389,6381"/>
+<area shape="rect" id="node270" href="$structirr_1_1scene_1_1_s_m_d3_mesh_buffer.html" title="Holding Frame Data for a Mesh. " alt="" coords="218,6405,406,6432"/>
+<area shape="rect" id="node271" href="$classirr_1_1video_1_1_i_burning_shader.html" title="irr::video::IBurningShader" alt="" coords="227,6456,397,6483"/>
+<area shape="rect" id="node272" href="$classirr_1_1video_1_1_i_depth_buffer.html" title="irr::video::IDepthBuffer" alt="" coords="235,6557,389,6584"/>
+<area shape="rect" id="node274" href="$classirr_1_1video_1_1_i_image.html" title="Interface for software image data. " alt="" coords="252,6709,372,6736"/>
+<area shape="rect" id="node276" href="$classirr_1_1video_1_1_i_image_loader.html" title="Class which is able to create a image from a file. " alt="" coords="233,6608,391,6635"/>
+<area shape="rect" id="node277" href="$classirr_1_1video_1_1_i_image_writer.html" title="Interface for writing software image data. " alt="" coords="235,6659,389,6685"/>
+<area shape="rect" id="node278" href="$classirr_1_1video_1_1_i_material_renderer.html" title="Interface for material rendering. " alt="" coords="221,7153,403,7180"/>
+<area shape="rect" id="node284" href="$classirr_1_1video_1_1_i_shader_constant_set_call_back.html" title="Interface making it possible to set constants for gpu programs every frame. " alt="" coords="223,6761,401,6802"/>
+<area shape="rect" id="node285" href="$classirr_1_1video_1_1_i_stencil_buffer.html" title="irr::video::IStencilBuffer" alt="" coords="233,7372,391,7399"/>
+<area shape="rect" id="node287" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="248,7615,376,7641"/>
+<area shape="rect" id="node291" href="$classirr_1_1video_1_1_i_triangle_renderer.html" title="irr::video::ITriangleRenderer" alt="" coords="221,2464,403,2491"/>
+<area shape="rect" id="node292" href="$classirr_1_1video_1_1_i_video_driver.html" title="Interface to driver which is able to perform 2d and 3d graphics functions. " alt="" coords="236,4744,388,4771"/>
+<area shape="rect" id="node293" href="$classirr_1_1video_1_1_i_video_mode_list.html" title="A list of all available video modes. " alt="" coords="227,2216,397,2243"/>
+<area shape="rect" id="node295" href="$classirr_1_1video_1_1_i_z_buffer.html" title="irr::video::IZBuffer" alt="" coords="249,2515,375,2541"/>
+<area shape="rect" id="node64" href="$classirr_1_1gui_1_1_c_g_u_i_edit_factory.html" title="Interface making it possible to dynamicly create gui elements. " alt="" coords="485,3280,651,3307"/>
+<area shape="rect" id="node67" href="$classirr_1_1gui_1_1_i_g_u_i_font_bitmap.html" title="Font interface. " alt="" coords="487,3331,649,3357"/>
+<area shape="rect" id="node69" href="$classirr_1_1gui_1_1_c_g_u_i_image_list.html" title="irr::gui::CGUIImageList" alt="" coords="489,3381,647,3408"/>
+<area shape="rect" id="node72" href="$classirr_1_1gui_1_1_c_g_u_i_tree_view_node.html" title="Node for gui tree view. " alt="" coords="475,3432,661,3459"/>
+<area shape="rect" id="node74" href="$classirr_1_1_c_logger.html" title="Class for logging messages, warnings and errors to stdout. " alt="" coords="523,3483,613,3509"/>
+<area shape="rect" id="node77" href="$classirr_1_1io_1_1_c_bool_attribute.html" title="irr::io::CBoolAttribute" alt="" coords="496,3837,640,3864"/>
+<area shape="rect" id="node78" href="$classirr_1_1io_1_1_c_enum_attribute.html" title="irr::io::CEnumAttribute" alt="" coords="492,3888,644,3915"/>
+<area shape="rect" id="node79" href="$classirr_1_1io_1_1_c_float_attribute.html" title="irr::io::CFloatAttribute" alt="" coords="495,3939,641,3965"/>
+<area shape="rect" id="node80" href="$classirr_1_1io_1_1_c_int_attribute.html" title="irr::io::CIntAttribute" alt="" coords="501,3533,635,3560"/>
+<area shape="rect" id="node81" href="$classirr_1_1io_1_1_c_numbers_attribute.html" title="irr::io::CNumbersAttribute" alt="" coords="483,3584,653,3611"/>
+<area shape="rect" id="node96" href="$classirr_1_1io_1_1_c_string_attribute.html" title="irr::io::CStringAttribute" alt="" coords="492,3635,644,3661"/>
+<area shape="rect" id="node98" href="$classirr_1_1io_1_1_c_string_w_array_attribute.html" title="irr::io::CStringWArrayAttribute" alt="" coords="470,3685,666,3712"/>
+<area shape="rect" id="node99" href="$classirr_1_1io_1_1_c_texture_attribute.html" title="irr::io::CTextureAttribute" alt="" coords="487,3736,649,3763"/>
+<area shape="rect" id="node100" href="$classirr_1_1io_1_1_c_user_pointer_attribute.html" title="irr::io::CUserPointerAttribute" alt="" coords="475,3787,661,3813"/>
+<area shape="rect" id="node82" href="$classirr_1_1io_1_1_c_b_box_attribute.html" title="irr::io::CBBoxAttribute" alt="" coords="782,3457,933,3484"/>
+<area shape="rect" id="node83" href="$classirr_1_1io_1_1_c_color_attribute.html" title="irr::io::CColorAttribute" alt="" coords="783,3508,932,3535"/>
+<area shape="rect" id="node84" href="$classirr_1_1io_1_1_c_colorf_attribute.html" title="irr::io::CColorfAttribute" alt="" coords="781,3559,934,3585"/>
+<area shape="rect" id="node85" href="$classirr_1_1io_1_1_c_dimension2d_attribute.html" title="irr::io::CDimension2dAttribute" alt="" coords="760,3609,955,3636"/>
+<area shape="rect" id="node86" href="$classirr_1_1io_1_1_c_line2d_attribute.html" title="irr::io::CLine2dAttribute" alt="" coords="779,3660,935,3687"/>
+<area shape="rect" id="node87" href="$classirr_1_1io_1_1_c_line3d_attribute.html" title="irr::io::CLine3dAttribute" alt="" coords="779,3711,935,3737"/>
+<area shape="rect" id="node88" href="$classirr_1_1io_1_1_c_matrix_attribute.html" title="irr::io::CMatrixAttribute" alt="" coords="780,3761,935,3788"/>
+<area shape="rect" id="node89" href="$classirr_1_1io_1_1_c_plane_attribute.html" title="irr::io::CPlaneAttribute" alt="" coords="782,3812,933,3839"/>
+<area shape="rect" id="node90" href="$classirr_1_1io_1_1_c_position2_d_attribute.html" title="irr::io::CPosition2DAttribute" alt="" coords="766,3863,949,3889"/>
+<area shape="rect" id="node91" href="$classirr_1_1io_1_1_c_quaternion_attribute.html" title="irr::io::CQuaternionAttribute" alt="" coords="767,3913,948,3940"/>
+<area shape="rect" id="node92" href="$classirr_1_1io_1_1_c_rect_attribute.html" title="irr::io::CRectAttribute" alt="" coords="784,3964,931,3991"/>
+<area shape="rect" id="node93" href="$classirr_1_1io_1_1_c_triangle_attribute.html" title="irr::io::CTriangleAttribute" alt="" coords="775,3305,939,3332"/>
+<area shape="rect" id="node94" href="$classirr_1_1io_1_1_c_vector2_d_attribute.html" title="irr::io::CVector2DAttribute" alt="" coords="771,3356,944,3383"/>
+<area shape="rect" id="node95" href="$classirr_1_1io_1_1_c_vector3_d_attribute.html" title="irr::io::CVector3DAttribute" alt="" coords="771,3407,944,3433"/>
+<area shape="rect" id="node97" href="$classirr_1_1io_1_1_c_binary_attribute.html" title="irr::io::CBinaryAttribute" alt="" coords="780,4015,935,4041"/>
+<area shape="rect" id="node102" href="$classirr_1_1gui_1_1_i_g_u_i_skin.html" title="A skin modifies the look of the GUI elements. " alt="" coords="508,2824,628,2851"/>
+<area shape="rect" id="node103" href="$classirr_1_1scene_1_1_i_particle_affector.html" title="A particle affector modifies particles. " alt="" coords="479,1917,657,1944"/>
+<area shape="rect" id="node113" href="$classirr_1_1scene_1_1_i_particle_emitter.html" title="A particle emitter for using with particle systems. " alt="" coords="481,2244,655,2271"/>
+<area shape="rect" id="node127" href="$classirr_1_1scene_1_1_i_scene_node.html" title="Scene node interface. " alt="" coords="490,2773,646,2800"/>
+<area shape="rect" id="node104" href="$classirr_1_1scene_1_1_c_particle_scale_affector.html" title="irr::scene::CParticleScale\lAffector" alt="" coords="772,1943,943,1985"/>
+<area shape="rect" id="node105" href="$classirr_1_1scene_1_1_i_particle_attraction_affector.html" title="A particle affector which attracts or detracts particles. " alt="" coords="763,1682,951,1723"/>
+<area shape="rect" id="node107" href="$classirr_1_1scene_1_1_i_particle_fade_out_affector.html" title="A particle affector which fades out the particles. " alt="" coords="777,1747,938,1789"/>
+<area shape="rect" id="node109" href="$classirr_1_1scene_1_1_i_particle_gravity_affector.html" title="A particle affector which applies gravity to particles. " alt="" coords="770,1813,945,1854"/>
+<area shape="rect" id="node111" href="$classirr_1_1scene_1_1_i_particle_rotation_affector.html" title="A particle affector which rotates the particle system. " alt="" coords="767,1878,948,1919"/>
+<area shape="rect" id="node106" href="$classirr_1_1scene_1_1_c_particle_attraction_affector.html" title="Particle Affector for attracting particles to a point. " alt="" coords="1059,1682,1253,1723"/>
+<area shape="rect" id="node108" href="$classirr_1_1scene_1_1_c_particle_fade_out_affector.html" title="Particle Affector for fading out a color. " alt="" coords="1073,1747,1239,1789"/>
+<area shape="rect" id="node110" href="$classirr_1_1scene_1_1_c_particle_gravity_affector.html" title="Particle Affector for affecting direction of particle. " alt="" coords="1066,1813,1246,1854"/>
+<area shape="rect" id="node112" href="$classirr_1_1scene_1_1_c_particle_rotation_affector.html" title="Particle Affector for rotating particles about a point. " alt="" coords="1063,1878,1249,1919"/>
+<area shape="rect" id="node114" href="$classirr_1_1scene_1_1_c_particle_point_emitter.html" title="A default point emitter. " alt="" coords="773,2335,941,2377"/>
+<area shape="rect" id="node115" href="$classirr_1_1scene_1_1_i_particle_animated_mesh_scene_node_emitter.html" title="A particle emitter which emits particles from mesh vertices. " alt="" coords="764,2401,951,2442"/>
+<area shape="rect" id="node117" href="$classirr_1_1scene_1_1_i_particle_box_emitter.html" title="A particle emitter which emits particles from a box shaped space. " alt="" coords="780,2009,935,2050"/>
+<area shape="rect" id="node119" href="$classirr_1_1scene_1_1_i_particle_cylinder_emitter.html" title="A particle emitter which emits from a cylindrically shaped space. " alt="" coords="767,2074,947,2115"/>
+<area shape="rect" id="node121" href="$classirr_1_1scene_1_1_i_particle_mesh_emitter.html" title="A particle emitter which emits from vertices of a mesh. " alt="" coords="775,2139,939,2181"/>
+<area shape="rect" id="node123" href="$classirr_1_1scene_1_1_i_particle_ring_emitter.html" title="A particle emitter which emits particles along a ring shaped area. " alt="" coords="778,2205,937,2246"/>
+<area shape="rect" id="node125" href="$classirr_1_1scene_1_1_i_particle_sphere_emitter.html" title="A particle emitter which emits from a spherical space. " alt="" coords="771,2270,944,2311"/>
+<area shape="rect" id="node116" href="$classirr_1_1scene_1_1_c_particle_animated_mesh_scene_node_emitter.html" title="An animated mesh emitter. " alt="" coords="1059,2401,1253,2442"/>
+<area shape="rect" id="node118" href="$classirr_1_1scene_1_1_c_particle_box_emitter.html" title="A default box emitter. " alt="" coords="1075,2009,1237,2050"/>
+<area shape="rect" id="node120" href="$classirr_1_1scene_1_1_c_particle_cylinder_emitter.html" title="A default box emitter. " alt="" coords="1063,2074,1249,2115"/>
+<area shape="rect" id="node122" href="$classirr_1_1scene_1_1_c_particle_mesh_emitter.html" title="A default box emitter. " alt="" coords="1071,2139,1241,2181"/>
+<area shape="rect" id="node124" href="$classirr_1_1scene_1_1_c_particle_ring_emitter.html" title="A ring emitter. " alt="" coords="1073,2205,1239,2246"/>
+<area shape="rect" id="node126" href="$classirr_1_1scene_1_1_c_particle_sphere_emitter.html" title="A default box emitter. " alt="" coords="1067,2270,1245,2311"/>
+<area shape="rect" id="node128" href="$classirr_1_1scene_1_1_c_empty_scene_node.html" title="irr::scene::CEmptySceneNode" alt="" coords="757,2584,957,2611"/>
+<area shape="rect" id="node129" href="$classirr_1_1scene_1_1_c_scene_manager.html" title="irr::scene::CSceneManager" alt="" coords="767,3255,948,3281"/>
+<area shape="rect" id="node130" href="$classirr_1_1scene_1_1_c_sky_box_scene_node.html" title="irr::scene::CSkyBoxSceneNode" alt="" coords="753,2635,961,2661"/>
+<area shape="rect" id="node131" href="$classirr_1_1scene_1_1_c_sky_dome_scene_node.html" title="irr::scene::CSkyDomeSceneNode" alt="" coords="747,2685,967,2712"/>
+<area shape="rect" id="node132" href="$classirr_1_1scene_1_1_i_animated_mesh_scene_node.html" title="Scene node capable of displaying an animated mesh and its shadow. " alt="" coords="770,2737,945,2778"/>
+<area shape="rect" id="node134" href="$classirr_1_1scene_1_1_i_billboard_scene_node.html" title="A billboard scene node. " alt="" coords="754,2803,961,2829"/>
+<area shape="rect" id="node138" href="$classirr_1_1scene_1_1_i_bone_scene_node.html" title="Interface for bones used for skeletal animation. " alt="" coords="764,2853,951,2880"/>
+<area shape="rect" id="node140" href="$classirr_1_1scene_1_1_i_dummy_transformation_scene_node.html" title="Dummy scene node for adding additional transformations to the scene graph. " alt="" coords="747,2905,968,2946"/>
+<area shape="rect" id="node142" href="$classirr_1_1scene_1_1_i_light_scene_node.html" title="Scene node which is a dynamic light. " alt="" coords="765,2971,949,2997"/>
+<area shape="rect" id="node144" href="$classirr_1_1scene_1_1_i_mesh_scene_node.html" title="A scene node displaying a static mesh. " alt="" coords="763,3021,951,3048"/>
+<area shape="rect" id="node151" href="$classirr_1_1scene_1_1_i_particle_system_scene_node.html" title="A particle system scene node for creating snow, fire, exlosions, smoke... " alt="" coords="769,3073,946,3114"/>
+<area shape="rect" id="node153" href="$classirr_1_1scene_1_1_i_shadow_volume_scene_node.html" title="Scene node for rendering a shadow volume into a stencil buffer. " alt="" coords="768,3138,947,3179"/>
+<area shape="rect" id="node155" href="$classirr_1_1scene_1_1_i_terrain_scene_node.html" title="A scene node for displaying terrain using the geo mip map algorithm. " alt="" coords="759,3204,955,3231"/>
+<area shape="rect" id="node157" href="$classirr_1_1scene_1_1_i_text_scene_node.html" title="A scene node for displaying 2d text at a position in three dimensional space. " alt="" coords="766,2467,949,2493"/>
+<area shape="rect" id="node159" href="$classirr_1_1scene_1_1_i_volume_light_scene_node.html" title="irr::scene::IVolumeLight\lSceneNode" alt="" coords="777,2518,937,2559"/>
+<area shape="rect" id="node133" href="$classirr_1_1scene_1_1_c_animated_mesh_scene_node.html" title="irr::scene::CAnimatedMesh\lSceneNode" alt="" coords="1065,2634,1247,2675"/>
+<area shape="rect" id="node135" href="$classirr_1_1scene_1_1_c_billboard_scene_node.html" title="irr::scene::CBillboardSceneNode" alt="" coords="1050,2765,1262,2792"/>
+<area shape="rect" id="node136" href="$classirr_1_1scene_1_1_i_billboard_text_scene_node.html" title="A billboard text scene node. " alt="" coords="1074,2699,1238,2741"/>
+<area shape="rect" id="node137" href="$classirr_1_1scene_1_1_c_billboard_text_scene_node.html" title="irr::scene::CBillboardText\lSceneNode" alt="" coords="1320,2699,1491,2741"/>
+<area shape="rect" id="node139" href="$classirr_1_1scene_1_1_c_bone_scene_node.html" title="irr::scene::CBoneSceneNode" alt="" coords="1060,2816,1252,2843"/>
+<area shape="rect" id="node141" href="$classirr_1_1scene_1_1_c_dummy_transformation_scene_node.html" title="irr::scene::CDummyTransformation\lSceneNode" alt="" coords="1043,2867,1269,2909"/>
+<area shape="rect" id="node143" href="$classirr_1_1scene_1_1_c_light_scene_node.html" title="irr::scene::CLightSceneNode" alt="" coords="1061,2933,1251,2960"/>
+<area shape="rect" id="node145" href="$classirr_1_1scene_1_1_c_cube_scene_node.html" title="irr::scene::CCubeSceneNode" alt="" coords="1059,3101,1253,3128"/>
+<area shape="rect" id="node146" href="$classirr_1_1scene_1_1_c_mesh_scene_node.html" title="irr::scene::CMeshSceneNode" alt="" coords="1059,3152,1253,3179"/>
+<area shape="rect" id="node148" href="$classirr_1_1scene_1_1_c_octree_scene_node.html" title="implementation of the IBspTreeSceneNode " alt="" coords="1055,3203,1257,3229"/>
+<area shape="rect" id="node149" href="$classirr_1_1scene_1_1_c_quake3_shader_scene_node.html" title="Scene node which is a quake3 shader. " alt="" coords="1066,2985,1246,3026"/>
+<area shape="rect" id="node150" href="$classirr_1_1scene_1_1_c_sphere_scene_node.html" title="irr::scene::CSphereSceneNode" alt="" coords="1055,3051,1257,3077"/>
+<area shape="rect" id="node147" href="$classirr_1_1scene_1_1_c_water_surface_scene_node.html" title="irr::scene::CWaterSurface\lSceneNode" alt="" coords="1318,3145,1493,3186"/>
+<area shape="rect" id="node152" href="$classirr_1_1scene_1_1_c_particle_system_scene_node.html" title="A particle system scene node. " alt="" coords="1065,3254,1247,3295"/>
+<area shape="rect" id="node154" href="$classirr_1_1scene_1_1_c_shadow_volume_scene_node.html" title="Scene node for rendering a shadow volume into a stencil buffer. " alt="" coords="1063,3319,1249,3361"/>
+<area shape="rect" id="node156" href="$classirr_1_1scene_1_1_c_terrain_scene_node.html" title="A scene node for displaying terrain using the geo mip map algorithm. " alt="" coords="1055,3385,1257,3412"/>
+<area shape="rect" id="node158" href="$classirr_1_1scene_1_1_c_text_scene_node.html" title="irr::scene::CTextSceneNode" alt="" coords="1062,2467,1250,2493"/>
+<area shape="rect" id="node160" href="$classirr_1_1scene_1_1_c_volume_light_scene_node.html" title="irr::scene::CVolumeLight\lSceneNode" alt="" coords="1073,2518,1239,2559"/>
+<area shape="rect" id="node162" href="$classirr_1_1io_1_1_c_attributes.html" title="Implementation of the IAttributes interface. " alt="" coords="505,3989,631,4016"/>
+<area shape="rect" id="node165" href="$classirr_1_1io_1_1_c_file_list.html" title="Implementation of a file list. " alt="" coords="513,4040,623,4067"/>
+<area shape="rect" id="node167" href="$classirr_1_1io_1_1_c_file_system.html" title="irr::io::CFileSystem" alt="" coords="501,4091,635,4117"/>
+<area shape="rect" id="node169" href="$classirr_1_1io_1_1_c_limit_read_file.html" title="irr::io::CLimitReadFile" alt="" coords="493,4141,643,4168"/>
+<area shape="rect" id="node170" href="$classirr_1_1io_1_1_c_memory_file.html" title="irr::io::CMemoryFile" alt="" coords="499,4293,637,4320"/>
+<area shape="rect" id="node171" href="$classirr_1_1io_1_1_c_memory_read_write_file.html" title="Provides write acess to an array as if it is a file. " alt="" coords="469,4243,667,4269"/>
+<area shape="rect" id="node172" href="$classirr_1_1io_1_1_c_read_file.html" title="irr::io::CReadFile" alt="" coords="507,4192,629,4219"/>
+<area shape="rect" id="node174" href="$classirr_1_1io_1_1_c_write_file.html" title="irr::io::CWriteFile" alt="" coords="507,4344,629,4371"/>
+<area shape="rect" id="node176" href="$classirr_1_1io_1_1_c_x_m_l_writer.html" title="Interface providing methods for making it easier to write XML files. " alt="" coords="503,4395,633,4421"/>
+<area shape="rect" id="node178" href="$classirr_1_1_c_o_s_operator.html" title="The Operating system operator provides operation system specific methods and informations. " alt="" coords="508,4445,628,4472"/>
+<area shape="rect" id="node181" href="$classirr_1_1_c_irr_device_stub.html" title="Stub for an Irrlicht Device implementation. " alt="" coords="503,4496,633,4523"/>
+<area shape="rect" id="node183" href="$classirr_1_1_c_timer.html" title="Device independent implementation of the timer. " alt="" coords="526,4547,610,4573"/>
+<area shape="rect" id="node186" href="$classirr_1_1scene_1_1_c_collada_mesh_writer_names.html" title="irr::scene::CColladaMesh\lWriterNames" alt="" coords="483,4598,653,4639"/>
+<area shape="rect" id="node188" href="$classirr_1_1scene_1_1_c_collada_mesh_writer_properties.html" title="Callback interface for properties which can be used to influence collada writing. ..." alt="" coords="483,4663,653,4705"/>
+<area shape="rect" id="node192" href="$classirr_1_1scene_1_1_c_geometry_creator.html" title="class for creating geometry on the fly " alt="" coords="471,4780,665,4807"/>
+<area shape="rect" id="node194" href="$classirr_1_1scene_1_1_c_index_buffer.html" title="irr::scene::CIndexBuffer" alt="" coords="487,4831,649,4857"/>
+<area shape="rect" id="node197" href="$classirr_1_1scene_1_1_i_animated_mesh.html" title="Interface for an animated mesh. " alt="" coords="481,4932,655,4959"/>
+<area shape="rect" id="node208" href="$structirr_1_1scene_1_1_s_mesh.html" title="Simple implementation of the IMesh interface. " alt="" coords="505,4881,631,4908"/>
+<area shape="rect" id="node198" href="$classirr_1_1scene_1_1_c_animated_mesh_half_life.html" title="irr::scene::CAnimatedMesh\lHalfLife" alt="" coords="767,4823,948,4865"/>
+<area shape="rect" id="node199" href="$classirr_1_1scene_1_1_i_animated_mesh_m_d2.html" title="Interface for using some special functions of MD2 meshes. " alt="" coords="756,4889,959,4916"/>
+<area shape="rect" id="node201" href="$classirr_1_1scene_1_1_i_animated_mesh_m_d3.html" title="Interface for using some special functions of MD3 meshes. " alt="" coords="756,4940,959,4967"/>
+<area shape="rect" id="node203" href="$classirr_1_1scene_1_1_i_q3_level_mesh.html" title="Interface for a Mesh which can be loaded directly from a Quake3 .bsp&#45;file. " alt="" coords="773,4991,941,5017"/>
+<area shape="rect" id="node205" href="$classirr_1_1scene_1_1_i_skinned_mesh.html" title="Interface for using some special functions of Skinned meshes. " alt="" coords="774,5041,941,5068"/>
+<area shape="rect" id="node207" href="$structirr_1_1scene_1_1_s_animated_mesh.html" title="Simple implementation of the IAnimatedMesh interface. " alt="" coords="767,4772,947,4799"/>
+<area shape="rect" id="node200" href="$classirr_1_1scene_1_1_c_animated_mesh_m_d2.html" title="irr::scene::CAnimatedMeshMD2" alt="" coords="1051,4889,1261,4916"/>
+<area shape="rect" id="node202" href="$classirr_1_1scene_1_1_c_animated_mesh_m_d3.html" title="irr::scene::CAnimatedMeshMD3" alt="" coords="1051,4940,1261,4967"/>
+<area shape="rect" id="node204" href="$classirr_1_1scene_1_1_c_q3_level_mesh.html" title="irr::scene::CQ3LevelMesh" alt="" coords="1069,4991,1243,5017"/>
+<area shape="rect" id="node206" href="$classirr_1_1scene_1_1_c_skinned_mesh.html" title="irr::scene::CSkinnedMesh" alt="" coords="1069,5041,1243,5068"/>
+<area shape="rect" id="node210" href="$classirr_1_1scene_1_1_c_mesh_buffer.html" title="Template implementation of the IMeshBuffer interface. " alt="" coords="471,5033,665,5060"/>
+<area shape="rect" id="node212" href="$classirr_1_1scene_1_1_i_dynamic_mesh_buffer.html" title="irr::scene::IDynamicMesh\lBuffer" alt="" coords="482,5085,654,5126"/>
+<area shape="rect" id="node214" href="$structirr_1_1scene_1_1_s_shared_mesh_buffer.html" title="Implementation of the IMeshBuffer interface with shared vertex list. " alt="" coords="467,5151,669,5177"/>
+<area shape="rect" id="node215" href="$structirr_1_1scene_1_1_s_skin_mesh_buffer.html" title="A mesh buffer able to choose between S3DVertex2TCoords, S3DVertex and S3DVertexTangents at runtime..." alt="" coords="475,4983,661,5009"/>
+<area shape="rect" id="node211" href="$structirr_1_1_octree_1_1_s_mesh_chunk.html" title="irr::Octree\&lt; T \&gt;::SMeshChunk" alt="" coords="758,5092,957,5119"/>
+<area shape="rect" id="node213" href="$classirr_1_1scene_1_1_c_dynamic_mesh_buffer.html" title="irr::scene::CDynamicMesh\lBuffer" alt="" coords="768,5143,947,5185"/>
+<area shape="rect" id="node217" href="$classirr_1_1scene_1_1_c_mesh_cache.html" title="irr::scene::CMeshCache" alt="" coords="486,5201,650,5228"/>
+<area shape="rect" id="node219" href="$classirr_1_1scene_1_1_c3_d_s_mesh_file_loader.html" title="Meshloader capable of loading 3ds meshes. " alt="" coords="481,6307,655,6349"/>
+<area shape="rect" id="node220" href="$classirr_1_1scene_1_1_c_b3_d_mesh_file_loader.html" title="Meshloader for B3D format. " alt="" coords="481,6373,655,6414"/>
+<area shape="rect" id="node221" href="$classirr_1_1scene_1_1_c_b_s_p_mesh_file_loader.html" title="Meshloader capable of loading Quake 3 BSP files and shaders. " alt="" coords="481,6438,655,6479"/>
+<area shape="rect" id="node222" href="$classirr_1_1scene_1_1_c_collada_file_loader.html" title="Meshloader capable of loading COLLADA meshes and scene descriptions into Irrlicht. " alt="" coords="489,6503,647,6545"/>
+<area shape="rect" id="node223" href="$classirr_1_1scene_1_1_c_c_s_m_loader.html" title="irr::scene::CCSMLoader" alt="" coords="487,5252,649,5279"/>
+<area shape="rect" id="node224" href="$classirr_1_1scene_1_1_c_d_m_f_loader.html" title="irr::scene::CDMFLoader" alt="" coords="487,5303,649,5329"/>
+<area shape="rect" id="node225" href="$classirr_1_1scene_1_1_c_halflife_m_d_l_mesh_file_loader.html" title="Meshloader capable of loading HalfLife Model files. " alt="" coords="471,5354,665,5395"/>
+<area shape="rect" id="node226" href="$classirr_1_1scene_1_1_c_irr_mesh_file_loader.html" title="Meshloader capable of loading .irrmesh meshes, the Irrlicht Engine mesh format for static meshes..." alt="" coords="489,5419,647,5461"/>
+<area shape="rect" id="node227" href="$classirr_1_1scene_1_1_c_l_m_t_s_mesh_file_loader.html" title="irr::scene::CLMTSMeshFile\lLoader" alt="" coords="477,5485,659,5526"/>
+<area shape="rect" id="node228" href="$classirr_1_1scene_1_1_c_l_w_o_mesh_file_loader.html" title="Meshloader capable of loading Lightwave 3D meshes. " alt="" coords="479,5550,657,5591"/>
+<area shape="rect" id="node229" href="$classirr_1_1scene_1_1_c_m_d2_mesh_file_loader.html" title="Meshloader capable of loading MD2 files. " alt="" coords="481,5615,655,5657"/>
+<area shape="rect" id="node230" href="$classirr_1_1scene_1_1_c_m_d3_mesh_file_loader.html" title="Meshloader capable of loading md3 files. " alt="" coords="481,5681,655,5722"/>
+<area shape="rect" id="node231" href="$classirr_1_1scene_1_1_c_m_s3_d_mesh_file_loader.html" title="Meshloader capable of loading Milkshape 3D files. " alt="" coords="476,5746,660,5787"/>
+<area shape="rect" id="node232" href="$classirr_1_1scene_1_1_c_m_y3_d_mesh_file_loader.html" title="irr::scene::CMY3DMeshFile\lLoader" alt="" coords="476,5811,660,5853"/>
+<area shape="rect" id="node233" href="$classirr_1_1scene_1_1_c_o_b_j_mesh_file_loader.html" title="Meshloader capable of loading obj meshes. " alt="" coords="481,5877,655,5918"/>
+<area shape="rect" id="node234" href="$classirr_1_1scene_1_1_c_o_c_t_loader.html" title="irr::scene::COCTLoader" alt="" coords="487,5943,649,5969"/>
+<area shape="rect" id="node235" href="$classirr_1_1scene_1_1_c_ogre_mesh_file_loader.html" title="Meshloader capable of loading ogre meshes. " alt="" coords="481,5994,655,6035"/>
+<area shape="rect" id="node236" href="$classirr_1_1scene_1_1_c_p_l_y_mesh_file_loader.html" title="Meshloader capable of loading obj meshes. " alt="" coords="482,6059,654,6101"/>
+<area shape="rect" id="node237" href="$classirr_1_1scene_1_1_c_s_m_f_mesh_file_loader.html" title="Class which can load. " alt="" coords="481,6125,655,6166"/>
+<area shape="rect" id="node238" href="$classirr_1_1scene_1_1_c_s_t_l_mesh_file_loader.html" title="Meshloader capable of loading STL meshes. " alt="" coords="483,6190,653,6231"/>
+<area shape="rect" id="node239" href="$classirr_1_1scene_1_1_c_x_mesh_file_loader.html" title="Meshloader capable of loading x meshes. " alt="" coords="471,6256,665,6283"/>
+<area shape="rect" id="node241" href="$classirr_1_1scene_1_1_c_mesh_manipulator.html" title="An interface for easy manipulation of meshes. " alt="" coords="471,6569,665,6596"/>
+<area shape="rect" id="node243" href="$classirr_1_1scene_1_1_c_irr_mesh_writer.html" title="class to write meshes, implementing a IrrMesh (.irrmesh, .xml) writer " alt="" coords="481,6620,655,6647"/>
+<area shape="rect" id="node244" href="$classirr_1_1scene_1_1_c_o_b_j_mesh_writer.html" title="class to write meshes, implementing a OBJ writer " alt="" coords="475,6671,661,6697"/>
+<area shape="rect" id="node245" href="$classirr_1_1scene_1_1_c_p_l_y_mesh_writer.html" title="class to write PLY mesh files " alt="" coords="475,6721,661,6748"/>
+<area shape="rect" id="node246" href="$classirr_1_1scene_1_1_c_s_t_l_mesh_writer.html" title="class to write meshes, implementing a STL writer " alt="" coords="475,6772,661,6799"/>
+<area shape="rect" id="node247" href="$classirr_1_1scene_1_1_i_collada_mesh_writer.html" title="Interface for writing meshes. " alt="" coords="486,6823,650,6865"/>
+<area shape="rect" id="node248" href="$classirr_1_1scene_1_1_c_collada_mesh_writer.html" title="class to write meshes, implementing a COLLADA (.dae, .xml) writer " alt="" coords="772,6823,943,6865"/>
+<area shape="rect" id="node250" href="$classirr_1_1scene_1_1_c_scene_collision_manager.html" title="The Scene Collision Manager provides methods for performing collision tests and picking on scene node..." alt="" coords="477,6889,659,6930"/>
+<area shape="rect" id="node252" href="$classirr_1_1scene_1_1_c_scene_loader_irr.html" title="Class which can load a scene into the scene manager. " alt="" coords="477,6955,659,6981"/>
+<area shape="rect" id="node255" href="$classirr_1_1scene_1_1_c_default_scene_node_animator_factory.html" title="Interface making it possible to dynamicly create scene nodes animators. " alt="" coords="481,7006,655,7047"/>
+<area shape="rect" id="node257" href="$classirr_1_1scene_1_1_c_default_scene_node_factory.html" title="Interface making it possible to dynamicly create scene nodes and animators. " alt="" coords="481,7071,655,7113"/>
+<area shape="rect" id="node259" href="$classirr_1_1scene_1_1_c_terrain_triangle_selector.html" title="Triangle Selector for the TerrainSceneNode. " alt="" coords="478,7254,658,7295"/>
+<area shape="rect" id="node260" href="$classirr_1_1scene_1_1_c_triangle_selector.html" title="Stupid triangle selector without optimization. " alt="" coords="474,7137,662,7164"/>
+<area shape="rect" id="node263" href="$classirr_1_1scene_1_1_i_meta_triangle_selector.html" title="Interface for making multiple triangle selectors work as one big selector. " alt="" coords="487,7189,649,7230"/>
+<area shape="rect" id="node261" href="$classirr_1_1scene_1_1_c_octree_triangle_selector.html" title="Stupid triangle selector without optimization. " alt="" coords="768,7071,947,7113"/>
+<area shape="rect" id="node262" href="$classirr_1_1scene_1_1_c_triangle_b_b_selector.html" title="Stupid triangle selector without optimization. " alt="" coords="754,7137,961,7164"/>
+<area shape="rect" id="node264" href="$classirr_1_1scene_1_1_c_meta_triangle_selector.html" title="Interface for making multiple triangle selectors work as one big selector. " alt="" coords="773,7189,942,7230"/>
+<area shape="rect" id="node266" href="$classirr_1_1scene_1_1_c_vertex_buffer.html" title="irr::scene::CVertexBuffer" alt="" coords="485,7320,651,7347"/>
+<area shape="rect" id="node273" href="$classirr_1_1video_1_1_c_depth_buffer.html" title="irr::video::CDepthBuffer" alt="" coords="488,7371,648,7397"/>
+<area shape="rect" id="node275" href="$classirr_1_1video_1_1_c_image.html" title="irr::video::CImage" alt="" coords="505,7421,631,7448"/>
+<area shape="rect" id="node279" href="$classirr_1_1video_1_1_c_software2_material_renderer.html" title="Base class for all internal Software2 material renderers. " alt="" coords="471,7473,665,7514"/>
+<area shape="rect" id="node280" href="$classirr_1_1video_1_1_c_burning_shader___r_e_f_e_r_e_n_c_e.html" title="unsupported material renderer " alt="" coords="770,7375,945,7417"/>
+<area shape="rect" id="node281" href="$classirr_1_1video_1_1_c_software2_material_renderer___s_o_l_i_d.html" title="solid material renderer " alt="" coords="760,7441,955,7482"/>
+<area shape="rect" id="node282" href="$classirr_1_1video_1_1_c_software2_material_renderer___t_r_a_n_s_p_a_r_e_n_t___a_d_d___c_o_l_o_r.html" title="Transparent material renderer. " alt="" coords="721,7506,994,7547"/>
+<area shape="rect" id="node283" href="$classirr_1_1video_1_1_c_software2_material_renderer___u_n_s_u_p_p_o_r_t_e_d.html" title="unsupported material renderer " alt="" coords="760,7571,955,7613"/>
+<area shape="rect" id="node286" href="$classirr_1_1video_1_1_c_stencil_buffer.html" title="irr::video::CStencilBuffer" alt="" coords="485,7539,651,7565"/>
+<area shape="rect" id="node288" href="$structirr_1_1video_1_1_c_null_driver_1_1_s_dummy_texture.html" title="irr::video::CNullDriver\l::SDummyTexture" alt="" coords="494,7691,642,7733"/>
+<area shape="rect" id="node289" href="$classirr_1_1video_1_1_c_software_texture.html" title="irr::video::CSoftwareTexture" alt="" coords="475,7589,661,7616"/>
+<area shape="rect" id="node290" href="$classirr_1_1video_1_1_c_software_texture2.html" title="irr::video::CSoftwareTexture2" alt="" coords="471,7640,665,7667"/>
+<area shape="rect" id="node294" href="$classirr_1_1video_1_1_c_video_mode_list.html" title="irr::video::CVideoModeList" alt="" coords="480,1816,656,1843"/>
+<area shape="rect" id="node296" href="$classirr_1_1video_1_1_c_z_buffer.html" title="irr::video::CZBuffer" alt="" coords="501,1867,635,1893"/>
+</map>

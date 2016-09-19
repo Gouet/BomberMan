@@ -1,0 +1,4 @@
+<map id="irrklang::IAudioStream" name="irrklang::IAudioStream">
+<area shape="rect" id="node3" href="$classirrklang_1_1_c_irr_klang_audio_stream_m_p3.html" title="Reads and decodes audio data into an usable audio stream for the ISoundEngine. " alt="" coords="4,155,163,197"/>
+<area shape="rect" id="node2" href="$classirrklang_1_1_i_ref_counted.html" title="Base class of most objects of the irrKlang. " alt="" coords="11,5,157,32"/>
+</map>

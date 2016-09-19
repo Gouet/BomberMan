@@ -1,0 +1,7 @@
+<map id="irr::scene::SMD3Mesh" name="irr::scene::SMD3Mesh">
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="28,5,183,32"/>
+<area shape="rect" id="node3" href="$structirr_1_1scene_1_1_s_m_d3_header.html" title="this holds the header info of the MD3 file " alt="" coords="24,56,187,83"/>
+<area shape="rect" id="node4" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="33,107,177,133"/>
+<area shape="rect" id="node5" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::SMD3MeshBuffer * \&gt;" alt="" coords="6,158,205,199"/>
+<area shape="rect" id="node6" href="$structirr_1_1scene_1_1_s_m_d3_quaternion_tag_list.html" title="holds a associative list of named quaternions " alt="" coords="13,223,197,265"/>
+</map>

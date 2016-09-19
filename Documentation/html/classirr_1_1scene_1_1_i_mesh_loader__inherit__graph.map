@@ -1,0 +1,24 @@
+<map id="irr::scene::IMeshLoader" name="irr::scene::IMeshLoader">
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_c3_d_s_mesh_file_loader.html" title="Meshloader capable of loading 3ds meshes. " alt="" coords="427,5,600,46"/>
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_c_b3_d_mesh_file_loader.html" title="Meshloader for B3D format. " alt="" coords="427,70,600,111"/>
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_c_b_s_p_mesh_file_loader.html" title="Meshloader capable of loading Quake 3 BSP files and shaders. " alt="" coords="426,135,601,177"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_collada_file_loader.html" title="Meshloader capable of loading COLLADA meshes and scene descriptions into Irrlicht. " alt="" coords="434,201,593,242"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_c_c_s_m_loader.html" title="irr::scene::CCSMLoader" alt="" coords="432,267,595,293"/>
+<area shape="rect" id="node8" href="$classirr_1_1scene_1_1_c_d_m_f_loader.html" title="irr::scene::CDMFLoader" alt="" coords="432,317,595,344"/>
+<area shape="rect" id="node9" href="$classirr_1_1scene_1_1_c_halflife_m_d_l_mesh_file_loader.html" title="Meshloader capable of loading HalfLife Model files. " alt="" coords="416,369,611,410"/>
+<area shape="rect" id="node10" href="$classirr_1_1scene_1_1_c_irr_mesh_file_loader.html" title="Meshloader capable of loading .irrmesh meshes, the Irrlicht Engine mesh format for static meshes..." alt="" coords="434,434,593,475"/>
+<area shape="rect" id="node11" href="$classirr_1_1scene_1_1_c_l_m_t_s_mesh_file_loader.html" title="irr::scene::CLMTSMeshFile\lLoader" alt="" coords="422,499,605,541"/>
+<area shape="rect" id="node12" href="$classirr_1_1scene_1_1_c_l_w_o_mesh_file_loader.html" title="Meshloader capable of loading Lightwave 3D meshes. " alt="" coords="425,565,602,606"/>
+<area shape="rect" id="node13" href="$classirr_1_1scene_1_1_c_m_d2_mesh_file_loader.html" title="Meshloader capable of loading MD2 files. " alt="" coords="426,630,601,671"/>
+<area shape="rect" id="node14" href="$classirr_1_1scene_1_1_c_m_d3_mesh_file_loader.html" title="Meshloader capable of loading md3 files. " alt="" coords="426,695,601,737"/>
+<area shape="rect" id="node15" href="$classirr_1_1scene_1_1_c_m_s3_d_mesh_file_loader.html" title="Meshloader capable of loading Milkshape 3D files. " alt="" coords="421,761,605,802"/>
+<area shape="rect" id="node16" href="$classirr_1_1scene_1_1_c_m_y3_d_mesh_file_loader.html" title="irr::scene::CMY3DMeshFile\lLoader" alt="" coords="421,826,605,867"/>
+<area shape="rect" id="node17" href="$classirr_1_1scene_1_1_c_o_b_j_mesh_file_loader.html" title="Meshloader capable of loading obj meshes. " alt="" coords="427,891,600,933"/>
+<area shape="rect" id="node18" href="$classirr_1_1scene_1_1_c_o_c_t_loader.html" title="irr::scene::COCTLoader" alt="" coords="433,957,594,984"/>
+<area shape="rect" id="node19" href="$classirr_1_1scene_1_1_c_ogre_mesh_file_loader.html" title="Meshloader capable of loading ogre meshes. " alt="" coords="426,1009,601,1050"/>
+<area shape="rect" id="node20" href="$classirr_1_1scene_1_1_c_p_l_y_mesh_file_loader.html" title="Meshloader capable of loading obj meshes. " alt="" coords="427,1074,599,1115"/>
+<area shape="rect" id="node21" href="$classirr_1_1scene_1_1_c_s_m_f_mesh_file_loader.html" title="Class which can load. " alt="" coords="426,1139,601,1181"/>
+<area shape="rect" id="node22" href="$classirr_1_1scene_1_1_c_s_t_l_mesh_file_loader.html" title="Meshloader capable of loading STL meshes. " alt="" coords="428,1205,599,1246"/>
+<area shape="rect" id="node23" href="$classirr_1_1scene_1_1_c_x_mesh_file_loader.html" title="Meshloader capable of loading x meshes. " alt="" coords="416,1271,611,1297"/>
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,637,160,664"/>
+</map>

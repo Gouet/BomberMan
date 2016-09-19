@@ -1,0 +1,12 @@
+<map id="irr::scene::CDynamicMeshBuffer" name="irr::scene::CDynamicMeshBuffer">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_dynamic_mesh_buffer.html" title="irr::scene::IDynamicMesh\lBuffer" alt="" coords="806,5,978,46"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_mesh_buffer.html" title="Struct for holding a mesh with a single material. " alt="" coords="435,8,589,35"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,17,160,44"/>
+<area shape="rect" id="node8" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="283,59,411,85"/>
+<area shape="rect" id="node5" href="$classirr_1_1video_1_1_s_material.html" title="Struct for holding parameters for a material renderer. " alt="" coords="1003,125,1138,152"/>
+<area shape="rect" id="node6" href="$classirr_1_1video_1_1_s_color.html" title="Class representing a 32 bit ARGB color. " alt="" coords="637,145,757,172"/>
+<area shape="rect" id="node7" href="$classirr_1_1video_1_1_s_material_layer.html" title="Struct for holding material parameters which exist per texture layer. " alt="" coords="614,59,781,85"/>
+<area shape="rect" id="node9" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="14,76,151,103"/>
+<area shape="rect" id="node10" href="$classirr_1_1core_1_1aabbox3d.html" title="irr::core::aabbox3d\l\&lt; f32 \&gt;" alt="" coords="1005,177,1136,218"/>
+<area shape="rect" id="node11" href="$classirr_1_1core_1_1vector3d.html" title="irr::core::vector3d\l\&lt; f32 \&gt;" alt="" coords="635,198,759,239"/>
+</map>

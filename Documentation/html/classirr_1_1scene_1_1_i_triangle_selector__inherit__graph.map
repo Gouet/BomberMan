@@ -1,0 +1,9 @@
+<map id="irr::scene::ITriangleSelector" name="irr::scene::ITriangleSelector">
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_c_terrain_triangle_selector.html" title="Triangle Selector for the TerrainSceneNode. " alt="" coords="445,5,625,46"/>
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_c_triangle_selector.html" title="Stupid triangle selector without optimization. " alt="" coords="441,71,629,97"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_i_meta_triangle_selector.html" title="Interface for making multiple triangle selectors work as one big selector. " alt="" coords="453,122,616,163"/>
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,71,160,97"/>
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_c_octree_triangle_selector.html" title="Stupid triangle selector without optimization. " alt="" coords="692,5,871,46"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_triangle_b_b_selector.html" title="Stupid triangle selector without optimization. " alt="" coords="678,71,885,97"/>
+<area shape="rect" id="node8" href="$classirr_1_1scene_1_1_c_meta_triangle_selector.html" title="Interface for making multiple triangle selectors work as one big selector. " alt="" coords="697,122,866,163"/>
+</map>

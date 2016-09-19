@@ -1,0 +1,9 @@
+<map id="irr::scene::IMeshBuffer" name="irr::scene::IMeshBuffer">
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_c_mesh_buffer.html" title="Template implementation of the IMeshBuffer interface. " alt="" coords="415,5,609,32"/>
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_i_dynamic_mesh_buffer.html" title="irr::scene::IDynamicMesh\lBuffer" alt="" coords="426,57,598,98"/>
+<area shape="rect" id="node7" href="$structirr_1_1scene_1_1_s_shared_mesh_buffer.html" title="Implementation of the IMeshBuffer interface with shared vertex list. " alt="" coords="411,123,613,149"/>
+<area shape="rect" id="node8" href="$structirr_1_1scene_1_1_s_skin_mesh_buffer.html" title="A mesh buffer able to choose between S3DVertex2TCoords, S3DVertex and S3DVertexTangents at runtime..." alt="" coords="419,173,605,200"/>
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,93,160,120"/>
+<area shape="rect" id="node4" href="$structirr_1_1_octree_1_1_s_mesh_chunk.html" title="irr::Octree\&lt; T \&gt;::SMeshChunk" alt="" coords="662,5,861,32"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_dynamic_mesh_buffer.html" title="irr::scene::CDynamicMesh\lBuffer" alt="" coords="672,57,851,98"/>
+</map>

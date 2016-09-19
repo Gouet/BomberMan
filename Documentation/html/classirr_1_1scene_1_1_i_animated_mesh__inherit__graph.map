@@ -1,0 +1,14 @@
+<map id="irr::scene::IAnimatedMesh" name="irr::scene::IAnimatedMesh">
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_c_animated_mesh_half_life.html" title="irr::scene::CAnimatedMesh\lHalfLife" alt="" coords="611,6,792,47"/>
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_i_animated_mesh_m_d2.html" title="Interface for using some special functions of MD2 meshes. " alt="" coords="600,72,803,99"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_i_animated_mesh_m_d3.html" title="Interface for using some special functions of MD3 meshes. " alt="" coords="600,123,803,149"/>
+<area shape="rect" id="node9" href="$classirr_1_1scene_1_1_i_q3_level_mesh.html" title="Interface for a Mesh which can be loaded directly from a Quake3 .bsp&#45;file. " alt="" coords="617,173,785,200"/>
+<area shape="rect" id="node11" href="$classirr_1_1scene_1_1_i_skinned_mesh.html" title="Interface for using some special functions of Skinned meshes. " alt="" coords="618,224,785,251"/>
+<area shape="rect" id="node13" href="$structirr_1_1scene_1_1_s_animated_mesh.html" title="Simple implementation of the IAnimatedMesh interface. " alt="" coords="611,275,791,301"/>
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_mesh.html" title="Class which holds the geometry of an object. " alt="" coords="208,148,328,175"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,148,160,175"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_animated_mesh_m_d2.html" title="irr::scene::CAnimatedMeshMD2" alt="" coords="851,72,1061,99"/>
+<area shape="rect" id="node8" href="$classirr_1_1scene_1_1_c_animated_mesh_m_d3.html" title="irr::scene::CAnimatedMeshMD3" alt="" coords="851,123,1061,149"/>
+<area shape="rect" id="node10" href="$classirr_1_1scene_1_1_c_q3_level_mesh.html" title="irr::scene::CQ3LevelMesh" alt="" coords="869,173,1043,200"/>
+<area shape="rect" id="node12" href="$classirr_1_1scene_1_1_c_skinned_mesh.html" title="irr::scene::CSkinnedMesh" alt="" coords="869,224,1043,251"/>
+</map>

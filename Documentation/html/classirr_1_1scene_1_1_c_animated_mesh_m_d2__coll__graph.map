@@ -1,0 +1,21 @@
+<map id="irr::scene::CAnimatedMeshMD2" name="irr::scene::CAnimatedMeshMD2">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_animated_mesh_m_d2.html" title="Interface for using some special functions of MD2 meshes. " alt="" coords="1179,15,1381,41"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_animated_mesh.html" title="Interface for an animated mesh. " alt="" coords="806,5,981,32"/>
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_i_mesh.html" title="Class which holds the geometry of an object. " alt="" coords="452,5,572,32"/>
+<area shape="rect" id="node5" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,56,160,83"/>
+<area shape="rect" id="node7" href="$classirr_1_1scene_1_1_i_mesh_buffer.html" title="Struct for holding a mesh with a single material. " alt="" coords="435,56,589,83"/>
+<area shape="rect" id="node11" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="283,107,411,133"/>
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_mesh_buffer.html" title="Template implementation of the IMeshBuffer interface. " alt="" coords="1409,136,1602,163"/>
+<area shape="rect" id="node8" href="$classirr_1_1video_1_1_s_material.html" title="Struct for holding parameters for a material renderer. " alt="" coords="1013,107,1147,133"/>
+<area shape="rect" id="node9" href="$classirr_1_1video_1_1_s_color.html" title="Class representing a 32 bit ARGB color. " alt="" coords="637,196,757,223"/>
+<area shape="rect" id="node10" href="$classirr_1_1video_1_1_s_material_layer.html" title="Struct for holding material parameters which exist per texture layer. " alt="" coords="614,107,781,133"/>
+<area shape="rect" id="node12" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="14,124,151,151"/>
+<area shape="rect" id="node13" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; T \&gt;" alt="" coords="1013,157,1147,184"/>
+<area shape="rect" id="node14" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; u16 \&gt;" alt="" coords="1006,208,1154,235"/>
+<area shape="rect" id="node15" href="$classirr_1_1core_1_1aabbox3d.html" title="irr::core::aabbox3d\l\&lt; f32 \&gt;" alt="" coords="1015,259,1145,301"/>
+<area shape="rect" id="node16" href="$classirr_1_1core_1_1vector3d.html" title="irr::core::vector3d\l\&lt; f32 \&gt;" alt="" coords="635,259,759,301"/>
+<area shape="rect" id="node17" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::CAnimatedMeshMD2\l::SMD2Vert \&gt;" alt="" coords="1406,187,1605,243"/>
+<area shape="rect" id="node18" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::CAnimatedMeshMD2\l::SKeyFrameTransform \&gt;" alt="" coords="1406,267,1605,323"/>
+<area shape="rect" id="node19" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::CAnimatedMeshMD2\l::SAnimationData \&gt;" alt="" coords="1406,347,1605,403"/>
+<area shape="rect" id="node20" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; core\l::aabbox3d\&lt; f32 \&gt; \&gt;" alt="" coords="1435,426,1575,467"/>
+</map>

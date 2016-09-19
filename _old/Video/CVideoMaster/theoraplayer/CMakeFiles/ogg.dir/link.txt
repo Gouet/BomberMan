@@ -1,0 +1,2 @@
+/usr/bin/ar cr libogg.a  CMakeFiles/ogg.dir/ogg/src/framing.c.o CMakeFiles/ogg.dir/ogg/src/bitwise.c.o
+/usr/bin/ranlib libogg.a

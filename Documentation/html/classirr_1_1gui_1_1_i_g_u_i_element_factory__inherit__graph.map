@@ -1,0 +1,4 @@
+<map id="irr::gui::IGUIElementFactory" name="irr::gui::IGUIElementFactory">
+<area shape="rect" id="node3" href="$classirr_1_1gui_1_1_c_g_u_i_edit_factory.html" title="Interface making it possible to dynamicly create gui elements. " alt="" coords="15,155,181,181"/>
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="21,5,175,32"/>
+</map>

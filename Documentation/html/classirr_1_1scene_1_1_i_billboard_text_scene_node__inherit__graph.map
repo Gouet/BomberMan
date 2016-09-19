@@ -1,0 +1,7 @@
+<map id="irr::scene::IBillboardTextSceneNode" name="irr::scene::IBillboardTextSceneNode">
+<area shape="rect" id="node6" href="$classirr_1_1scene_1_1_c_billboard_text_scene_node.html" title="irr::scene::CBillboardText\lSceneNode" alt="" coords="23,411,193,453"/>
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_billboard_scene_node.html" title="A billboard scene node. " alt="" coords="5,245,211,272"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_scene_node.html" title="Scene node interface. " alt="" coords="30,171,185,197"/>
+<area shape="rect" id="node4" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="18,81,197,122"/>
+<area shape="rect" id="node5" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="31,5,184,32"/>
+</map>

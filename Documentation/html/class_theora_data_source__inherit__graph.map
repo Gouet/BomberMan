@@ -1,0 +1,5 @@
+<map id="TheoraDataSource" name="TheoraDataSource">
+<area shape="rect" id="node2" href="$class_april_video_data_source.html" title="AprilVideoDataSource" alt="" coords="5,80,155,107"/>
+<area shape="rect" id="node3" href="$class_theora_file_data_source.html" title="TheoraFileDataSource" alt="" coords="180,80,332,107"/>
+<area shape="rect" id="node4" href="$class_theora_memory_file_data_source.html" title="TheoraMemoryFileDataSource" alt="" coords="357,80,555,107"/>
+</map>

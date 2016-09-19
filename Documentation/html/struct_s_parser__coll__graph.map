@@ -1,0 +1,20 @@
+<map id="SParser" name="SParser">
+<area shape="rect" id="node2" href="$struct_dyndata.html" title="Dyndata" alt="" coords="330,679,400,705"/>
+<area shape="rect" id="node3" href="$struct_labellist.html" title="Labellist" alt="" coords="235,557,305,584"/>
+<area shape="rect" id="node4" href="$struct_labeldesc.html" title="Labeldesc" alt="" coords="230,399,311,425"/>
+<area shape="rect" id="node5" href="$struct_t_string.html" title="TString" alt="" coords="104,211,168,237"/>
+<area shape="rect" id="node12" href="$structglobal___state.html" title="global_State" alt="" coords="425,557,519,584"/>
+<area shape="rect" id="node13" href="$structstringtable.html" title="stringtable" alt="" coords="5,399,87,425"/>
+<area shape="rect" id="node6" href="$struct_vardesc.html" title="Vardesc" alt="" coords="330,557,400,584"/>
+<area shape="rect" id="node7" href="$struct_zio.html" title="Zio" alt="" coords="527,785,565,812"/>
+<area shape="rect" id="node8" href="$structlua___state.html" title="lua_State" alt="" coords="669,679,745,705"/>
+<area shape="rect" id="node18" href="$struct_call_info.html" title="CallInfo" alt="" coords="717,785,784,812"/>
+<area shape="rect" id="node9" href="$struct_up_val.html" title="UpVal" alt="" coords="671,160,728,187"/>
+<area shape="rect" id="node10" href="$structlua___t_value.html" title="lua_TValue" alt="" coords="547,5,633,32"/>
+<area shape="rect" id="node14" href="$struct_table.html" title="Table" alt="" coords="391,399,445,425"/>
+<area shape="rect" id="node15" href="$struct_node.html" title="Node" alt="" coords="481,211,535,237"/>
+<area shape="rect" id="node16" href="$union_t_key.html" title="TKey" alt="" coords="564,109,617,136"/>
+<area shape="rect" id="node11" href="$structlua__longjmp.html" title="lua_longjmp" alt="" coords="771,557,861,584"/>
+<area shape="rect" id="node17" href="$struct_g_c_object.html" title="GCObject" alt="" coords="559,211,637,237"/>
+<area shape="rect" id="node19" href="$struct_mbuffer.html" title="Mbuffer" alt="" coords="591,785,657,812"/>
+</map>

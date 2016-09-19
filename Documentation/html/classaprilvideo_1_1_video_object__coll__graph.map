@@ -1,0 +1,10 @@
+<map id="aprilvideo::VideoObject" name="aprilvideo::VideoObject">
+<area shape="rect" id="node3" href="$class_theora_timer.html" title="TheoraTimer" alt="" coords="185,15,279,41"/>
+<area shape="rect" id="node4" href="$class_theora_video_clip.html" title="TheoraVideoClip" alt="" coords="506,152,625,179"/>
+<area shape="rect" id="node5" href="$class_theora_audio_interface.html" title="TheoraAudioInterface" alt="" coords="781,129,928,156"/>
+<area shape="rect" id="node7" href="$class_theora_frame_queue.html" title="TheoraFrameQueue" alt="" coords="786,243,923,269"/>
+<area shape="rect" id="node6" href="$class_theora_mutex.html" title="TheoraMutex" alt="" coords="183,265,281,292"/>
+<area shape="rect" id="node8" href="$class_theora_worker_thread.html" title="TheoraWorkerThread" alt="" coords="160,109,304,136"/>
+<area shape="rect" id="node9" href="$class_theora_thread.html" title="TheoraThread" alt="" coords="6,109,109,136"/>
+<area shape="rect" id="node10" href="$class_theora_data_source.html" title="TheoraDataSource" alt="" coords="167,160,297,187"/>
+</map>

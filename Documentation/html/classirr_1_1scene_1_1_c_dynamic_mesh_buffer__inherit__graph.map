@@ -1,0 +1,5 @@
+<map id="irr::scene::CDynamicMeshBuffer" name="irr::scene::CDynamicMeshBuffer">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_dynamic_mesh_buffer.html" title="irr::scene::IDynamicMesh\lBuffer" alt="" coords="9,155,180,197"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_mesh_buffer.html" title="Struct for holding a mesh with a single material. " alt="" coords="17,80,171,107"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="17,5,171,32"/>
+</map>

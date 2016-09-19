@@ -1,0 +1,18 @@
+<map id="irr::io::CNumbersAttribute" name="irr::io::CNumbersAttribute">
+<area shape="rect" id="node4" href="$classirr_1_1io_1_1_c_b_box_attribute.html" title="irr::io::CBBoxAttribute" alt="" coords="609,5,759,32"/>
+<area shape="rect" id="node5" href="$classirr_1_1io_1_1_c_color_attribute.html" title="irr::io::CColorAttribute" alt="" coords="609,56,759,83"/>
+<area shape="rect" id="node6" href="$classirr_1_1io_1_1_c_colorf_attribute.html" title="irr::io::CColorfAttribute" alt="" coords="607,107,761,133"/>
+<area shape="rect" id="node7" href="$classirr_1_1io_1_1_c_dimension2d_attribute.html" title="irr::io::CDimension2dAttribute" alt="" coords="587,157,781,184"/>
+<area shape="rect" id="node8" href="$classirr_1_1io_1_1_c_line2d_attribute.html" title="irr::io::CLine2dAttribute" alt="" coords="606,208,762,235"/>
+<area shape="rect" id="node9" href="$classirr_1_1io_1_1_c_line3d_attribute.html" title="irr::io::CLine3dAttribute" alt="" coords="606,259,762,285"/>
+<area shape="rect" id="node10" href="$classirr_1_1io_1_1_c_matrix_attribute.html" title="irr::io::CMatrixAttribute" alt="" coords="607,309,761,336"/>
+<area shape="rect" id="node11" href="$classirr_1_1io_1_1_c_plane_attribute.html" title="irr::io::CPlaneAttribute" alt="" coords="609,360,759,387"/>
+<area shape="rect" id="node12" href="$classirr_1_1io_1_1_c_position2_d_attribute.html" title="irr::io::CPosition2DAttribute" alt="" coords="593,411,775,437"/>
+<area shape="rect" id="node13" href="$classirr_1_1io_1_1_c_quaternion_attribute.html" title="irr::io::CQuaternionAttribute" alt="" coords="593,461,775,488"/>
+<area shape="rect" id="node14" href="$classirr_1_1io_1_1_c_rect_attribute.html" title="irr::io::CRectAttribute" alt="" coords="611,512,757,539"/>
+<area shape="rect" id="node15" href="$classirr_1_1io_1_1_c_triangle_attribute.html" title="irr::io::CTriangleAttribute" alt="" coords="602,563,766,589"/>
+<area shape="rect" id="node16" href="$classirr_1_1io_1_1_c_vector2_d_attribute.html" title="irr::io::CVector2DAttribute" alt="" coords="597,613,771,640"/>
+<area shape="rect" id="node17" href="$classirr_1_1io_1_1_c_vector3_d_attribute.html" title="irr::io::CVector3DAttribute" alt="" coords="597,664,771,691"/>
+<area shape="rect" id="node2" href="$classirr_1_1io_1_1_i_attribute.html" title="irr::io::IAttribute" alt="" coords="208,335,320,361"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,335,160,361"/>
+</map>

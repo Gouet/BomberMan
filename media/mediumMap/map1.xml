@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<config>
+
+    <target px="0" py="0" pz="0" />
+    <!-- <camera px="0" py="345" pz="-95" fov="0.85521" /> -->
+    <!-- <camera px="0" py="363.8" pz="-59.8" fov="0.85756" /> -->
+    <camera px="0" py="500" pz="-200" fov="0.85756" />
+    <size size="1" />
+
+    <spawn px="1" py="1" />
+    <spawn px="11" py="11" />
+    <spawn px="11" py="1" />
+    <spawn px="1" py="11" />
+
+    <ambient_light r="1" g="0.824" b="0.573" a="1" />
+    <!-- <ambient_light r="1" g="0.693" b="0.341" a="1" /> -->
+
+    <meshes_dir file="./media/mediumMap/meshes/" />
+    <textures_dir file="./media/mediumMap/textures/" />
+
+    <props mesh="floor.md3" texture="floor.BMP" sx="20" sy="20" sz="20" />
+    <props mesh="pillar.md3" texture="pillar.TGA" sx="20" sy="20" sz="20" />
+    <props mesh="pillar2.md3" texture="pillar2.TGA" sx="20" sy="20" sz="20" />
+    <props mesh="pillar3.md3" texture="pillar3.TGA" sx="20" sy="20" sz="20" />
+    <props mesh="rock.md3" texture="rock.TGA" sx="20" sy="20" sz="20" />
+    <props mesh="wall.md3" texture="wall.TGA" sx="20" sy="20" sz="20" />
+    <props mesh="floor_trim.md3" texture="floor_trim.BMP" sx="20" sy="20" sz="20" />
+    <props mesh="fern.md3" texture="fern.TGA" transparent="1" sx="20" sy="20" sz="20" />
+    <props mesh="tree.md3" texture="tree.TGA" transparent="1" sx="20" sy="20" sz="20" />
+    <props mesh="statue.md3" texture="statue.TGA" sx="20" sy="20" sz="20" />
+    <props mesh="statue1.md3" texture="statue1.TGA" sx="20" sy="20" sz="20" />
+    <props mesh="pine.md3" texture="pine.TGA" />
+
+    <walls
+            mesh1="edge.md2"
+            texture1="pillar.png"
+            mesh2="edge.md2"
+            texture2="pillar.png"
+            mesh3="edge.md2"
+            texture3="pillar.png"
+    />
+</config>

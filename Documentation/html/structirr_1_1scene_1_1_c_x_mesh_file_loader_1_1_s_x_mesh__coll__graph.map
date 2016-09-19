@@ -1,0 +1,9 @@
+<map id="irr::scene::CXMeshFileLoader::SXMesh" name="irr::scene::CXMeshFileLoader::SXMesh">
+<area shape="rect" id="node2" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; core\l::vector2df \&gt;" alt="" coords="43,5,183,46"/>
+<area shape="rect" id="node3" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; scene\l::irr::scene::SSkinMeshBuffer * \&gt;" alt="" coords="6,70,221,111"/>
+<area shape="rect" id="node4" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="41,136,185,163"/>
+<area shape="rect" id="node5" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; u32 \&gt;" alt="" coords="39,205,187,232"/>
+<area shape="rect" id="node6" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; video\l::SMaterial \&gt;" alt="" coords="40,257,187,298"/>
+<area shape="rect" id="node7" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; u16 \&gt;" alt="" coords="39,323,187,349"/>
+<area shape="rect" id="node8" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; video\l::S3DVertex \&gt;" alt="" coords="40,374,187,415"/>
+</map>

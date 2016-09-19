@@ -1,0 +1,33 @@
+<map id="/home/veyrie_f/Documents/cpp_indie_studio/_old/Video/CVideoMaster/theoraplayer/demos" name="/home/veyrie_f/Documents/cpp_indie_studio/_old/Video/CVideoMaster/theoraplayer/demos">
+<area shape="rect" id="node3" href="dir_d8667c3eb2d654a88ff254b7570217b9.html" title="basecode" alt="" coords="99,159,177,207"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000011_000012.html" title="1" alt="" coords="115,131,123,146"/>
+<area shape="rect" id="node5" href="dir_27f70a8bdfe73074f163ef572a6f8a42.html" title="dependencies" alt="" coords="87,255,189,303"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000011_000036.html" title="5" alt="" coords="108,228,116,242"/>
+<area shape="rect" id="node2" href="dir_be9cd673b948f55da62d932bd3e9f55f.html" title="av_player" alt="" coords="134,63,212,111"/>
+<area shape="rect" id="node15" href="dir_119a820418fdf0f77c3bf75901fbc97c.html" title="theoraplayer" alt="" coords="1436,255,1529,303"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000029_000075.html" title="1" alt="" coords="1417,239,1425,253"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000012_000036.html" title="1" alt="" coords="143,229,151,244"/>
+<area shape="rect" id="node4" href="dir_c27f882da9c07c973e76b7d3e21654ff.html" title="composite_animation" alt="" coords="237,63,381,111"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000035_000075.html" title="2" alt="" coords="1417,239,1425,253"/>
+<area shape="rect" id="node6" href="dir_20a6640e8e67dd40f4a97b1296687892.html" title="environment_mapping" alt="" coords="407,63,555,111"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000047_000075.html" title="2" alt="" coords="1417,239,1425,253"/>
+<area shape="rect" id="node7" href="dir_9380cd25f3264cdecc2e14ec27d92013.html" title="glut_player" alt="" coords="580,63,665,111"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000048_000075.html" title="2" alt="" coords="1417,239,1425,253"/>
+<area shape="rect" id="node8" href="dir_7d5570d73cee9844bc37eb2b62f603e9.html" title="lightmap_demo" alt="" coords="690,63,800,111"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000049_000075.html" title="2" alt="" coords="1417,239,1425,253"/>
+<area shape="rect" id="node9" href="dir_dc4f5982a0eeede252d863e33531e228.html" title="multiple_videos" alt="" coords="825,63,936,111"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000050_000075.html" title="2" alt="" coords="1417,239,1425,253"/>
+<area shape="rect" id="node10" href="dir_591b59eb510fad964debd7d9510c821f.html" title="parallax_mapping" alt="" coords="287,159,409,207"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000051_000036.html" title="2" alt="" coords="206,248,214,262"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000051_000075.html" title="2" alt="" coords="1417,239,1425,253"/>
+<area shape="rect" id="node11" href="dir_46001888646ff9da2270afffb809edf7.html" title="seek_test" alt="" coords="962,63,1040,111"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000052_000075.html" title="2" alt="" coords="1417,239,1425,254"/>
+<area shape="rect" id="node12" href="dir_2258e37b060fd8bd062dd90f96b812df.html" title="sprite_animation" alt="" coords="1065,63,1181,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000053_000075.html" title="2" alt="" coords="1419,235,1427,250"/>
+<area shape="rect" id="node13" href="dir_ec21f76c53ba89811d469d180686178e.html" title="tv_room" alt="" coords="1207,63,1279,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000054_000075.html" title="2" alt="" coords="1441,229,1449,244"/>
+<area shape="rect" id="node14" href="dir_d7cbd7c671a7b4b01e996960a640fc84.html" title="video_lighting" alt="" coords="1303,63,1404,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000055_000075.html" title="2" alt="" coords="1460,227,1468,242"/>
+<area shape="rect" id="clust2" href="dir_a27bf63c8957fe0b9a13137a3fb421b0.html" alt="" coords="27,52,1415,313"/>
+<area shape="rect" id="clust1" href="dir_0360555232882ff137c63602f3d8eceb.html" title="theoraplayer" alt="" coords="16,16,1425,324"/>
+</map>

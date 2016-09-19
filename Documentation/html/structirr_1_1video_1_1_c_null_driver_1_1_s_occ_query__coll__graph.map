@@ -1,0 +1,12 @@
+<map id="irr::video::CNullDriver::SOccQuery" name="irr::video::CNullDriver::SOccQuery">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_mesh.html" title="Class which holds the geometry of an object. " alt="" coords="453,5,573,32"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,76,160,103"/>
+<area shape="rect" id="node5" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="230,37,410,78"/>
+<area shape="rect" id="node9" href="$classirr_1_1scene_1_1_i_triangle_selector.html" title="Interface to return triangles with specific properties. " alt="" coords="229,103,411,129"/>
+<area shape="rect" id="node10" href="$classirr_1_1scene_1_1_i_scene_manager.html" title="The Scene Manager manages scene nodes, mesh recources, cameras and all the other stuff. " alt="" coords="233,153,407,180"/>
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_i_scene_node.html" title="Scene node interface. " alt="" coords="598,180,754,207"/>
+<area shape="rect" id="node6" href="$classirr_1_1core_1_1list.html" title="irr::core::list\&lt; irr\l::scene::ISceneNodeAnimator * \&gt;" alt="" coords="211,205,429,246"/>
+<area shape="rect" id="node7" href="$classirr_1_1core_1_1vector3d.html" title="irr::core::vector3d\l\&lt; f32 \&gt;" alt="" coords="258,270,382,311"/>
+<area shape="rect" id="node8" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="248,336,392,363"/>
+<area shape="rect" id="node11" href="$classirr_1_1core_1_1list.html" title="irr::core::list\&lt; irr\l::scene::ISceneNode * \&gt;" alt="" coords="237,387,403,429"/>
+</map>

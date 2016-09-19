@@ -1,0 +1,9 @@
+<map id="irr::CFontTool" name="irr::CFontTool">
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,24,160,51"/>
+<area shape="rect" id="node3" href="$classirr_1_1_irrlicht_device.html" title="The Irrlicht device. You can create it with createDevice() or createDeviceEx(). " alt="" coords="238,53,357,80"/>
+<area shape="rect" id="node4" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; core\l::stringw \&gt;" alt="" coords="227,105,367,146"/>
+<area shape="rect" id="node5" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; video\l::IImage * \&gt;" alt="" coords="224,170,371,211"/>
+<area shape="rect" id="node6" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; video\l::ITexture * \&gt;" alt="" coords="224,235,371,277"/>
+<area shape="rect" id="node7" href="$classirr_1_1core_1_1map.html" title="irr::core::map\&lt; wchar\l_t, u32 \&gt;" alt="" coords="224,301,371,342"/>
+<area shape="rect" id="node8" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::CFontTool::SFontArea \&gt;" alt="" coords="211,366,384,407"/>
+</map>

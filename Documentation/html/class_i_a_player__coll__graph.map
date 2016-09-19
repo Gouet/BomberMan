@@ -1,0 +1,6 @@
+<map id="IAPlayer" name="IAPlayer">
+<area shape="rect" id="node2" href="$class_a_character.html" title="ACharacter" alt="" coords="13,160,101,187"/>
+<area shape="rect" id="node3" href="$class_a_game_object.html" title="AGameObject" alt="" coords="5,83,109,109"/>
+<area shape="rect" id="node4" href="$class_i_serialize.html" title="ISerialize" alt="" coords="19,5,95,32"/>
+<area shape="rect" id="node5" href="$class_lua_1_1_lua_handler.html" title="LuaHandler that allow the user use functions of a Lua script in C++. " alt="" coords="125,160,241,187"/>
+</map>

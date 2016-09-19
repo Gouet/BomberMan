@@ -1,0 +1,31 @@
+<map id="AGameObject" name="AGameObject">
+<area shape="rect" id="node3" href="$class_a_bomb.html" title="ABomb" alt="" coords="294,157,359,184"/>
+<area shape="rect" id="node10" href="$class_a_bonus.html" title="ABonus" alt="" coords="293,563,361,589"/>
+<area shape="rect" id="node21" href="$class_a_character.html" title="ACharacter" alt="" coords="283,841,371,868"/>
+<area shape="rect" id="node24" href="$class_a_item.html" title="AItem" alt="" coords="298,892,355,919"/>
+<area shape="rect" id="node27" href="$class_explosion.html" title="Explosion" alt="" coords="287,943,366,969"/>
+<area shape="rect" id="node28" href="$class_props.html" title="Props" alt="" coords="299,993,355,1020"/>
+<area shape="rect" id="node29" href="$class_wall.html" title="Wall" alt="" coords="303,1044,351,1071"/>
+<area shape="rect" id="node30" href="$class_wall_of_end.html" title="WallOfEnd" alt="" coords="284,1095,369,1121"/>
+<area shape="rect" id="node2" href="$class_i_serialize.html" title="ISerialize" alt="" coords="6,917,82,944"/>
+<area shape="rect" id="node4" href="$class_atomic_bomb.html" title="AtomicBomb" alt="" coords="439,5,537,32"/>
+<area shape="rect" id="node5" href="$class_fire_bomb.html" title="FireBomb" alt="" coords="449,56,527,83"/>
+<area shape="rect" id="node6" href="$class_frag_bomb.html" title="FragBomb" alt="" coords="447,107,529,133"/>
+<area shape="rect" id="node7" href="$class_mine_bomb.html" title="MineBomb" alt="" coords="446,157,530,184"/>
+<area shape="rect" id="node8" href="$class_mini_bomb.html" title="MiniBomb" alt="" coords="448,208,528,235"/>
+<area shape="rect" id="node9" href="$class_tracker_bomb.html" title="TrackerBomb" alt="" coords="438,259,538,285"/>
+<area shape="rect" id="node11" href="$class_bonus_atomic_bomb.html" title="BonusAtomicBomb" alt="" coords="421,309,555,336"/>
+<area shape="rect" id="node12" href="$class_bonus_biggest_man.html" title="BonusBiggestMan" alt="" coords="424,360,552,387"/>
+<area shape="rect" id="node13" href="$class_bonus_bomb_pass.html" title="BonusBombPass" alt="" coords="427,411,549,437"/>
+<area shape="rect" id="node14" href="$class_bonus_fire_bomb.html" title="BonusFireBomb" alt="" coords="431,461,545,488"/>
+<area shape="rect" id="node15" href="$class_bonus_frag_bomb.html" title="BonusFragBomb" alt="" coords="429,512,547,539"/>
+<area shape="rect" id="node16" href="$class_bonus_invincible.html" title="BonusInvincible" alt="" coords="431,563,545,589"/>
+<area shape="rect" id="node17" href="$class_bonus_power.html" title="BonusPower" alt="" coords="440,613,536,640"/>
+<area shape="rect" id="node18" href="$class_bonus_smallest_man.html" title="BonusSmallestMan" alt="" coords="421,664,555,691"/>
+<area shape="rect" id="node19" href="$class_bonus_speed.html" title="BonusSpeed" alt="" coords="440,715,536,741"/>
+<area shape="rect" id="node20" href="$class_bonus_tracker_bomb.html" title="BonusTrackerBomb" alt="" coords="419,765,557,792"/>
+<area shape="rect" id="node22" href="$class_i_a_player.html" title="IAPlayer" alt="" coords="452,816,524,843"/>
+<area shape="rect" id="node23" href="$class_player.html" title="Player" alt="" coords="459,867,517,893"/>
+<area shape="rect" id="node25" href="$class_item_mine_bomb.html" title="ItemMineBomb" alt="" coords="433,917,543,944"/>
+<area shape="rect" id="node26" href="$class_item_throw.html" title="ItemThrow" alt="" coords="446,968,530,995"/>
+</map>

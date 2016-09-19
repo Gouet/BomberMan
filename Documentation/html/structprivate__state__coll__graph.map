@@ -1,0 +1,17 @@
+<map id="private_state" name="private_state">
+<area shape="rect" id="node2" href="$structbitrate__manager__state.html" title="bitrate_manager_state" alt="" coords="595,104,746,131"/>
+<area shape="rect" id="node3" href="$structvorbis__block.html" title="vorbis_block" alt="" coords="385,95,479,121"/>
+<area shape="rect" id="node4" href="$structalloc__chain.html" title="alloc_chain" alt="" coords="173,44,259,71"/>
+<area shape="rect" id="node5" href="$structoggpack__buffer.html" title="oggpack_buffer" alt="" coords="161,95,271,121"/>
+<area shape="rect" id="node6" href="$structvorbis__dsp__state.html" title="vorbis_dsp_state" alt="" coords="155,145,277,172"/>
+<area shape="rect" id="node7" href="$structvorbis__info.html" title="vorbis_info" alt="" coords="5,145,91,172"/>
+<area shape="rect" id="node8" href="$structvorbis__look__psy.html" title="vorbis_look_psy" alt="" coords="613,161,729,188"/>
+<area shape="rect" id="node9" href="$structvorbis__info__psy.html" title="vorbis_info_psy" alt="" coords="375,145,489,172"/>
+<area shape="rect" id="node10" href="$structenvelope__lookup.html" title="envelope_lookup" alt="" coords="611,224,730,251"/>
+<area shape="rect" id="node11" href="$structenvelope__band.html" title="envelope_band" alt="" coords="377,196,487,223"/>
+<area shape="rect" id="node12" href="$structmdct__lookup.html" title="mdct_lookup" alt="" coords="384,247,480,273"/>
+<area shape="rect" id="node13" href="$structenvelope__filter__state.html" title="envelope_filter_state" alt="" coords="361,297,503,324"/>
+<area shape="rect" id="node14" href="$structdrft__lookup.html" title="drft_lookup" alt="" coords="627,275,714,301"/>
+<area shape="rect" id="node15" href="$structvorbis__look__psy__global.html" title="vorbis_look_psy_global" alt="" coords="592,336,749,363"/>
+<area shape="rect" id="node16" href="$structvorbis__info__psy__global.html" title="vorbis_info_psy_global" alt="" coords="355,348,509,375"/>
+</map>

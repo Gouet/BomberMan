@@ -1,0 +1,6 @@
+<map id="MiniBomb" name="MiniBomb">
+<area shape="rect" id="node2" href="$class_a_bomb.html" title="ABomb" alt="" coords="129,189,193,216"/>
+<area shape="rect" id="node3" href="$class_a_game_object.html" title="AGameObject" alt="" coords="5,91,109,117"/>
+<area shape="rect" id="node4" href="$class_i_serialize.html" title="ISerialize" alt="" coords="19,5,95,32"/>
+<area shape="rect" id="node5" href="$classirr_1_1core_1_1vector2d.html" title="irr::core::vector2d\l\&lt; f32 \&gt;" alt="" coords="134,83,257,125"/>
+</map>

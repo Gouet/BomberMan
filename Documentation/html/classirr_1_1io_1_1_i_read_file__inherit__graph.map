@@ -1,0 +1,7 @@
+<map id="irr::io::IReadFile" name="irr::io::IReadFile">
+<area shape="rect" id="node3" href="$classirr_1_1io_1_1_c_limit_read_file.html" title="irr::io::CLimitReadFile" alt="" coords="396,5,545,32"/>
+<area shape="rect" id="node4" href="$classirr_1_1io_1_1_c_memory_file.html" title="irr::io::CMemoryFile" alt="" coords="402,56,539,83"/>
+<area shape="rect" id="node5" href="$classirr_1_1io_1_1_c_memory_read_write_file.html" title="Provides write acess to an array as if it is a file. " alt="" coords="371,107,570,133"/>
+<area shape="rect" id="node6" href="$classirr_1_1io_1_1_c_read_file.html" title="irr::io::CReadFile" alt="" coords="410,157,531,184"/>
+<area shape="rect" id="node2" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,81,160,108"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="/home/veyrie_f/Documents/cpp_indie_studio/_old/Video/Video.cpp" name="/home/veyrie_f/Documents/cpp_indie_studio/_old/Video/Video.cpp">
+<area shape="rect" id="node2" href="$_video_8hpp.html" title="Video.hpp" alt="" coords="522,109,600,136"/>
+<area shape="rect" id="node10" href="$irr_klang_8h.html" title="Main header file of the irrKlang sound library, the only file needed to include. " alt="" coords="942,185,1066,226"/>
+<area shape="rect" id="node11" href="$ik__irr_klang_types_8h.html" title="ik_irrKlangTypes.h" alt="" coords="866,573,995,600"/>
+<area shape="rect" id="node13" href="$ik__vec3d_8h.html" title="ik_vec3d.h" alt="" coords="255,499,340,525"/>
+<area shape="rect" id="node15" href="$ik___i_ref_counted_8h.html" title="ik_IRefCounted.h" alt="" coords="1146,499,1270,525"/>
+<area shape="rect" id="node16" href="$ik___i_virtual_ref_counted_8h.html" title="ik_IVirtualRefCounted.h" alt="" coords="585,499,746,525"/>
+<area shape="rect" id="node17" href="$ik___e_sound_output_drivers_8h.html" title="ik_ESoundOutputDrivers.h" alt="" coords="188,275,364,301"/>
+<area shape="rect" id="node18" href="$ik___e_sound_engine_options_8h.html" title="ik_ESoundEngineOptions.h" alt="" coords="390,275,571,301"/>
+<area shape="rect" id="node19" href="$ik___e_stream_modes_8h.html" title="ik_EStreamModes.h" alt="" coords="386,424,526,451"/>
+<area shape="rect" id="node20" href="$ik___s_audio_stream_format_8h.html" title="ik_SAudioStreamFormat.h" alt="" coords="1272,424,1446,451"/>
+<area shape="rect" id="node21" href="$ik___i_sound_engine_8h.html" title="ik_ISoundEngine.h" alt="" coords="595,275,724,301"/>
+<area shape="rect" id="node22" href="$ik___i_sound_source_8h.html" title="ik_ISoundSource.h" alt="" coords="600,349,731,376"/>
+<area shape="rect" id="node23" href="$ik___i_sound_8h.html" title="ik_ISound.h" alt="" coords="86,349,176,376"/>
+<area shape="rect" id="node24" href="$ik___i_sound_effect_control_8h.html" title="ik_ISoundEffectControl.h" alt="" coords="42,424,210,451"/>
+<area shape="rect" id="node25" href="$ik___i_file_factory_8h.html" title="ik_IFileFactory.h" alt="" coords="858,349,976,376"/>
+<area shape="rect" id="node26" href="$ik___i_sound_mixed_output_receiver_8h.html" title="ik_ISoundMixedOutputReceiver.h" alt="" coords="1053,349,1270,376"/>
+<area shape="rect" id="node27" href="$ik___i_audio_stream_8h.html" title="ik_IAudioStream.h" alt="" coords="1397,349,1526,376"/>
+<area shape="rect" id="node28" href="$ik___i_audio_stream_loader_8h.html" title="ik_IAudioStreamLoader.h" alt="" coords="1683,275,1851,301"/>
+<area shape="rect" id="node29" href="$ik___i_file_reader_8h.html" title="ik_IFileReader.h" alt="" coords="1830,349,1946,376"/>
+<area shape="rect" id="node30" href="$ik___i_sound_stop_event_receiver_8h.html" title="ik_ISoundStopEventReceiver.h" alt="" coords="1550,349,1754,376"/>
+<area shape="rect" id="node31" href="$ik___i_sound_device_list_8h.html" title="ik_ISoundDeviceList.h" alt="" coords="977,424,1130,451"/>
+<area shape="rect" id="node32" href="$ik___i_audio_recorder_8h.html" title="ik_IAudioRecorder.h" alt="" coords="801,275,940,301"/>
+</map>

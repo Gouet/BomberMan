@@ -1,0 +1,4 @@
+<map id="irr::video::S3DVertex" name="irr::video::S3DVertex">
+<area shape="rect" id="node2" href="$structirr_1_1video_1_1_s3_d_vertex2_t_coords.html" title="Vertex with two texture coordinates. " alt="" coords="5,80,205,107"/>
+<area shape="rect" id="node3" href="$structirr_1_1video_1_1_s3_d_vertex_tangents.html" title="Vertex with a tangent and binormal vector. " alt="" coords="230,80,428,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="irr::scene::CTriangleBBSelector" name="irr::scene::CTriangleBBSelector">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_c_triangle_selector.html" title="Stupid triangle selector without optimization. " alt="" coords="14,155,201,181"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_triangle_selector.html" title="Interface to return triangles with specific properties. " alt="" coords="17,80,199,107"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="31,5,184,32"/>
+</map>

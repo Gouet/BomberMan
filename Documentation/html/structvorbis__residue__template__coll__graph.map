@@ -1,0 +1,5 @@
+<map id="vorbis_residue_template" name="vorbis_residue_template">
+<area shape="rect" id="node2" href="$structstatic__codebook.html" title="static_codebook" alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node3" href="$structstatic__bookblock.html" title="static_bookblock" alt="" coords="144,97,264,124"/>
+<area shape="rect" id="node4" href="$structvorbis__info__residue0.html" title="vorbis_info_residue0" alt="" coords="293,97,433,124"/>
+</map>

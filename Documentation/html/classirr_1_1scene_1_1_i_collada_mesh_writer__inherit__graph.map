@@ -1,0 +1,5 @@
+<map id="irr::scene::IColladaMeshWriter" name="irr::scene::IColladaMeshWriter">
+<area shape="rect" id="node4" href="$classirr_1_1scene_1_1_c_collada_mesh_writer.html" title="class to write meshes, implementing a COLLADA (.dae, .xml) writer " alt="" coords="5,246,176,287"/>
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_mesh_writer.html" title="Interface for writing meshes. " alt="" coords="13,80,167,107"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="13,5,167,32"/>
+</map>

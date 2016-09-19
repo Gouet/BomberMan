@@ -1,0 +1,7 @@
+<map id="irr::scene::SMesh" name="irr::scene::SMesh">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_mesh.html" title="Class which holds the geometry of an object. " alt="" coords="287,5,407,32"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node4" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::IMeshBuffer * \&gt;" alt="" coords="264,57,429,98"/>
+<area shape="rect" id="node5" href="$classirr_1_1core_1_1aabbox3d.html" title="irr::core::aabbox3d\l\&lt; f32 \&gt;" alt="" coords="281,122,412,163"/>
+<area shape="rect" id="node6" href="$classirr_1_1core_1_1vector3d.html" title="irr::core::vector3d\l\&lt; f32 \&gt;" alt="" coords="21,122,145,163"/>
+</map>

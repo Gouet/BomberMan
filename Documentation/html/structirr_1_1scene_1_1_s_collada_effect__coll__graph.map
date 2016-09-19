@@ -1,0 +1,11 @@
+<map id="irr::scene::SColladaEffect" name="irr::scene::SColladaEffect">
+<area shape="rect" id="node2" href="$classirr_1_1video_1_1_s_material.html" title="Struct for holding parameters for a material renderer. " alt="" coords="885,80,1019,107"/>
+<area shape="rect" id="node3" href="$classirr_1_1video_1_1_s_color.html" title="Class representing a 32 bit ARGB color. " alt="" coords="603,80,723,107"/>
+<area shape="rect" id="node4" href="$classirr_1_1video_1_1_s_material_layer.html" title="Struct for holding material parameters which exist per texture layer. " alt="" coords="579,11,746,37"/>
+<area shape="rect" id="node5" href="$classirr_1_1video_1_1_i_texture.html" title="Interface of a Video Driver dependent Texture. " alt="" coords="283,23,411,49"/>
+<area shape="rect" id="node6" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,88,160,115"/>
+<area shape="rect" id="node9" href="$classirr_1_1io_1_1_i_attributes.html" title="Provides a generic interface for attributes and their values and the possiblity to serialize them..." alt="" coords="435,109,554,136"/>
+<area shape="rect" id="node7" href="$structirr_1_1io_1_1_s_named_path.html" title="Used in places where we identify objects by a filename, but don&#39;t actually work with the real filenam..." alt="" coords="14,23,151,49"/>
+<area shape="rect" id="node8" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; core\l::stringc \&gt;" alt="" coords="882,182,1022,223"/>
+<area shape="rect" id="node10" href="$classirr_1_1core_1_1string.html" title="irr::core::string\&lt; c8 \&gt;" alt="" coords="880,248,1024,275"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="irr::scene::CCameraSceneNode" name="irr::scene::CCameraSceneNode">
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_camera_scene_node.html" title="Scene Node which is a (controlable) camera. " alt="" coords="77,245,280,272"/>
+<area shape="rect" id="node3" href="$classirr_1_1scene_1_1_i_scene_node.html" title="Scene node interface. " alt="" coords="17,171,172,197"/>
+<area shape="rect" id="node4" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="5,81,184,122"/>
+<area shape="rect" id="node5" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="17,5,171,32"/>
+<area shape="rect" id="node6" href="$classirr_1_1_i_event_receiver.html" title="Interface of an object which can receive events. " alt="" coords="197,171,327,197"/>
+</map>

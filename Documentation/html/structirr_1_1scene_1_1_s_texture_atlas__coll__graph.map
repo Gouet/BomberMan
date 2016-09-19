@@ -1,0 +1,5 @@
+<map id="irr::scene::STextureAtlas" name="irr::scene::STextureAtlas">
+<area shape="rect" id="node2" href="$classirr_1_1video_1_1_i_image.html" title="Interface for software image data. " alt="" coords="229,5,349,32"/>
+<area shape="rect" id="node3" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node4" href="$classirr_1_1core_1_1array.html" title="irr::core::array\&lt; irr\l::scene::STextureAtlas\l::TextureAtlasEntry \&gt;" alt="" coords="211,56,367,112"/>
+</map>

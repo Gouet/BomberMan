@@ -1,0 +1,6 @@
+<map id="irr::scene::IAnimatedMeshSceneNode" name="irr::scene::IAnimatedMeshSceneNode">
+<area shape="rect" id="node5" href="$classirr_1_1scene_1_1_c_animated_mesh_scene_node.html" title="irr::scene::CAnimatedMesh\lSceneNode" alt="" coords="5,337,187,378"/>
+<area shape="rect" id="node2" href="$classirr_1_1scene_1_1_i_scene_node.html" title="Scene node interface. " alt="" coords="18,171,173,197"/>
+<area shape="rect" id="node3" href="$classirr_1_1io_1_1_i_attribute_exchanging_object.html" title="An object which is able to serialize and deserialize its attributes into an attributes object..." alt="" coords="6,81,185,122"/>
+<area shape="rect" id="node4" href="$classirr_1_1_i_reference_counted.html" title="Base class of most objects of the Irrlicht Engine. " alt="" coords="19,5,172,32"/>
+</map>
